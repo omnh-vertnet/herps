@@ -1,4 +1,4 @@
 herps
 =====
 
-Issue tracking for SNOMNH Herp data in the VertNet portal (portal.vertnet.org).
+Issue tracking for SNOMNH Reptile data in the VertNet portal (portal.vertnet.org).
