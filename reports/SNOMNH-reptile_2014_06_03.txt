@@ -1,0 +1,82 @@
+Report for Institution Code SNOMNH, Resource reptile
+Usage stats for May, 2014, generated on 2014/06/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 45
+Number of records retrieved in searches: 889
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Germany ; Times: 2
+	Country: Mexico ; Times: 18
+	Country: Turkey ; Times: 4
+	Country: United States ; Times: 15
+	Country: Unknown ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-05-07 ; Times: 4
+	Date: 2014-05-09 ; Times: 2
+	Date: 2014-05-11 ; Times: 7
+	Date: 2014-05-16 ; Times: 6
+	Date: 2014-05-19 ; Times: 3
+	Date: 2014-05-21 ; Times: 1
+	Date: 2014-05-22 ; Times: 2
+	Date: 2014-05-24 ; Times: 1
+	Date: 2014-05-27 ; Times: 7
+	Date: 2014-05-28 ; Times: 11
+	Date: 2014-05-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Barisia imbricata stateprovince:"Mexico"" ; Times: 1
+	Query: "eryx jaculus" ; Times: 4
+	Query: "KUNHM 12828" ; Times: 3
+	Query: "Agkistrodon type:both year <= 2014" ; Times: 5
+	Query: "KUNHM 3297" ; Times: 1
+	Query: "CAIMAN CROCODILUS ECUADOR" ; Times: 1
+	Query: "plestiodon obsoletus" ; Times: 2
+	Query: "CAIMAN CROCODILUS 2005" ; Times: 1
+	Query: "Philodryas mattogrossensis" ; Times: 2
+	Query: "Plestiodon copei" ; Times: 6
+	Query: "CAIMAN CROCODILUS 2002" ; Times: 1
+	Query: "Sceloporus goldmani" ; Times: 11
+	Query: "Agkistrodon type:both" ; Times: 1
+	Query: "CAIMAN CROCODILUS 1971" ; Times: 1
+	Query: "mud snake" ; Times: 1
+	Query: "country:"Panama" genus:Gonatodes" ; Times: 1
+	Query: "CAIMAN CROCODILUS 2009" ; Times: 1
+	Query: "type:both genus:Agkistrodon year >= 1900 year <= 2014" ; Times: 1
+	Query: "CAIMAN CROCODILUS 1997" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 0 download events in this period)
+Total number of records downloaded: 0 (out of 0 records downloaded for all resources in this period)
+Total number of unique records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 106
+Total number of records retrieved from searches: 1179
+Number of download events that retrieved data from the resource: 0
+Total number of records downloaded: 0
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 106
+Total number of records retrieved from searches: 1179
+Number of download events that retrieved data from the resource: 0
+Total number of records downloaded: 0
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
