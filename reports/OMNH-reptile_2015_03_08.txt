@@ -1,0 +1,228 @@
+Report for Institution Code OMNH, Resource reptile
+Usage stats for February, 2015, generated on 2015/03/08
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 105
+Number of records retrieved in searches: 850
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 1
+	Country: France ; Times: 3
+	Country: Germany ; Times: 1
+	Country: India ; Times: 4
+	Country: Mexico ; Times: 14
+	Country: Serbia ; Times: 1
+	Country: Sweden ; Times: 2
+	Country: United States ; Times: 78
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-02-01 ; Times: 2
+	Date: 2015-02-02 ; Times: 3
+	Date: 2015-02-03 ; Times: 9
+	Date: 2015-02-05 ; Times: 4
+	Date: 2015-02-06 ; Times: 5
+	Date: 2015-02-08 ; Times: 10
+	Date: 2015-02-09 ; Times: 6
+	Date: 2015-02-10 ; Times: 1
+	Date: 2015-02-11 ; Times: 6
+	Date: 2015-02-12 ; Times: 6
+	Date: 2015-02-13 ; Times: 2
+	Date: 2015-02-14 ; Times: 5
+	Date: 2015-02-15 ; Times: 5
+	Date: 2015-02-16 ; Times: 4
+	Date: 2015-02-17 ; Times: 6
+	Date: 2015-02-18 ; Times: 4
+	Date: 2015-02-21 ; Times: 1
+	Date: 2015-02-22 ; Times: 5
+	Date: 2015-02-23 ; Times: 5
+	Date: 2015-02-24 ; Times: 11
+	Date: 2015-02-25 ; Times: 1
+	Date: 2015-02-26 ; Times: 2
+	Date: 2015-02-27 ; Times: 1
+	Date: 2015-02-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "tantilla nigriceps" ; Times: 1
+	Query: "Tantilla atriceps" ; Times: 1
+	Query: "gopherus berlandieri stateprovince:"texas" genus:gopherus mappable:1" ; Times: 2
+	Query: "country:"Mexico" specificepithet:horridus genus:Sceloporus" ; Times: 2
+	Query: "Rhineura floridana" ; Times: 1
+	Query: "galapagos year >= 1924 year <= 1930" ; Times: 1
+	Query: "specificepithet:biserialis genus:Alsophis" ; Times: 1
+	Query: "country:"Costa rica" genus:Imantodes" ; Times: 1
+	Query: "country:"Mexico" specificepithet:iguana genus:Iguana year >= 1960" ; Times: 1
+	Query: "Leptodeira annulata Mexico" ; Times: 1
+	Query: "specificepithet:fulvius genus:micrurus year >= 1950 year <= 2015" ; Times: 2
+	Query: "country:"Nicaragua" genus:Hydromorphus" ; Times: 1
+	Query: "Bothrops asper" ; Times: 1
+	Query: "sistrurus catenatus year >= 1990" ; Times: 1
+	Query: "Trachemys county:"Brewster" stateprovince:"Texas" year <= 2015" ; Times: 1
+	Query: "Leptodeira Mexico" ; Times: 2
+	Query: "testudo" ; Times: 1
+	Query: "bistriata" ; Times: 1
+	Query: "Arthrosaura" ; Times: 1
+	Query: "specificepithet:hoodensis genus:Pseudalsophis" ; Times: 1
+	Query: "Graptemys stateprovince:"Louisiana"" ; Times: 2
+	Query: "country:"Nicaragua" genus:Leptodeira" ; Times: 1
+	Query: "manolepis putnami" ; Times: 1
+	Query: "specificepithet:mentovarius genus:Masticophis" ; Times: 1
+	Query: "country:"Ecuador" genus:Leptodeira" ; Times: 1
+	Query: "micrurus fulvius year >= 1950 year <= 2015" ; Times: 1
+	Query: "genus:Heloderma" ; Times: 2
+	Query: "Imantodes cenchoa Mexico" ; Times: 1
+	Query: "sceloporus goldmani" ; Times: 4
+	Query: "phrynosoma mcallii" ; Times: 1
+	Query: "cercosaura ocellata" ; Times: 2
+	Query: "vipera kaznakovi" ; Times: 1
+	Query: "Sceloporus spinosus tehuantepec" ; Times: 1
+	Query: "sistrurus" ; Times: 2
+	Query: "UGA" ; Times: 1
+	Query: "sceloporus torquatus" ; Times: 1
+	Query: "sceloporus graciosus new mexico" ; Times: 2
+	Query: "stateprovince:"Giza" country:"Egypt" specificepithet:vipera genus:Cerastes" ; Times: 1
+	Query: "Atropoides nummifer" ; Times: 1
+	Query: "phrynosoma cornutum dona ana county" ; Times: 1
+	Query: "regina rigida" ; Times: 5
+	Query: "country:"nicaragua" genus:Drymobius" ; Times: 1
+	Query: "specificepithet:lentiginosum genus:Rhinobothryum" ; Times: 1
+	Query: "Oxyrhopus melanogenys" ; Times: 7
+	Query: "charina "charina" (california) AND (mexico)" ; Times: 1
+	Query: "stateprovince:"Giza" country:"Egypt" specificepithet:sibilans genus:Psammophis" ; Times: 1
+	Query: "(corn snake)" ; Times: 1
+	Query: "Vipera" ; Times: 1
+	Query: "OMNH 41882" ; Times: 1
+	Query: "Trimorphodon New Mexico" ; Times: 1
+	Query: "Ctenosaura pectinata" ; Times: 1
+	Query: "thamnophis sirtalis oklahoma" ; Times: 1
+	Query: "coleonyx brevis june" ; Times: 1
+	Query: "Tupinambis" ; Times: 1
+	Query: "country:"Ecuador" genus:Imantodes" ; Times: 1
+	Query: "anolis biporcatus" ; Times: 1
+	Query: "sistrurus miliarius streckeri" ; Times: 1
+	Query: "Gopherus berlandieri stateprovince:"Texas" genus:Gopherus mappable:1" ; Times: 2
+	Query: "Phrynosoma orbiculare" ; Times: 1
+	Query: "Gopherus berlandieri stateprovince:"Texas" genus:Gopherus" ; Times: 2
+	Query: "micrurus fulvius" ; Times: 1
+	Query: "mabuya guaporicola" ; Times: 1
+	Query: "country:"Nicaragua" genus:Leptophis" ; Times: 1
+	Query: "Deirochelys reticularia" ; Times: 1
+	Query: "flavescens stateprovince:"oklahoma"" ; Times: 3
+	Query: "Thamnophis melanogaster" ; Times: 2
+	Query: "county:"Los Angeles" stateprovince:"California" specificepithet:zonata genus:Lampropeltis" ; Times: 1
+	Query: "Manolepis putnami stateprovince:Oaxaca" ; Times: 1
+	Query: "country:"Mexico" specificepithet:sagrei genus:Anolis" ; Times: 1
+	Query: "country:"Ecuador" genus:Chironius" ; Times: 1
+	Query: "country:"Nicaragua" genus:Imantodes" ; Times: 1
+	Query: "stateprovince:"Oklahoma" specificepithet:miliarius genus:Sistrurus" ; Times: 1
+	Query: "stateprovince:"Kansas" specificepithet:horridus genus:Crotalus" ; Times: 2
+	Query: "Plestiodon copei" ; Times: 1
+	Query: "Pseudocerastes" ; Times: 1
+	Query: "OMNH 26173" ; Times: 1
+	Query: "Ctenosaura acanthura country:"Mexico"" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 52 (out of 326 download events in this period)
+Total number of records downloaded: 4208 (out of 4108714 records downloaded for all resources in this period)
+Total number of unique records downloaded: 3024
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Colombia ; Times: 5
+	Country: France ; Times: 2
+	Country: Germany ; Times: 1
+	Country: India ; Times: 7
+	Country: Mexico ; Times: 4
+	Country: United States ; Times: 29
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-02-02 ; Times: 3
+	Date: 2015-02-03 ; Times: 4
+	Date: 2015-02-04 ; Times: 5
+	Date: 2015-02-05 ; Times: 5
+	Date: 2015-02-06 ; Times: 6
+	Date: 2015-02-07 ; Times: 4
+	Date: 2015-02-08 ; Times: 1
+	Date: 2015-02-09 ; Times: 1
+	Date: 2015-02-10 ; Times: 1
+	Date: 2015-02-11 ; Times: 1
+	Date: 2015-02-12 ; Times: 2
+	Date: 2015-02-13 ; Times: 6
+	Date: 2015-02-14 ; Times: 1
+	Date: 2015-02-18 ; Times: 3
+	Date: 2015-02-23 ; Times: 3
+	Date: 2015-02-24 ; Times: 2
+	Date: 2015-02-25 ; Times: 2
+	Date: 2015-02-26 ; Times: 1
+	Date: 2015-02-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "country:"Mexico" specificepithet:spinosus genus:Sceloporus" ; Times: 1
+	Query: "graptemys texas" ; Times: 1
+	Query: "xenosaurus" ; Times: 3
+	Query: "trachemys scripta elegans" ; Times: 1
+	Query: "Urosaurus bicarinatus" ; Times: 1
+	Query: "Tupinambis" ; Times: 1
+	Query: "lampropeltis zonata" ; Times: 1
+	Query: "Sceloporus occidentalis" ; Times: 1
+	Query: "Charina bottae" ; Times: 2
+	Query: "Ctenosaura similis" ; Times: 1
+	Query: "crotalus mitchelli" ; Times: 1
+	Query: "genus:Heloderma" ; Times: 2
+	Query: "Bastrop county" ; Times: 1
+	Query: "Imantodes" ; Times: 1
+	Query: "charina bottae" ; Times: 1
+	Query: "sistrurus" ; Times: 2
+	Query: "Oxybelis aeneus" ; Times: 1
+	Query: "farancia erytrogramma" ; Times: 1
+	Query: "Chalcides ocellatus" ; Times: 1
+	Query: "Boa constrictor" ; Times: 1
+	Query: "country:"Mexico" specificepithet:horridus genus:Sceloporus" ; Times: 2
+	Query: "stateprovince:"texas" genus:gopherus" ; Times: 1
+	Query: "crotalus viridis" ; Times: 1
+	Query: "trimorphodon biscutatus" ; Times: 1
+	Query: "phrynosoma mcallii" ; Times: 2
+	Query: "Graptemys stateprovince:"Louisiana"" ; Times: 1
+	Query: "gambelia wislizenii" ; Times: 1
+	Query: "crotalus scutulatus" ; Times: 1
+	Query: "oxybelis aeneus" ; Times: 1
+	Query: "Daboia" ; Times: 1
+	Query: "crotalus ruber" ; Times: 1
+	Query: "country:"Mexico" specificepithet:variabilis genus:Sceloporus" ; Times: 1
+	Query: "Heloderma" ; Times: 1
+	Query: "country:"Peru"" ; Times: 1
+	Query: "crotalus atrox" ; Times: 2
+	Query: "Viperidae" ; Times: 1
+	Query: "country:"ecuador"" ; Times: 1
+	Query: "country:"Mexico" specificepithet:sagrei genus:Anolis" ; Times: 1
+	Query: "specificepithet:fulvius genus:micrurus year >= 1950 year <= 2015" ; Times: 1
+	Query: "sceloporus torquatus" ; Times: 1
+	Query: "regina alleni" ; Times: 1
+	Query: "Nerodia sipedon" ; Times: 1
+	Query: "stateprovince:"Kentucky"" ; Times: 1
+	Query: "Anolis nebulosus" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 328
+Total number of records retrieved from searches: 3253
+Number of download events that retrieved data from the resource: 73
+Total number of records downloaded: 9325
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 435
+Total number of records retrieved from searches: 4337
+Number of download events that retrieved data from the resource: 250
+Total number of records downloaded: 91768
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
