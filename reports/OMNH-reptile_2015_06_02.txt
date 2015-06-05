@@ -1,0 +1,303 @@
+Report for Institution Code OMNH, Resource reptile
+Usage stats for May, 2015, generated on 2015/06/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 178
+Number of records retrieved in searches: 2092
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 1
+	Country: Australia ; Times: 2
+	Country: Brazil ; Times: 4
+	Country: Canada ; Times: 3
+	Country: Colombia ; Times: 3
+	Country: Germany ; Times: 1
+	Country: Mexico ; Times: 11
+	Country: Sweden ; Times: 5
+	Country: United Kingdom ; Times: 3
+	Country: United States ; Times: 136
+	Country: Unknown ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-05-05 ; Times: 1
+	Date: 2015-05-06 ; Times: 12
+	Date: 2015-05-07 ; Times: 9
+	Date: 2015-05-08 ; Times: 19
+	Date: 2015-05-09 ; Times: 3
+	Date: 2015-05-10 ; Times: 4
+	Date: 2015-05-11 ; Times: 8
+	Date: 2015-05-12 ; Times: 6
+	Date: 2015-05-13 ; Times: 4
+	Date: 2015-05-14 ; Times: 1
+	Date: 2015-05-15 ; Times: 3
+	Date: 2015-05-16 ; Times: 27
+	Date: 2015-05-17 ; Times: 1
+	Date: 2015-05-18 ; Times: 9
+	Date: 2015-05-19 ; Times: 6
+	Date: 2015-05-20 ; Times: 4
+	Date: 2015-05-21 ; Times: 8
+	Date: 2015-05-22 ; Times: 15
+	Date: 2015-05-23 ; Times: 17
+	Date: 2015-05-25 ; Times: 1
+	Date: 2015-05-26 ; Times: 7
+	Date: 2015-05-27 ; Times: 1
+	Date: 2015-05-28 ; Times: 3
+	Date: 2015-05-29 ; Times: 4
+	Date: 2015-05-30 ; Times: 3
+	Date: 2015-05-31 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "stateprovince:"Oklahoma" specificepithet:turcicus genus:Hemidactylus" ; Times: 1
+	Query: "Pituophis Kansas" ; Times: 1
+	Query: "specificepithet:lentiginosum genus:Rhinobothryum" ; Times: 2
+	Query: "specificepithet:reticulatus genus:crotaphytus" ; Times: 1
+	Query: "30758" ; Times: 1
+	Query: "clemmys guttata" ; Times: 1
+	Query: "country:"Nicaragua" specificepithet:funerea genus:Rhinoclemmys AND (NOT KU)" ; Times: 1
+	Query: "country:"Nicaragua" genus:Gymnophthalmus AND (NOT KU)" ; Times: 1
+	Query: "county:"Hill" stateprovince:"Texas"" ; Times: 1
+	Query: "Glyptemys insculpta" ; Times: 1
+	Query: "stateprovince:"utah" genus:phrynosoma" ; Times: 1
+	Query: "specificepithet:lentiginosum genus:Rhinobothryum institutioncode:OMNH" ; Times: 1
+	Query: "country:"Nicaragua" specificepithet:plumifrons genus:BAsiliscus" ; Times: 1
+	Query: "Uma notata county:"Imperial"" ; Times: 2
+	Query: "distance(location,geopoint(30.13721055991247,-102.4090576171875))<15652" ; Times: 1
+	Query: "specificepithet:mentovarius genus:Masticophis" ; Times: 1
+	Query: "Echis carinatus" ; Times: 3
+	Query: "country:"Nicaragua" genus:Phyllodactylus" ; Times: 1
+	Query: "salvadora lemniscata specificepithet:lemniscata genus:salvadora year <= 2015" ; Times: 2
+	Query: "country:"Nicaragua" specificepithet:festiva genus:Ameiva AND (NOT KU)" ; Times: 1
+	Query: ""horridus" stateprovince:"Texas"" ; Times: 1
+	Query: "country:"Mexico" specificepithet:berlandieri genus:Gopherus" ; Times: 2
+	Query: "Chamaeleo chamaeleon" ; Times: 1
+	Query: "caiman crocodilus crocodilus" ; Times: 1
+	Query: "Crotaphytus county:"Riverside" stateprovince:"California"" ; Times: 1
+	Query: "genus:Rhinobothryum" ; Times: 1
+	Query: "country:"Nicaragua" specificepithet:variabilis genus:Sceloporus AND (NOT KU)" ; Times: 1
+	Query: "specificepithet:melanocephala genus:Tantilla" ; Times: 3
+	Query: "Uracentron" ; Times: 2
+	Query: "melanolomus" ; Times: 1
+	Query: "country:"Nicaragua" specificepithet:undulata genus:Ameiva AND (NOT KU)" ; Times: 1
+	Query: "(Vipera kaznakovi)" ; Times: 1
+	Query: "caiman crocodilus" ; Times: 2
+	Query: "zonata" ; Times: 1
+	Query: "Sistrurus stateprovince:"oklahoma"" ; Times: 1
+	Query: "omnh cemophora coccinea" ; Times: 1
+	Query: "ophisaurus attenuatus" ; Times: 1
+	Query: "Xantusia henshawi SDNHM" ; Times: 1
+	Query: "Sistrurus county:"cleveland" stateprovince:"oklahoma"" ; Times: 1
+	Query: "Xantusia henshawi" ; Times: 1
+	Query: "mcallii" ; Times: 1
+	Query: "boa constrictor" ; Times: 1
+	Query: "guerrero sceloporus" ; Times: 2
+	Query: "kinosternon county:"blanco" stateprovince:"Texas"" ; Times: 1
+	Query: "aspidoscelis maricopa county" ; Times: 1
+	Query: "Diadophis county:"San Bernardino"" ; Times: 1
+	Query: "omnh Thamnophis proximus" ; Times: 1
+	Query: "Diadophis punctatus county:"San Bernardino"" ; Times: 1
+	Query: "omnh diadophis punctatus" ; Times: 1
+	Query: "country:"Nicaragua" genus:Mabuya" ; Times: 3
+	Query: "Hemidactylus turcicus stateprovince:"Oklahoma"" ; Times: 1
+	Query: "type:both stateprovince:"Ontario" country:"Canada" year >= 1920 year <= 2014" ; Times: 1
+	Query: "country:"Nicaragua" genus:Corytophanes" ; Times: 1
+	Query: "omnh storeria dekayi" ; Times: 1
+	Query: "country:"Nicaragua" genus:Gymnophthalmus" ; Times: 2
+	Query: "omnh opheodrys vernalis" ; Times: 1
+	Query: "Crotaphytus reticulatus" ; Times: 2
+	Query: ""Kinosternon" county:"Blanco" stateprovince:"Texas"" ; Times: 1
+	Query: "gregg county texas" ; Times: 1
+	Query: "country:"Nicaragua" genus:Diploglossus" ; Times: 1
+	Query: "stateprovince:"Kansas" specificepithet:catenifer genus:Pituophis" ; Times: 1
+	Query: "Lampropeltis zonata county:"Los Angeles"" ; Times: 1
+	Query: "Leptotyphlops dulcis New Mexico" ; Times: 2
+	Query: "Pituophis catenifer Kansas" ; Times: 1
+	Query: "Sphaerodactylus country:"Nicaragua" specificepithet:millepunctatus genus:Sphaerodactylus" ; Times: 1
+	Query: "Bitis nasicornis" ; Times: 1
+	Query: "crotalus scutulatus" ; Times: 4
+	Query: "pituophis catenifer idaho" ; Times: 1
+	Query: "type:both year >= 1900 year <= 2015 mappable:1 distance(location,geopoint(36.910372213522535,-121.06109619140625))<100000" ; Times: 1
+	Query: "phrynosoma pima county" ; Times: 1
+	Query: "Echis" ; Times: 1
+	Query: "omnh Tropidoclonion lineatum" ; Times: 1
+	Query: "stateprovince:"Oklahoma" specificepithet:septentrionalis" ; Times: 1
+	Query: "corn snake" ; Times: 1
+	Query: "thamnophis sirtalis dakota" ; Times: 1
+	Query: ""crotalus atrox"" ; Times: 3
+	Query: "11092" ; Times: 1
+	Query: "11093" ; Times: 1
+	Query: "Pituophis catenifer from Kansas" ; Times: 1
+	Query: "country:"Nicaragua" genus:Rhadinaea" ; Times: 1
+	Query: "specificepithet:lacerata genus:Holbrookia" ; Times: 1
+	Query: "thamnophis sirtalis wyoming" ; Times: 1
+	Query: "coleonyx brevis" ; Times: 1
+	Query: "torquatus brazil" ; Times: 1
+	Query: "eunectes murinus" ; Times: 2
+	Query: "sceloporus goldmani" ; Times: 1
+	Query: "gerrhonotus stateprovince:"texas"" ; Times: 2
+	Query: "Pituophis catenifer idaho" ; Times: 1
+	Query: "type:both genus:Trachemys year >= 1965 year <= 2015" ; Times: 1
+	Query: "specificepithet:lacerata genus:Holbrookia year >= 1995 year <= 2015" ; Times: 1
+	Query: "Crotalus horridus type:observation" ; Times: 1
+	Query: "country:"Nicaragua" genus:Lepidoblepharis" ; Times: 1
+	Query: ""crotalus scutulatus" type:both" ; Times: 1
+	Query: "country:"Nicaragua" genus:Chironius" ; Times: 1
+	Query: "heterodon platyrhinos" ; Times: 1
+	Query: "country:"Nicaragua" genus:Anolis" ; Times: 1
+	Query: "country:"Nicaragua" genus:Leptophis" ; Times: 1
+	Query: "Lacerta agilis" ; Times: 1
+	Query: "Leptotyphlops New Mexico" ; Times: 4
+	Query: "Sceloporus formosus" ; Times: 1
+	Query: "10270" ; Times: 1
+	Query: "coluber constrictor idaho" ; Times: 6
+	Query: "country:"Mexico" genus:Arizona mappable:1" ; Times: 1
+	Query: "omnh regina grahami" ; Times: 1
+	Query: "Phrynosoma mcallii" ; Times: 1
+	Query: "Thamnophis elegans idaho" ; Times: 4
+	Query: "county:"Grant" stateprovince:"New Mexico" specificepithet:flagellicauda year <= 2015" ; Times: 1
+	Query: "Malacochersus tornieri" ; Times: 1
+	Query: "genus:charina" ; Times: 1
+	Query: "Leptotyphlops dulcis" ; Times: 1
+	Query: "Sphaerodactylus country:"Nicaragua" genus:Sphaerodactylus" ; Times: 1
+	Query: "stateprovince:"New Mexico" country:"United States" genus:trimorphodon" ; Times: 1
+	Query: "Pseudocerastes" ; Times: 1
+	Query: "Apalone spinifera stateprovince:"arizona"" ; Times: 1
+	Query: "country:"Nicaragua" specificepithet:biporcatus genus:Anolis" ; Times: 1
+	Query: "country:"Nicaragua" specificepithet:leucostomum genus:Kinosternon AND (NOT KU)" ; Times: 1
+	Query: "crotalus scutulatus type:both" ; Times: 1
+	Query: "Charina bottae" ; Times: 2
+	Query: "Lichanura" ; Times: 6
+	Query: "omnh virginia striatula" ; Times: 1
+	Query: "genus:Xenopholis" ; Times: 1
+	Query: "Caiman crocodilus" ; Times: 1
+	Query: "crotaphytus reticulatus" ; Times: 1
+	Query: "omnh carphophis vermis" ; Times: 1
+	Query: "crotalus basiliscus" ; Times: 1
+	Query: "country:"Nicaragua" specificepithet:capito genus:Anolis" ; Times: 1
+	Query: "charina bottae" ; Times: 2
+	Query: "Heloderma" ; Times: 2
+	Query: "country:"Nicaragua" specificepithet:deppei genus:Cnemidophorus AND (NOT KU)" ; Times: 1
+	Query: "country:"Nicaragua" specificepithet:vittatus genus:BAsiliscus" ; Times: 1
+	Query: "multivirgatus new mexico" ; Times: 1
+	Query: "sceloporus variabilis tamaulipas" ; Times: 1
+	Query: "stateprovince:"Maryland" specificepithet:guttata" ; Times: 1
+	Query: "country:"Nicaragua" genus:Lepidophyma AND (NOT KU)" ; Times: 1
+	Query: ""fasciata" stateprovince:"Texas"" ; Times: 1
+	Query: "country:"Nicaragua" genus:Sphenomorphus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 62 (out of 976 download events in this period)
+Total number of records downloaded: 12006 (out of 7910366 records downloaded for all resources in this period)
+Total number of unique records downloaded: 5717
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 13
+	Country: Panama ; Times: 1
+	Country: Sweden ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 44
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-05-06 ; Times: 3
+	Date: 2015-05-07 ; Times: 4
+	Date: 2015-05-08 ; Times: 1
+	Date: 2015-05-09 ; Times: 4
+	Date: 2015-05-10 ; Times: 1
+	Date: 2015-05-11 ; Times: 1
+	Date: 2015-05-12 ; Times: 1
+	Date: 2015-05-13 ; Times: 1
+	Date: 2015-05-15 ; Times: 1
+	Date: 2015-05-19 ; Times: 4
+	Date: 2015-05-20 ; Times: 1
+	Date: 2015-05-21 ; Times: 19
+	Date: 2015-05-22 ; Times: 1
+	Date: 2015-05-23 ; Times: 3
+	Date: 2015-05-24 ; Times: 2
+	Date: 2015-05-25 ; Times: 2
+	Date: 2015-05-26 ; Times: 2
+	Date: 2015-05-27 ; Times: 2
+	Date: 2015-05-28 ; Times: 1
+	Date: 2015-05-29 ; Times: 6
+	Date: 2015-05-30 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "country:"Mexico" specificepithet:atrox genus:crotalus year <= 2015 mappable:1" ; Times: 1
+	Query: "Sceloporus formosus" ; Times: 1
+	Query: "Xantusia henshawi" ; Times: 1
+	Query: "mcallii" ; Times: 1
+	Query: "typhlops" ; Times: 1
+	Query: "stateprovince:"Baja California" country:"Mexico"" ; Times: 1
+	Query: "Anolis carolinensis" ; Times: 1
+	Query: "tomistoma" ; Times: 1
+	Query: "laticauda" ; Times: 1
+	Query: "rhinocheilus lecontei" ; Times: 1
+	Query: "stateprovince:"Arizona" country:"United States" specificepithet:burti genus:Aspidoscelis" ; Times: 1
+	Query: "Charina bottae" ; Times: 2
+	Query: "county:"isla" country:"Mexico"" ; Times: 1
+	Query: "subocularis" ; Times: 1
+	Query: "coleonyx brevis" ; Times: 1
+	Query: "callisaurus draconoides" ; Times: 1
+	Query: "elapidae mappable:1" ; Times: 1
+	Query: "Echis carinatus" ; Times: 1
+	Query: "eunectes murinus" ; Times: 1
+	Query: "crotaphytus collaris" ; Times: 1
+	Query: "country:"Mexico" specificepithet:atrox genus:Crotalus" ; Times: 1
+	Query: "phrynosoma platyrhinos" ; Times: 1
+	Query: "country:"Mexico"" ; Times: 1
+	Query: "aspidoscelis tigris" ; Times: 1
+	Query: "Charina" ; Times: 1
+	Query: "country:"Mexico" specificepithet:molossus genus:crotalus year <= 2015 mappable:1" ; Times: 1
+	Query: "charina bottae" ; Times: 2
+	Query: "Lichanura" ; Times: 1
+	Query: "squamata (durango OR coahuila OR zacatecas OR chihuahua) mappable:1" ; Times: 1
+	Query: "multivirgatus" ; Times: 1
+	Query: "Eumeces" ; Times: 1
+	Query: "agamidae mappable:1" ; Times: 1
+	Query: "elapidae" ; Times: 3
+	Query: "python reticulatus" ; Times: 2
+	Query: "coleonyx variegatus" ; Times: 1
+	Query: "crotalus cerastes" ; Times: 1
+	Query: "arizona elegans" ; Times: 1
+	Query: "thamnophis cyrtopsis" ; Times: 1
+	Query: "masticophis flagellum" ; Times: 1
+	Query: "gambelia wislizenii" ; Times: 1
+	Query: "crotalus scutulatus" ; Times: 2
+	Query: "Plestiodon" ; Times: 1
+	Query: "sceloporus magister" ; Times: 1
+	Query: "salvadora hexalepis" ; Times: 1
+	Query: "Graptemys geographica" ; Times: 1
+	Query: "callisaurus draconoides stateprovince:"baja california" country:"mexico"" ; Times: 1
+	Query: "phrynosoma hernandesi" ; Times: 1
+	Query: "stateprovince:"Colorado" genus:Crotalus" ; Times: 1
+	Query: "thamnophis sirtalis" ; Times: 1
+	Query: "callisaurus draconoides country:"Mexico"" ; Times: 1
+	Query: "country:"Mexico" specificepithet:molossus genus:Crotalus" ; Times: 1
+	Query: "agamidae" ; Times: 2
+	Query: "sceloporus variabilis tamaulipas" ; Times: 1
+	Query: "Malacochersus tornieri" ; Times: 1
+	Query: "crotalus atrox" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 592
+Total number of records retrieved from searches: 6265
+Number of download events that retrieved data from the resource: 160
+Total number of records downloaded: 29731
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 699
+Total number of records retrieved from searches: 7349
+Number of download events that retrieved data from the resource: 337
+Total number of records downloaded: 112174
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
