@@ -1,0 +1,264 @@
+Report for Institution Code OMNH, Resource reptile
+Usage stats for July, 2015, generated on 2015/08/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 110
+Number of records retrieved in searches: 989
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 1
+	Country: Austria ; Times: 2
+	Country: Brazil ; Times: 7
+	Country: Chile ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: United States ; Times: 79
+	Country: Unknown ; Times: 16
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-07-01 ; Times: 8
+	Date: 2015-07-02 ; Times: 1
+	Date: 2015-07-03 ; Times: 5
+	Date: 2015-07-05 ; Times: 2
+	Date: 2015-07-07 ; Times: 4
+	Date: 2015-07-09 ; Times: 4
+	Date: 2015-07-10 ; Times: 4
+	Date: 2015-07-13 ; Times: 1
+	Date: 2015-07-14 ; Times: 3
+	Date: 2015-07-15 ; Times: 4
+	Date: 2015-07-16 ; Times: 3
+	Date: 2015-07-17 ; Times: 6
+	Date: 2015-07-18 ; Times: 2
+	Date: 2015-07-20 ; Times: 4
+	Date: 2015-07-21 ; Times: 9
+	Date: 2015-07-22 ; Times: 14
+	Date: 2015-07-23 ; Times: 10
+	Date: 2015-07-24 ; Times: 11
+	Date: 2015-07-26 ; Times: 7
+	Date: 2015-07-28 ; Times: 4
+	Date: 2015-07-29 ; Times: 3
+	Date: 2015-07-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "nasicus oklahoma" ; Times: 2
+	Query: "Thamnophis proximus" ; Times: 3
+	Query: "Sistrurus catenatus" ; Times: 1
+	Query: "Atractus major" ; Times: 5
+	Query: "ID 7218" ; Times: 1
+	Query: "Atropoides" ; Times: 1
+	Query: "Leiosauridae" ; Times: 1
+	Query: "Gopherus polyphemus" ; Times: 1
+	Query: "cairi" ; Times: 1
+	Query: "Tupinambis" ; Times: 1
+	Query: "Graptemys kohnii" ; Times: 1
+	Query: "nasicus stateprovince:"oklahoma"" ; Times: 1
+	Query: "27802" ; Times: 1
+	Query: "Vipera kaznakovi" ; Times: 6
+	Query: "reptiles fmnh trinidad" ; Times: 1
+	Query: "Phyllodactylus tuberculosus" ; Times: 1
+	Query: "Arizona stateprovince:"oklahoma"" ; Times: 2
+	Query: "apalone ferox" ; Times: 1
+	Query: "36084" ; Times: 1
+	Query: "Deirochelys stateprovince:"oklahoma"" ; Times: 1
+	Query: "mucronatus" ; Times: 1
+	Query: "Liolaemidae" ; Times: 1
+	Query: "36223" ; Times: 1
+	Query: "Sceloporus aeneus" ; Times: 2
+	Query: "Holbrookia stateprovince:"oklahoma"" ; Times: 1
+	Query: "Chironius" ; Times: 1
+	Query: "crotalus molossus stateprovince:"new mexico"" ; Times: 2
+	Query: "ctenosaura" ; Times: 1
+	Query: "Crotalus tigris stateprovince:"Arizona" country:"United States"" ; Times: 1
+	Query: "Glyptemys muhlenbergii" ; Times: 1
+	Query: "gopherus polyphemus" ; Times: 3
+	Query: "Apalone ferox mappable:1" ; Times: 1
+	Query: "Crotaphytus reticulatus" ; Times: 1
+	Query: "Trimorphodon biscutatus New Mexico" ; Times: 1
+	Query: "vipera kaznakovi" ; Times: 9
+	Query: "Chrysemys stateprovince:"oklahoma"" ; Times: 1
+	Query: "Crotaphytus county:"Yuma" stateprovince:"Arizona"" ; Times: 2
+	Query: "phrynosoma cornutum year >= 1995 year <= 2015" ; Times: 1
+	Query: "Phrynosoma county:"Yuma" stateprovince:"Arizona"" ; Times: 1
+	Query: "Phrynosoma platyrhinos county:"Yuma" stateprovince:"Arizona"" ; Times: 1
+	Query: "Crocodilurus" ; Times: 1
+	Query: "Boa constrictor" ; Times: 1
+	Query: "OMNH Diadophis punctatus" ; Times: 3
+	Query: "Deirochelys (miaria OR chrysea OR reticularia)" ; Times: 1
+	Query: "stateprovince:"New Mexico" genus:Trimorphodon" ; Times: 1
+	Query: "42291" ; Times: 1
+	Query: "5280" ; Times: 1
+	Query: "Sistrurus catenatus stateprovince:"Kansas" country:"United States"" ; Times: 1
+	Query: "Sternotherus carinatus" ; Times: 1
+	Query: "22774" ; Times: 1
+	Query: "sceloporus king county" ; Times: 1
+	Query: "Pseudogonatodes" ; Times: 1
+	Query: "anolis cuvieri" ; Times: 1
+	Query: "33625" ; Times: 1
+	Query: "Kinosternon hippocrepis mappable:1" ; Times: 1
+	Query: "sistrurus stateprovince:"oklahoma"" ; Times: 1
+	Query: "coranado" ; Times: 1
+	Query: "oMNH Diadophis punctatus" ; Times: 2
+	Query: "Thamnophis sirtalis annectens" ; Times: 1
+	Query: "Dracaena" ; Times: 1
+	Query: "Lepidophyma flavimaculatum Nicaragua" ; Times: 1
+	Query: "crotalus santa catalina" ; Times: 1
+	Query: "Flint Hills stateprovince:"Kansas" country:"United States"" ; Times: 1
+	Query: "Alopoglossus" ; Times: 1
+	Query: "OMNH Crotaphytus collaris" ; Times: 1
+	Query: "magister county:"dona ana" stateprovince:"New Mexico" year <= 2015" ; Times: 1
+	Query: "33125" ; Times: 1
+	Query: "Clemmys guttata" ; Times: 1
+	Query: "sceloporus king county washington" ; Times: 1
+	Query: "Gopherus berlandieri" ; Times: 1
+	Query: "Drew Davis year >= 2000 year <= 2015" ; Times: 1
+	Query: "stateprovince:"oaxaca" country:"mexico" specificepithet:formosus genus:sceloporus" ; Times: 1
+	Query: "stateprovince:"oaxaca" country:"mexico" specificepithet:mucronatus genus:sceloporus" ; Times: 1
+	Query: "Sceloporus poinsettii New Mexico" ; Times: 1
+	Query: "vipera" ; Times: 2
+	Query: "Deirochelys reticularia" ; Times: 1
+	Query: "tehuacan" ; Times: 1
+	Query: "Apalone ferox" ; Times: 1
+	Query: "Sternotherus carinatus mappable:1" ; Times: 1
+	Query: "phrynosoma year >= 1948 year <= 1948" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 82 (out of 1084 download events in this period)
+Total number of records downloaded: 5877 (out of 4365690 records downloaded for all resources in this period)
+Total number of unique records downloaded: 3939
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: France ; Times: 1
+	Country: Mexico ; Times: 11
+	Country: Panama ; Times: 1
+	Country: Puerto Rico ; Times: 1
+	Country: United States ; Times: 65
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-07-03 ; Times: 1
+	Date: 2015-07-06 ; Times: 3
+	Date: 2015-07-07 ; Times: 2
+	Date: 2015-07-08 ; Times: 1
+	Date: 2015-07-09 ; Times: 5
+	Date: 2015-07-10 ; Times: 3
+	Date: 2015-07-13 ; Times: 2
+	Date: 2015-07-14 ; Times: 2
+	Date: 2015-07-17 ; Times: 1
+	Date: 2015-07-18 ; Times: 2
+	Date: 2015-07-19 ; Times: 1
+	Date: 2015-07-20 ; Times: 8
+	Date: 2015-07-21 ; Times: 4
+	Date: 2015-07-22 ; Times: 33
+	Date: 2015-07-23 ; Times: 1
+	Date: 2015-07-26 ; Times: 1
+	Date: 2015-07-28 ; Times: 2
+	Date: 2015-07-29 ; Times: 1
+	Date: 2015-07-30 ; Times: 5
+	Date: 2015-07-31 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Apalone mutica mappable:1" ; Times: 1
+	Query: "arizona elegans type:specimen" ; Times: 1
+	Query: "Guanajuato" ; Times: 1
+	Query: "sternotherus odoratus" ; Times: 1
+	Query: "Terrapene (carolina OR bauri OR major OR triunguis)" ; Times: 1
+	Query: "Phyllodactylus tuberculosus" ; Times: 1
+	Query: "Apalone (mutica OR calvata)" ; Times: 1
+	Query: "Arkansas" ; Times: 2
+	Query: "Liolaemus" ; Times: 1
+	Query: "Graptemys" ; Times: 1
+	Query: "Graptemys kohnii" ; Times: 1
+	Query: "rhinocheilus lecontei" ; Times: 1
+	Query: "Apalone spinifera mappable:1" ; Times: 1
+	Query: "Pseudemys rubriventris year >= 1900 year <= 2013" ; Times: 1
+	Query: "chrysemys (belli OR picta OR marginata)" ; Times: 1
+	Query: "Reptile stateprovince:"Kansas"" ; Times: 1
+	Query: "Xenosauridae" ; Times: 1
+	Query: "Sceloporus aeneus" ; Times: 1
+	Query: "Thecadactylus rapicauda" ; Times: 1
+	Query: "blandingii (Emydoidea OR Emys)" ; Times: 1
+	Query: "crotalus scutulatus" ; Times: 1
+	Query: "Glyptemys muhlenbergii" ; Times: 1
+	Query: "Xantusiidae" ; Times: 2
+	Query: "mvz pituophis" ; Times: 1
+	Query: "Pseudemys concinna year >= 1950 year <= 2013" ; Times: 1
+	Query: "Kinosternon hirtipes" ; Times: 1
+	Query: "vipera kaznakovi" ; Times: 1
+	Query: "Sternotherus carinatus mappable:1" ; Times: 1
+	Query: "genus:Kinosternon mappable:1" ; Times: 1
+	Query: "Lepidophyma flavimaculatum Nicaragua" ; Times: 1
+	Query: "Porthidium" ; Times: 1
+	Query: "Boa constrictor" ; Times: 1
+	Query: "Pseudemys" ; Times: 1
+	Query: "Apalone ferox mappable:1" ; Times: 1
+	Query: "iguana iguana" ; Times: 1
+	Query: "Deirochelys (miaria OR chrysea OR reticularia)" ; Times: 1
+	Query: "thecadactylus rapicauda" ; Times: 1
+	Query: "zacatecas" ; Times: 1
+	Query: "san luis potosi" ; Times: 1
+	Query: "adamanteus" ; Times: 1
+	Query: "utah" ; Times: 1
+	Query: "Clemmys guttata" ; Times: 1
+	Query: "Gekkonidae" ; Times: 1
+	Query: "callisaurus" ; Times: 1
+	Query: "Chelydra serpentina" ; Times: 1
+	Query: "Kinosternon flavescens" ; Times: 1
+	Query: "genus:Trimorphodon" ; Times: 1
+	Query: "type:specimen hastypestatus:1" ; Times: 1
+	Query: "Sternotherus odoratus mappable:1" ; Times: 1
+	Query: "tehuacan" ; Times: 1
+	Query: "Kinosternon flavescens mappable:1" ; Times: 1
+	Query: "Malaclemys (terrapin OR centrata OR tequesta OR rhizophorarum OR macrospilota OR pileata OR litoralis )" ; Times: 1
+	Query: "Glyptemys insculpta" ; Times: 1
+	Query: "Xenosaurus" ; Times: 1
+	Query: "crotalus viridis viridis" ; Times: 1
+	Query: "Chrysemys dorsalis" ; Times: 1
+	Query: "OMNH Diadophis punctatus" ; Times: 1
+	Query: "Graptemys (pseudogeographica OR sabinensis)" ; Times: 1
+	Query: "Terrapene (ornata OR luteola)" ; Times: 1
+	Query: "Apalone ferox" ; Times: 1
+	Query: "Apalone spinifera" ; Times: 1
+	Query: "(suwanniensis OR apalachicolae OR teminckii OR Macroclemys OR Macrochelys)" ; Times: 1
+	Query: "Sternotherus odoratus" ; Times: 1
+	Query: "Tarentola mauritanica year >= 1900 year <= 2013" ; Times: 1
+	Query: "Trachemys (scripta OR elegans OR troosti)" ; Times: 1
+	Query: "genus:Kinosternon subrubrum mappable:1" ; Times: 1
+	Query: "Terrapene carolina" ; Times: 1
+	Query: "Deirochelys reticularia" ; Times: 1
+	Query: "guanajuato" ; Times: 1
+	Query: "Gopherus berlandieri" ; Times: 1
+	Query: "regina rigida" ; Times: 1
+	Query: "jalisco" ; Times: 1
+	Query: "Apalone mutica" ; Times: 1
+	Query: "Graptemys geographica" ; Times: 1
+	Query: "Cordylidae" ; Times: 1
+	Query: "Kinosternon subrubrum" ; Times: 1
+	Query: "Kinosternon hirtipes mappable:1" ; Times: 1
+	Query: "Graptemys ouachitensis" ; Times: 1
+	Query: "Sternotherus carinatus" ; Times: 1
+	Query: "country:"Puerto Rico"" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 977
+Total number of records retrieved from searches: 11446
+Number of download events that retrieved data from the resource: 275
+Total number of records downloaded: 37742
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 1084
+Total number of records retrieved from searches: 12530
+Number of download events that retrieved data from the resource: 452
+Total number of records downloaded: 120185
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
