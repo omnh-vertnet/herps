@@ -1,0 +1,219 @@
+Report for Institution Code OMNH, Resource reptile
+Usage stats for October 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 77
+Number of records retrieved in searches: 518
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 51
+	Country: South Africa ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: Panama ; Times: 1
+	Country: Mexico ; Times: 17
+	Country: United Kingdom ; Times: 2
+	Country: Guatemala ; Times: 1
+	Country: Germany ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-16 ; Times: 4
+	Date: 2015-10-15 ; Times: 2
+	Date: 2015-10-12 ; Times: 2
+	Date: 2015-10-13 ; Times: 1
+	Date: 2015-10-10 ; Times: 2
+	Date: 2015-10-11 ; Times: 1
+	Date: 2015-10-18 ; Times: 5
+	Date: 2015-10-19 ; Times: 3
+	Date: 2015-10-29 ; Times: 4
+	Date: 2015-10-28 ; Times: 1
+	Date: 2015-10-27 ; Times: 3
+	Date: 2015-10-25 ; Times: 3
+	Date: 2015-10-23 ; Times: 8
+	Date: 2015-10-22 ; Times: 3
+	Date: 2015-10-21 ; Times: 11
+	Date: 2015-10-20 ; Times: 5
+	Date: 2015-10-05 ; Times: 2
+	Date: 2015-10-07 ; Times: 1
+	Date: 2015-10-06 ; Times: 2
+	Date: 2015-10-01 ; Times: 2
+	Date: 2015-10-02 ; Times: 3
+	Date: 2015-10-09 ; Times: 4
+	Date: 2015-10-08 ; Times: 3
+	Date: 2015-10-30 ; Times: 1
+	Date: 2015-10-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "MCZ 37261" ; Times: 1
+	Query: "type:specimen specificepithet:vipera genus:cerastes preparations:skeleton" ; Times: 1
+	Query: "Sceloporus formosus" ; Times: 1
+	Query: "32700" ; Times: 1
+	Query: "specificepithet:sericeus genus:Anolis country:&#34;Nicaragua&#34;" ; Times: 1
+	Query: "Sceloporus melanorhinus" ; Times: 1
+	Query: "terrapene mexico" ; Times: 2
+	Query: "Platemys" ; Times: 1
+	Query: "alligator mississippiensis (skel OR skeleton)" ; Times: 1
+	Query: "tupinambis teguixin" ; Times: 2
+	Query: "lampropeltis holbrooki" ; Times: 1
+	Query: "apalone ferox" ; Times: 1
+	Query: "specificepithet:anomalus genus:Drepanoides country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "Corallus caninus" ; Times: 3
+	Query: "sceloporus formosus" ; Times: 3
+	Query: "specificepithet:maculata genus:Holbrookia stateprovince:&#34;New Mexico&#34; institutioncode:OMNH" ; Times: 1
+	Query: "Carolina anole" ; Times: 1
+	Query: "Anole Carolina" ; Times: 1
+	Query: "genus:Oxyrhopus country:&#34;Ecuador&#34;" ; Times: 3
+	Query: "genus:Rhineura" ; Times: 1
+	Query: "specificepithet:maculata genus:Holbrookia stateprovince:&#34;Texas&#34; institutioncode:OMNH" ; Times: 1
+	Query: "Glyptemys muhlenbergii" ; Times: 1
+	Query: "specificepithet:guerini genus:Phimophis" ; Times: 2
+	Query: "specificepithet:petola genus:Oxyrhopus country:&#34;Brazil&#34;" ; Times: 1
+	Query: "country:&#34;Philippines&#34; institutioncode:OMNH" ; Times: 1
+	Query: "Sceloporus serrifer" ; Times: 1
+	Query: "jim hogg county" ; Times: 1
+	Query: "specificepithet:melanogenys genus:Oxyrhopus country:&#34;Ecuador&#34;" ; Times: 2
+	Query: "Sceloporus mucronatus" ; Times: 1
+	Query: "specificepithet:ornatus genus:Urosaurus year &gt;= 1999 year &lt;= 2015" ; Times: 1
+	Query: "Sceloporus parvus" ; Times: 1
+	Query: "amblyrhynchus" ; Times: 1
+	Query: "uma inornata" ; Times: 1
+	Query: "morelia viridis" ; Times: 1
+	Query: "Kinosternon herrerai" ; Times: 1
+	Query: "Conolophus" ; Times: 1
+	Query: "genus:Oxyrhopus stateprovince:&#34;Amazonas&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Ctenosaura pectinata" ; Times: 2
+	Query: "23218" ; Times: 1
+	Query: "regina septemvittata distance(location,geopoint(38.06539235133249,-84.5068359375))&lt;109678" ; Times: 1
+	Query: "Sceloporus torquatus" ; Times: 2
+	Query: "Simpson Rd" ; Times: 1
+	Query: "sphaerodactylus institutioncode:OMNH" ; Times: 1
+	Query: "Pantherophis guttatus" ; Times: 1
+	Query: "genus:Boa country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "Pseudaspis cana" ; Times: 1
+	Query: "Epicrates subflavus" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 2
+	Query: "Acrantophis dumerili" ; Times: 1
+	Query: "26998" ; Times: 1
+	Query: "hydromorphus" ; Times: 1
+	Query: "sceloporus torquatus" ; Times: 1
+	Query: "polychrus marmoratus" ; Times: 1
+	Query: "Corallus hortulanus" ; Times: 1
+	Query: "ctenosaura pectinata" ; Times: 1
+	Query: "43288" ; Times: 1
+	Query: "lepidophyma flavimaculatum" ; Times: 1
+	Query: "genus:Oxyrhopus stateprovince:&#34;Napo&#34; country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "Norops capito" ; Times: 1
+	Query: "type:specimen genus:cerastes preparations:skeleton" ; Times: 1
+	Query: "genus:Corallus country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "Thamnophis sumichrasti" ; Times: 1
+	Query: "FMNH reptiles" ; Times: 1
+	Query: "Varanus exanthematicus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 71 (out of 823 download events in this period)
+Total number of records downloaded: 7216
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 12
+	Country: Panama ; Times: 1
+	Country: United States ; Times: 51
+	Country: Spain ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-16 ; Times: 8
+	Date: 2015-10-13 ; Times: 1
+	Date: 2015-10-10 ; Times: 2
+	Date: 2015-10-11 ; Times: 1
+	Date: 2015-10-18 ; Times: 1
+	Date: 2015-10-19 ; Times: 4
+	Date: 2015-10-29 ; Times: 7
+	Date: 2015-10-28 ; Times: 2
+	Date: 2015-10-27 ; Times: 4
+	Date: 2015-10-26 ; Times: 2
+	Date: 2015-10-23 ; Times: 7
+	Date: 2015-10-22 ; Times: 1
+	Date: 2015-10-21 ; Times: 8
+	Date: 2015-10-04 ; Times: 3
+	Date: 2015-10-07 ; Times: 2
+	Date: 2015-10-06 ; Times: 2
+	Date: 2015-10-01 ; Times: 1
+	Date: 2015-10-02 ; Times: 2
+	Date: 2015-10-09 ; Times: 1
+	Date: 2015-10-08 ; Times: 4
+	Date: 2015-10-30 ; Times: 4
+	Date: 2015-10-31 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Sceloporus formosus" ; Times: 2
+	Query: "specificepithet:ameiva type:specimen mappable:1" ; Times: 1
+	Query: "Sceloporus melanorhinus" ; Times: 1
+	Query: "Callisaurus draconoides" ; Times: 1
+	Query: "Oxybelis aeneus" ; Times: 1
+	Query: "alligator mississippiensis (skel OR skeleton)" ; Times: 1
+	Query: "Holbrookia maculata" ; Times: 1
+	Query: "Ramphotyphlops braminus" ; Times: 1
+	Query: "Cophosaurus texanus" ; Times: 1
+	Query: "apalone ferox" ; Times: 2
+	Query: "Trachemys scripta (skel OR skeleton)" ; Times: 1
+	Query: "SCELOPORUS FORMOSUS" ; Times: 1
+	Query: "thamnophis proximus" ; Times: 1
+	Query: "Sceloporus orcutti" ; Times: 1
+	Query: "Sceloporus poinsettii" ; Times: 1
+	Query: "family:GYMNOPHTHALMIDAE" ; Times: 1
+	Query: "Anolis carolinensis" ; Times: 1
+	Query: "Ctenosaura pectinata" ; Times: 2
+	Query: "Chlamydosaurus kingii" ; Times: 1
+	Query: "Anolis equestris" ; Times: 1
+	Query: "Chelydra" ; Times: 1
+	Query: "Phyllorhynchus decurtatus" ; Times: 1
+	Query: "Malaclemys terrapin" ; Times: 1
+	Query: "Anniella pulchra" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "Uma scoparia" ; Times: 1
+	Query: "elgaria kingii" ; Times: 1
+	Query: "ecpleopus" ; Times: 1
+	Query: "Salvadora grahamiae" ; Times: 1
+	Query: "Salvadora hexalepis" ; Times: 1
+	Query: "Anolis sagrei" ; Times: 1
+	Query: "Phrynosoma platyrhinos stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "anolis cristatellus" ; Times: 1
+	Query: "sceloporus formosus" ; Times: 1
+	Query: "gularis" ; Times: 1
+	Query: "lepidophyma flavimaculatum" ; Times: 1
+	Query: "thamnophis radix" ; Times: 1
+	Query: "aspidoscelis" ; Times: 1
+	Query: "Cnemidophorus" ; Times: 1
+	Query: "Sceloporus clarkii" ; Times: 1
+	Query: "Crotaphytus collaris" ; Times: 1
+	Query: "bitis gabonica" ; Times: 3
+	Query: "Dipsosaurus dorsalis" ; Times: 1
+	Query: "specificepithet:ornatus genus:Urosaurus year &gt;= 1999 year &lt;= 2015" ; Times: 1
+	Query: "specificepithet:bonairensis genus:Anolis" ; Times: 1
+	Query: "Terrapene" ; Times: 1
+	Query: "Trachemys scripta elegans" ; Times: 4
+	Query: "aeneus" ; Times: 1
+	Query: "Plestiodon brevirostris" ; Times: 1
+	Query: "Senticolis triaspis" ; Times: 1
+	Query: "urosaurus ornatus" ; Times: 1
+	Query: "genus:Rhineura" ; Times: 1
+	Query: "Emydoidea blandingii" ; Times: 1
+	Query: "sphaerodactylus" ; Times: 1
+	Query: "Phyllorhynchus browni" ; Times: 1
+	Query: "Callisaurus draconoides stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "order:Squamata stateprovince:&#34;California&#34; mappable:1" ; Times: 1
+	Query: "anolis auratus" ; Times: 1
+	Query: "glyptemys insculpta" ; Times: 1
+	Query: "Gambelia wislizenii stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "specificepithet:ameiva type:specimen" ; Times: 1
+	Query: "coleonyx variegatus" ; Times: 1
+	Query: "Amboy" ; Times: 1
+
+
+End of report.
