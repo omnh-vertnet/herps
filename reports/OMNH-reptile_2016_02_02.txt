@@ -1,0 +1,183 @@
+Report for Institution Code OMNH, Resource Reptiles
+Usage stats for January, 2016, generated on 2016/02/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 107
+Number of records retrieved in searches: 993
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: France ; Times: 1
+	Country: Germany ; Times: 2
+	Country: Hungary ; Times: 1
+	Country: Mexico ; Times: 26
+	Country: Spain ; Times: 1
+	Country: Sweden ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: United States ; Times: 72
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-02 ; Times: 4
+	Date: 2016-01-03 ; Times: 1
+	Date: 2016-01-04 ; Times: 3
+	Date: 2016-01-05 ; Times: 2
+	Date: 2016-01-06 ; Times: 2
+	Date: 2016-01-07 ; Times: 7
+	Date: 2016-01-09 ; Times: 4
+	Date: 2016-01-10 ; Times: 3
+	Date: 2016-01-11 ; Times: 2
+	Date: 2016-01-12 ; Times: 7
+	Date: 2016-01-13 ; Times: 12
+	Date: 2016-01-14 ; Times: 1
+	Date: 2016-01-15 ; Times: 1
+	Date: 2016-01-17 ; Times: 1
+	Date: 2016-01-18 ; Times: 1
+	Date: 2016-01-19 ; Times: 7
+	Date: 2016-01-21 ; Times: 1
+	Date: 2016-01-22 ; Times: 4
+	Date: 2016-01-23 ; Times: 3
+	Date: 2016-01-25 ; Times: 12
+	Date: 2016-01-26 ; Times: 11
+	Date: 2016-01-27 ; Times: 2
+	Date: 2016-01-28 ; Times: 5
+	Date: 2016-01-29 ; Times: 7
+	Date: 2016-01-30 ; Times: 1
+	Date: 2016-01-31 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "33490" ; Times: 1
+	Query: "nasicus oklahoma" ; Times: 3
+	Query: "herpetofauna" ; Times: 2
+	Query: "guttata maryland" ; Times: 3
+	Query: "eryx colubrinus" ; Times: 11
+	Query: "distance(location,geopoint(25.179036,-110.807516))<15000" ; Times: 1
+	Query: "Alsophis" ; Times: 1
+	Query: "Spilotes pullatus" ; Times: 2
+	Query: "clemmys guttata" ; Times: 1
+	Query: "order:serpentes county:"le flore" stateprovince:"OKlahoma"" ; Times: 1
+	Query: "Sceloporus chrysostictus" ; Times: 2
+	Query: "Trapelus mutabilis" ; Times: 1
+	Query: "drymarchon texas" ; Times: 1
+	Query: "Amphisbaena alba" ; Times: 1
+	Query: "Sceloporus aeneus" ; Times: 2
+	Query: "Coleodactylus" ; Times: 1
+	Query: "distance(location,geopoint(23.819036,-106.557516))<15000" ; Times: 1
+	Query: "plestiodon multivirgatus" ; Times: 2
+	Query: "Leptophis mexicanus" ; Times: 1
+	Query: "aspidoscelis sexlineatus" ; Times: 1
+	Query: "order:serpentes county:"McCurtain" stateprovince:"OKlahoma"" ; Times: 2
+	Query: "Boa constrictor" ; Times: 1
+	Query: "Masticophis mentovarius" ; Times: 1
+	Query: "mcz 6872" ; Times: 1
+	Query: "specificepithet:trigeminus genus:Oxyrhopus country:"Brazil"" ; Times: 1
+	Query: "Sceloporus mucronatus" ; Times: 1
+	Query: "specificepithet:melanogenys genus:Oxyrhopus country:"Brazil"" ; Times: 1
+	Query: "OMNH 27520" ; Times: 2
+	Query: "Aspidoscelis arizonae" ; Times: 1
+	Query: "Farancia abacura Texas" ; Times: 1
+	Query: "hypsiglena oklahoma" ; Times: 1
+	Query: "morphological data" ; Times: 1
+	Query: "septentrionalis oklahoma" ; Times: 5
+	Query: "Anolis biporcatus" ; Times: 1
+	Query: "Atropoides nummifer" ; Times: 1
+	Query: "eryx" ; Times: 1
+	Query: "Mills P" ; Times: 1
+	Query: "Erythrolamprus aesculapii" ; Times: 1
+	Query: "distance(location,geopoint(28.239036,-108.937516))<15000" ; Times: 1
+	Query: "Micrurus fulvius" ; Times: 1
+	Query: "Polychrus marmoratus" ; Times: 1
+	Query: "Phyllodactylus tuberculosus" ; Times: 1
+	Query: "Plestiodon fasciatus stateprovince:"Ohio"" ; Times: 1
+	Query: "Barisia imbricata" ; Times: 3
+	Query: "Farancia abacura" ; Times: 3
+	Query: "concinna cameron" ; Times: 1
+	Query: "lichanura trivirgata" ; Times: 1
+	Query: "specificepithet:variegatus genus:Coleonyx county:"pima" stateprovince:"arizona"" ; Times: 2
+	Query: "type:specimen specificepithet:guttatus genus:pantherophis" ; Times: 1
+	Query: "Alsophis biserialis" ; Times: 2
+	Query: "Plestiodon anthracinus" ; Times: 1
+	Query: "Leptophis ahaetulla" ; Times: 1
+	Query: "Tantilla nigriceps" ; Times: 1
+	Query: "anolis biporcatus" ; Times: 4
+	Query: "reptiles nayarit mexico" ; Times: 1
+	Query: "bothriopsis taeniata" ; Times: 1
+	Query: "distance(location,geopoint(25.349036,-110.637516))<15000" ; Times: 1
+	Query: "Ophisaurus year >= 2010 year <= 2016" ; Times: 1
+	Query: "type:specimen specificepithet:emoryi genus:pantherophis" ; Times: 1
+	Query: "Sistrurus miliarius miliarius" ; Times: 1
+	Query: "Eryx colubrinus" ; Times: 1
+	Query: "genus:Orthriophis family:colubridae" ; Times: 1
+	Query: "specificepithet:argulus genus:Prionodactylus" ; Times: 1
+	Query: "psomophis" ; Times: 1
+	Query: "Hydrosaurus" ; Times: 1
+	Query: "pseudogonatodes" ; Times: 1
+	Query: "42565" ; Times: 1
+	Query: "mud snake" ; Times: 2
+	Query: "Glyptemys muhlenbergii" ; Times: 1
+	Query: "Plestiodon copei" ; Times: 2
+	Query: "Etowah County" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 16 (out of 507 download events in this period)
+Total number of records downloaded: 417 (out of 4904477 records downloaded for all resources in this period)
+Total number of unique records downloaded: 414
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 3
+	Country: United States ; Times: 13
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-03 ; Times: 1
+	Date: 2016-01-06 ; Times: 1
+	Date: 2016-01-07 ; Times: 1
+	Date: 2016-01-08 ; Times: 1
+	Date: 2016-01-12 ; Times: 1
+	Date: 2016-01-14 ; Times: 1
+	Date: 2016-01-15 ; Times: 1
+	Date: 2016-01-19 ; Times: 4
+	Date: 2016-01-21 ; Times: 1
+	Date: 2016-01-22 ; Times: 1
+	Date: 2016-01-28 ; Times: 2
+	Date: 2016-01-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Lepidoblepharis" ; Times: 1
+	Query: "lichanura" ; Times: 1
+	Query: "sagrei" ; Times: 1
+	Query: "Erythrolamprus aesculapii" ; Times: 1
+	Query: "plestiodon multivirgatus" ; Times: 1
+	Query: "Sauromalus hispidus" ; Times: 1
+	Query: "Emys orbicularis" ; Times: 1
+	Query: "plestiodon tetragrammus" ; Times: 1
+	Query: "Nerodia fasciata" ; Times: 1
+	Query: "lichanura trivirgata" ; Times: 1
+	Query: "sphaerodactylus" ; Times: 1
+	Query: ""Santa Cruz Island" class:Reptilia stateprovince:"California"" ; Times: 1
+	Query: "Crotalus viridis Nevada" ; Times: 1
+	Query: "distance(location,geopoint(18.187606552494625,-66.58538818359375))<78505" ; Times: 1
+	Query: "gonatodes" ; Times: 1
+	Query: "Aspidoscelis arizonae" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: No data
+Total number of records retrieved from searches: No data
+Number of download events that retrieved data from the resource: 16
+Total number of records downloaded: 417
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 107
+Total number of records retrieved from searches: 993
+Number of download events that retrieved data from the resource: 16
+Total number of records downloaded: 417
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
