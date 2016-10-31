@@ -1,0 +1,138 @@
+Report for Institution Code OMNH, Resource reptile
+Usage stats for September 2016, generated on 2016/10/31
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 96
+Number of records retrieved in searches: 1622
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 44
+	Country: Belgium ; Times: 1
+	Country: Colombia ; Times: 22
+	Country: Portugal ; Times: 7
+	Country: Mexico ; Times: 22
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-09-13 ; Times: 6
+	Date: 2016-09-12 ; Times: 4
+	Date: 2016-09-11 ; Times: 8
+	Date: 2016-09-10 ; Times: 8
+	Date: 2016-09-08 ; Times: 10
+	Date: 2016-09-09 ; Times: 23
+	Date: 2016-09-14 ; Times: 3
+	Date: 2016-09-04 ; Times: 1
+	Date: 2016-09-05 ; Times: 1
+	Date: 2016-09-06 ; Times: 7
+	Date: 2016-09-07 ; Times: 10
+	Date: 2016-09-01 ; Times: 5
+	Date: 2016-09-02 ; Times: 10
+
+List of queries that retrieved data from the resource: 
+	Query: "Uma paraphygas" ; Times: 1
+	Query: "Anolis chrysolepis 1" ; Times: 2
+	Query: "&#34;Lepidophyma flavimaculatum&#34;" ; Times: 2
+	Query: "Pantherophis vulpinus specificepithet:vulpinus genus:Pantherophis mappable:1" ; Times: 1
+	Query: "Sceloporus ornatus" ; Times: 1
+	Query: "Anolis nitens 1" ; Times: 1
+	Query: "basiliscus plumifrons" ; Times: 1
+	Query: "plestiodon multivirgatus" ; Times: 5
+	Query: "genus:pseudocerastes" ; Times: 2
+	Query: "gopherus berlandieri" ; Times: 3
+	Query: "Agkistrodon piscivorus specificepithet:piscivorus genus:Agkistrodon year &gt;= 1980 year &lt;= 2016 mappable:1" ; Times: 1
+	Query: "Bothrops asper" ; Times: 2
+	Query: "Plestiodon laticeps specificepithet:laticeps genus:Plestiodon mappable:1" ; Times: 1
+	Query: "plestiodon tetragrammus omnh" ; Times: 1
+	Query: "Pantherophis spiloides specificepithet:spiloides genus:Pantherophis mappable:1" ; Times: 1
+	Query: "Apalone spinifera specificepithet:spinifera genus:Apalone year &gt;= 1980 year &lt;= 2016 mappable:1" ; Times: 1
+	Query: "Norops fuscoauratus 1" ; Times: 1
+	Query: "specificepithet:cyanogenys genus:Sceloporus family:Phrynosomatidae country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Anolis nebulosus 1" ; Times: 1
+	Query: "Anolis fuscoauratus 1" ; Times: 2
+	Query: "Thamnophis hammondii" ; Times: 1
+	Query: "Laemanctus serratus stateprovince:&#34;Tamaulipas&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Anolis limifrons 1" ; Times: 4
+	Query: "Anolis sericeus 1" ; Times: 1
+	Query: "specificepithet:olivaceus genus:Sceloporus family:Phrynosomatidae country:&#34;Mexico&#34;" ; Times: 1
+	Query: "gopherus polyphemus" ; Times: 3
+	Query: "Lepidophyma flavimaculatum" ; Times: 1
+	Query: "Sceloporus olivaceus" ; Times: 2
+	Query: "12359" ; Times: 1
+	Query: "Anolis sagrei sagrei  1" ; Times: 1
+	Query: "urosaurus ornatus stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "clelia" ; Times: 2
+	Query: "Sceloporus parvus" ; Times: 1
+	Query: "sceloporus torquatus" ; Times: 1
+	Query: "Plestiodon septentrionalis specificepithet:septentrionalis genus:Plestiodon mappable:1" ; Times: 1
+	Query: "Pantherophis guttatus specificepithet:guttatus genus:Pantherophis mappable:1" ; Times: 1
+	Query: "Farancia abacura specificepithet:abacura genus:Farancia year &gt;= 1980 year &lt;= 2016 mappable:1" ; Times: 1
+	Query: "aspidoscelis sacki" ; Times: 1
+	Query: "Heloderma" ; Times: 1
+	Query: "specificepithet:maculosus genus:Sceloporus family:Phrynosomatidae country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Anolis punctatus 1" ; Times: 1
+	Query: "order:Serpentes stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "Graptemys geographica 1" ; Times: 1
+	Query: "Norops capito 1" ; Times: 1
+	Query: "Anolis nitens tandai 1" ; Times: 1
+	Query: "27582" ; Times: 1
+	Query: "25239" ; Times: 1
+	Query: "Apalone mutica specificepithet:mutica genus:Apalone year &gt;= 1980 year &lt;= 2016 mappable:1" ; Times: 1
+	Query: "Sceloporus albiventris" ; Times: 1
+	Query: "Pantherophis emoryi specificepithet:emoryi genus:Pantherophis mappable:1" ; Times: 1
+	Query: "Sceloporus torquatus" ; Times: 2
+	Query: "Phrynosoma taurus" ; Times: 1
+	Query: "anolis carpenteri" ; Times: 1
+	Query: "Gambelia county:&#34;Riverside&#34;" ; Times: 4
+	Query: "Pseudemys concinna 1" ; Times: 1
+	Query: "Sceloporus cyanogenys" ; Times: 1
+	Query: "Phyllorhynchus stateprovince:&#34;Arizona&#34; (Pinal)" ; Times: 1
+	Query: "plestiodon tetragrammus" ; Times: 2
+	Query: "Gopherus berlandieri" ; Times: 3
+	Query: "Anolis sagrei 1" ; Times: 1
+	Query: "Anolis oxylophus 1" ; Times: 1
+	Query: "Anolis chrysolepis brasiliensis 1" ; Times: 1
+	Query: "Apalone ferox 1" ; Times: 1
+	Query: "Trachemys scripta 1" ; Times: 4
+	Query: "class:reptilia stateprovince:&#34;Tamaulipas&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Plestiodon anthracinus specificepithet:anthracinus genus:Plestiodon mappable:1" ; Times: 1
+	Query: "Anolis sericeus sericeus 1" ; Times: 1
+	Query: "plestiodon tetragrammus utep" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 14 (out of 811 download events in this period)
+Total number of records downloaded: 121
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+	Country: Thailand ; Times: 2
+	Country: Colombia ; Times: 2
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-09-13 ; Times: 2
+	Date: 2016-09-12 ; Times: 2
+	Date: 2016-09-10 ; Times: 2
+	Date: 2016-09-14 ; Times: 1
+	Date: 2016-09-06 ; Times: 2
+	Date: 2016-09-07 ; Times: 3
+	Date: 2016-09-02 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "anolis capito" ; Times: 1
+	Query: "anolis lemurinus" ; Times: 1
+	Query: "specificepithet:olivaceus genus:Sceloporus family:Phrynosomatidae country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:maculosus genus:Sceloporus family:Phrynosomatidae country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Porthidium nasutum" ; Times: 1
+	Query: "&#34;Lepidophyma flavimaculatum&#34;" ; Times: 1
+	Query: "Bothrops asper" ; Times: 1
+	Query: "Phyllorhynchus stateprovince:&#34;Arizona&#34; (Pinal)" ; Times: 1
+	Query: "thailand" ; Times: 2
+	Query: "clelia" ; Times: 2
+	Query: "specificepithet:cyanogenys genus:Sceloporus family:Phrynosomatidae country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Agkistrodon piscivorus specificepithet:piscivorus genus:Agkistrodon year &gt;= 1980 year &lt;= 2016 mappable:1" ; Times: 1
+
+
+End of report.
