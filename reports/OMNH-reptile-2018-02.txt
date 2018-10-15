@@ -1,0 +1,283 @@
+Report for Institution Code OMNH, Resource reptile
+Usage stats for February 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 282
+Number of records retrieved in searches: 3023
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 12
+	Country: Canada ; Times: 2
+	Country: Israel ; Times: 3
+	Country: Portugal ; Times: 40
+	Country: Mexico ; Times: 12
+	Country: Unknown ; Times: 27
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 58
+	Country: China ; Times: 2
+	Country: United States ; Times: 124
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-09 ; Times: 11
+	Date: 2018-02-08 ; Times: 9
+	Date: 2018-02-02 ; Times: 54
+	Date: 2018-02-01 ; Times: 11
+	Date: 2018-02-07 ; Times: 17
+	Date: 2018-02-06 ; Times: 13
+	Date: 2018-02-05 ; Times: 3
+	Date: 2018-02-04 ; Times: 1
+	Date: 2018-02-21 ; Times: 5
+	Date: 2018-02-20 ; Times: 25
+	Date: 2018-02-23 ; Times: 8
+	Date: 2018-02-22 ; Times: 6
+	Date: 2018-02-25 ; Times: 4
+	Date: 2018-02-24 ; Times: 6
+	Date: 2018-02-27 ; Times: 30
+	Date: 2018-02-26 ; Times: 1
+	Date: 2018-02-14 ; Times: 17
+	Date: 2018-02-15 ; Times: 8
+	Date: 2018-02-17 ; Times: 5
+	Date: 2018-02-10 ; Times: 7
+	Date: 2018-02-11 ; Times: 4
+	Date: 2018-02-12 ; Times: 14
+	Date: 2018-02-13 ; Times: 10
+	Date: 2018-02-18 ; Times: 10
+	Date: 2018-02-19 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "stateprovince:&#34;New Mexico&#34; (Heloderma suspectum)" ; Times: 1
+	Query: "anolis transversalis" ; Times: 1
+	Query: "heloderma" ; Times: 2
+	Query: "Pseudalsophis dorsalis" ; Times: 3
+	Query: "gopherus flavomarginatus" ; Times: 8
+	Query: "locality:bois blanc island" ; Times: 1
+	Query: "county:&#34;Hill&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "aplopeltura boa" ; Times: 3
+	Query: "Lampropeltis Charles" ; Times: 1
+	Query: "Amphisbaena alba" ; Times: 1
+	Query: "Phrynosoma solare sonora" ; Times: 2
+	Query: "Pseudalsophis hoodensis" ; Times: 2
+	Query: "distance(location,geopoint(42.2699864184285,-90.3736484933877))&lt;29940" ; Times: 4
+	Query: "Psammophis sibilans" ; Times: 4
+	Query: "stateprovince:&#34;Arizona&#34; (Sceloporus Scalaris )" ; Times: 2
+	Query: "genus:drymarchon (male OR female) hassex:1" ; Times: 1
+	Query: "specificepithet:grahamii genus:regina year &gt;= 1990 year &lt;= 2018" ; Times: 2
+	Query: "35931" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "specificepithet:septentrionalis genus:plestiodon hassex:1" ; Times: 1
+	Query: "specificepithet:fasciatus genus:plestiodon hassex:1" ; Times: 1
+	Query: "hemidactylus turcicus oklahoma" ; Times: 1
+	Query: "OMNH 34399" ; Times: 2
+	Query: "amphisbaena alba" ; Times: 1
+	Query: "specificepithet:vipera genus:Cerastes" ; Times: 3
+	Query: "Elaphe guttata mappable:1" ; Times: 4
+	Query: "Phyllodactylus baurii" ; Times: 7
+	Query: "genus:lampropeltis getula stateprovince:&#34;georgia&#34;" ; Times: 1
+	Query: "Leptotyphlops cairi" ; Times: 1
+	Query: "genus:heloderma" ; Times: 2
+	Query: "Heterodon nasicus stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:suspectum genus:heloderma" ; Times: 1
+	Query: "Sauromalus varius Sonora" ; Times: 2
+	Query: "apalone spinifera texas" ; Times: 1
+	Query: "specificepithet:flavescens genus:Kinosternon institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:attenuatus genus:Ophisaurus year &gt;= 1995" ; Times: 2
+	Query: "Reptilia Oklahoma lincoln" ; Times: 1
+	Query: "Pseudalsophis dorsalis ecuador" ; Times: 1
+	Query: "genus:Cerastes" ; Times: 1
+	Query: "Ptyodactylus hasselquistii" ; Times: 1
+	Query: "15928" ; Times: 1
+	Query: "Dipsas catesbyi" ; Times: 4
+	Query: "Chamaeleo chamaeleon mappable:1" ; Times: 5
+	Query: "specificepithet:attenuatus genus:Ophisaurus year &gt;= 2000" ; Times: 2
+	Query: "Graptemys geographica mappable:1" ; Times: 5
+	Query: "specificepithet:sagrei genus:Anolis country:&#34;Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Pseudalsophis hoodensis ecuador" ; Times: 1
+	Query: "Macrochelys temminckii mappable:1" ; Times: 7
+	Query: "Graptemys pseudogeographica mappable:1" ; Times: 6
+	Query: "Thecadactylus Ecuador" ; Times: 3
+	Query: "uta palmeri sonora" ; Times: 1
+	Query: "distance(location,geopoint(26.219201413,-98.5266965236825))&lt;20217" ; Times: 2
+	Query: "Ptyodactylus has" ; Times: 2
+	Query: "Aspidoscelis arizonae" ; Times: 2
+	Query: "Sphenops sepsoides" ; Times: 2
+	Query: "Pseudemys concinna mappable:1" ; Times: 7
+	Query: "genus:spalerosophis" ; Times: 1
+	Query: "specificepithet:garnotii genus:Hemidactylus stateprovince:&#34;Florida&#34; year &gt;= 2000" ; Times: 1
+	Query: "Diadophis regalis regalis" ; Times: 2
+	Query: "Diadophis punctatus regalis" ; Times: 2
+	Query: "Psammophis schokari" ; Times: 1
+	Query: "genus:Phrynosoma county:&#34;Imperial&#34;" ; Times: 1
+	Query: "OMNH 34497" ; Times: 1
+	Query: "Trapelus savignii" ; Times: 1
+	Query: "fieldnumber:GFMJ year &gt;= 2010 year &lt;= 2017" ; Times: 1
+	Query: "aspidoscelis arizonae" ; Times: 2
+	Query: "sphenops sepsoides" ; Times: 2
+	Query: "hemidactylus turcicus louisiana" ; Times: 2
+	Query: "genus:ophisaurus (male OR female) hassex:1" ; Times: 1
+	Query: "Pseudalsophis occidentalis" ; Times: 10
+	Query: "Acanthodactylus boskianus" ; Times: 2
+	Query: "Atractus elaps" ; Times: 3
+	Query: "plestiodon anthracinus" ; Times: 1
+	Query: "distance(location,geopoint(34.1738458175001,-96.6470341709999))&lt;8152" ; Times: 1
+	Query: "Reptilia Arizona barfoot" ; Times: 3
+	Query: "genus:Tantilla country:&#34;Brazil&#34; year &gt;= 1985" ; Times: 1
+	Query: "Uta palmeri sonora" ; Times: 1
+	Query: "genus:micrurus stateprovince:&#34;florida&#34; year &gt;= 2008 year &lt;= 2018" ; Times: 1
+	Query: "Liotyphlops albirostris" ; Times: 2
+	Query: "sceloporus scalaris vntype:specimen stateprovince:&#34;Arizona&#34; country:&#34;united states&#34;" ; Times: 1
+	Query: "anoles" ; Times: 1
+	Query: "sceloporus scalaris stateprovince:&#34;Arizona&#34; country:&#34;united states&#34; hassex:1" ; Times: 1
+	Query: "coleonyx brevis" ; Times: 1
+	Query: "Plestiodon fasciatus Missouri" ; Times: 1
+	Query: "Trachemys scripta elegans mappable:1" ; Times: 2
+	Query: "specificepithet:attenuatus genus:Ophisaurus year &gt;= 1995 institutioncode:OMNH" ; Times: 1
+	Query: "13778" ; Times: 1
+	Query: "specificepithet:obsoletus genus:plestiodon hassex:1" ; Times: 1
+	Query: "Malpolon monspessulanus" ; Times: 3
+	Query: "Guyana (reptile)" ; Times: 2
+	Query: "specificepithet:laticeps genus:plestiodon hassex:1" ; Times: 1
+	Query: "Crotalus zacatecas" ; Times: 2
+	Query: "plestiodon septentrionalis" ; Times: 1
+	Query: "Dipsas indica" ; Times: 1
+	Query: "psammophis sibilans" ; Times: 3
+	Query: "vntype:specimen country:&#34;United States&#34; (pan)" ; Times: 1
+	Query: "Psammophis aegyptius" ; Times: 1
+	Query: "Sonora semiannulata Sonora mexico" ; Times: 1
+	Query: "Cerastes vipera" ; Times: 2
+	Query: "Masticophis bilineatus Sonora" ; Times: 2
+	Query: "genus:phyllorhynchus (male OR female) hassex:1" ; Times: 1
+	Query: "anolis biporcatus" ; Times: 1
+	Query: "Ptyodactylus h" ; Times: 1
+	Query: "Lichanura trivirgata trivirgata" ; Times: 1
+	Query: "Acanthodactylus scutellatus" ; Times: 5
+	Query: "heloderma suspectum" ; Times: 1
+	Query: "uromastyx aegyptia" ; Times: 2
+	Query: "genus:Cnemidophorus year &gt;= 1995" ; Times: 1
+	Query: "genus:bogertophis hassex:1" ; Times: 1
+	Query: "leptotyphlops cairi" ; Times: 1
+	Query: "platyceps" ; Times: 2
+	Query: "Spalerosophis diadema" ; Times: 3
+	Query: "Guyana (reptile) mappable:1" ; Times: 1
+	Query: "family:viperidae stateprovince:&#34;florida&#34; year &gt;= 2012 year &lt;= 2018" ; Times: 2
+	Query: "varanus griseus" ; Times: 2
+	Query: "heterodon simus" ; Times: 1
+	Query: "Sceloporus formosus" ; Times: 1
+	Query: "crotaphytus reticulatus texas" ; Times: 1
+	Query: "Neoseps reynoldsi" ; Times: 1
+	Query: "Chamaeleo chamaeleon" ; Times: 2
+	Query: "specificepithet:obsoletus genus:plestiodon stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "distance(location,geopoint(29.57616763575,-94.335494987))&lt;6303" ; Times: 1
+	Query: "genus:leptotyphlops (male OR female) hassex:1" ; Times: 1
+	Query: "Agkistrodon Oklahoma cleveland" ; Times: 2
+	Query: "scincus scincus vntype:specimen specificepithet:scincus genus:scincus" ; Times: 1
+	Query: "Aspidoscelis flagellicauda" ; Times: 1
+	Query: "specificepithet:mutica genus:apalone hassex:1" ; Times: 1
+	Query: "pseudalsophis" ; Times: 1
+	Query: "Stenodactylus sthenodactylus" ; Times: 1
+	Query: "specificepithet:tetragrammus genus:plestiodon hassex:1" ; Times: 1
+	Query: "Pseudalsophis occidentalis ecuador" ; Times: 1
+	Query: "Masticophis flagellum Sonora" ; Times: 1
+	Query: "eryx" ; Times: 1
+	Query: "Clark county Nevada Crotalus" ; Times: 1
+	Query: "specificepithet:atriceps genus:Tantilla stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "46181" ; Times: 1
+	Query: "crotaphytus reticulatus" ; Times: 1
+	Query: "Board class:Reptilia country:&#34;United States&#34; year &gt;= 2000 year &lt;= 2018" ; Times: 3
+	Query: "sceloporus scalaris vntype:specimen stateprovince:&#34;Arizona&#34; country:&#34;united states&#34; hassex:1" ; Times: 1
+	Query: "genus:Amphisbaena class:Reptilia country:&#34;Guyana&#34;" ; Times: 1
+	Query: "Typhlophis squamosus" ; Times: 2
+	Query: "genus:Tropidoclonion hassex:1" ; Times: 1
+	Query: "novoeumeces schneideri" ; Times: 1
+	Query: "aspidoscelis flagellicauda" ; Times: 2
+	Query: "Phyllodactylus galapagensis" ; Times: 1
+	Query: "class:reptilia county:&#34;philadelphia&#34; stateprovince:&#34;pennsylvania&#34; AND (NOT thamnophis NOT terrapene NOT coluber NOT elaphe NOT pantherophis NOT trachemys NOT chrysemys)" ; Times: 1
+	Query: "genus:rhineura hassex:1" ; Times: 1
+	Query: "Pantherophis guttatus mappable:1" ; Times: 4
+	Query: "cerastes vipera" ; Times: 10
+	Query: "rhinobothryum" ; Times: 1
+	Query: "Sonora semiannulata state of Sonora mexico" ; Times: 1
+	Query: "Sibynomorphus mikanii" ; Times: 1
+	Query: "genus:cophosaurus (male OR female) hassex:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 43 (out of 1892 download events in this period)
+Total number of records downloaded: 1993
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 34
+	Country: Brazil ; Times: 2
+	Country: Mexico ; Times: 6
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-14 ; Times: 6
+	Date: 2018-02-15 ; Times: 4
+	Date: 2018-02-16 ; Times: 2
+	Date: 2018-02-22 ; Times: 1
+	Date: 2018-02-10 ; Times: 1
+	Date: 2018-02-24 ; Times: 1
+	Date: 2018-02-27 ; Times: 3
+	Date: 2018-02-13 ; Times: 2
+	Date: 2018-02-28 ; Times: 1
+	Date: 2018-02-23 ; Times: 1
+	Date: 2018-02-06 ; Times: 2
+	Date: 2018-02-09 ; Times: 4
+	Date: 2018-02-08 ; Times: 2
+	Date: 2018-02-03 ; Times: 1
+	Date: 2018-02-25 ; Times: 1
+	Date: 2018-02-01 ; Times: 5
+	Date: 2018-02-07 ; Times: 1
+	Date: 2018-02-20 ; Times: 1
+	Date: 2018-02-05 ; Times: 2
+	Date: 2018-02-21 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Sceloporus graciosus graciosus" ; Times: 1
+	Query: "Sceloporus formosus" ; Times: 1
+	Query: "genus:storeria hassex:1" ; Times: 1
+	Query: "Sceloporus scalaris" ; Times: 1
+	Query: "Phrynosoma platyrhinos" ; Times: 1
+	Query: "Window" ; Times: 1
+	Query: "regina alleni" ; Times: 1
+	Query: "Uma inornata" ; Times: 1
+	Query: "Anniella pulchra pulchra" ; Times: 1
+	Query: "reptile michigan" ; Times: 2
+	Query: "buren" ; Times: 1
+	Query: "seminatrix pygaea" ; Times: 1
+	Query: "Echis carinatus" ; Times: 1
+	Query: "Sceloporus spinosus" ; Times: 1
+	Query: "specificepithet:carolina genus:terrapene hassex:1" ; Times: 1
+	Query: "stateprovince:&#34;Arizona&#34; (Sceloporus Scalaris )" ; Times: 1
+	Query: "window" ; Times: 1
+	Query: "Anniella pulchra" ; Times: 1
+	Query: "specificepithet:sagrei genus:Anolis stateprovince:&#34;Florida&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Uma scoparia" ; Times: 1
+	Query: "specificepithet:sipedon genus:nerodia hassex:1" ; Times: 1
+	Query: "sternotherus odoratus texas" ; Times: 1
+	Query: "Phyllodactylus baurii" ; Times: 2
+	Query: "Diadophis punctatus regalis" ; Times: 1
+	Query: "Diadophis regalis regalis" ; Times: 1
+	Query: "specificepithet:cerastes genus:crotalus" ; Times: 1
+	Query: "country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "Heterodon nasicus stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "heloderma suspectum" ; Times: 1
+	Query: "genus:Phrynosoma family:Phrynosomatidae country:&#34;Mexico&#34; mappable:1" ; Times: 1
+	Query: "aspidoscelis gularis" ; Times: 1
+	Query: "Sceloporus grammicus" ; Times: 1
+	Query: "genus:Arizona" ; Times: 1
+	Query: "Phyllodactylus galapagensis" ; Times: 1
+	Query: "python sebae" ; Times: 1
+	Query: "apalone spinifera texas" ; Times: 1
+	Query: "regina rigida" ; Times: 1
+	Query: "Masticophis flagellum piceus" ; Times: 1
+	Query: "Storeria dekayi" ; Times: 1
+	Query: "sceloporus scalaris" ; Times: 1
+	Query: "sceloporus scalaris vntype:specimen stateprovince:&#34;Arizona&#34; country:&#34;united states&#34;" ; Times: 1
+
+
+End of report.
