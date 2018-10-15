@@ -1,0 +1,235 @@
+Report for Institution Code OMNH, Resource reptile
+Usage stats for January 2018, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 277
+Number of records retrieved in searches: 10288
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 183
+	Country: Iran ; Times: 5
+	Country: Peru ; Times: 1
+	Country: Mexico ; Times: 76
+	Country: Unknown ; Times: 4
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Chile ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-19 ; Times: 7
+	Date: 2018-01-18 ; Times: 8
+	Date: 2018-01-31 ; Times: 18
+	Date: 2018-01-30 ; Times: 15
+	Date: 2018-01-11 ; Times: 3
+	Date: 2018-01-10 ; Times: 5
+	Date: 2018-01-13 ; Times: 2
+	Date: 2018-01-12 ; Times: 1
+	Date: 2018-01-15 ; Times: 3
+	Date: 2018-01-17 ; Times: 40
+	Date: 2018-01-16 ; Times: 30
+	Date: 2018-01-24 ; Times: 36
+	Date: 2018-01-25 ; Times: 8
+	Date: 2018-01-08 ; Times: 4
+	Date: 2018-01-09 ; Times: 1
+	Date: 2018-01-28 ; Times: 10
+	Date: 2018-01-29 ; Times: 7
+	Date: 2018-01-02 ; Times: 4
+	Date: 2018-01-03 ; Times: 2
+	Date: 2018-01-26 ; Times: 9
+	Date: 2018-01-01 ; Times: 9
+	Date: 2018-01-20 ; Times: 3
+	Date: 2018-01-07 ; Times: 5
+	Date: 2018-01-22 ; Times: 7
+	Date: 2018-01-05 ; Times: 5
+	Date: 2018-01-04 ; Times: 5
+	Date: 2018-01-23 ; Times: 13
+	Date: 2018-01-27 ; Times: 17
+
+List of queries that retrieved data from the resource: 
+	Query: "10299" ; Times: 1
+	Query: "Clelia clelia" ; Times: 2
+	Query: "Spilotes pullatus" ; Times: 2
+	Query: "Bothrops asper" ; Times: 1
+	Query: "specificepithet:melanocephala genus:Tantilla year &gt;= 1980 year &lt;= 2017" ; Times: 1
+	Query: "Indotyphlops braminus" ; Times: 2
+	Query: "specificepithet:notata genus:Uma county:&#34;Imperial&#34; stateprovince:&#34;California&#34; year &gt;= 1980" ; Times: 1
+	Query: "Amphisbaena alba" ; Times: 1
+	Query: "genus:Charina stateprovince:&#34;Washington&#34; year &gt;= 1980" ; Times: 1
+	Query: "Anolis lemurinus" ; Times: 1
+	Query: "Conophis lineatus" ; Times: 2
+	Query: "vntype:specimen specificepithet:cristatus genus:Amblyrhynchus preparations:dry" ; Times: 1
+	Query: "rhinobothryum" ; Times: 2
+	Query: "Crotalus polystictus" ; Times: 7
+	Query: "Staurotypus triporcatus" ; Times: 2
+	Query: "specificepithet:suspectum genus:Heloderma" ; Times: 1
+	Query: "Atropoides nummifer" ; Times: 2
+	Query: "Drymobius margaritiferus" ; Times: 2
+	Query: "genus:Agkistrodon piscivorous stateprovince:&#34;Oklahoma&#34;" ; Times: 2
+	Query: "Leptophis mexicanus" ; Times: 2
+	Query: "genus:Rhinobothryum" ; Times: 1
+	Query: "specificepithet:melanocephala genus:Tantilla country:&#34;Brazil&#34; year &gt;= 1980 year &lt;= 2017" ; Times: 1
+	Query: "Drymarchon corais" ; Times: 1
+	Query: "Sceloporus variabilis" ; Times: 1
+	Query: "Leptodeira septentrionalis" ; Times: 2
+	Query: "specificepithet:rudis genus:neusticurus" ; Times: 1
+	Query: "Drymarchon couperi" ; Times: 1
+	Query: "specificepithet:attenuatus genus:Ophisaurus year &gt;= 1990" ; Times: 2
+	Query: "eryx johnii" ; Times: 1
+	Query: "Crotalus durissus" ; Times: 2
+	Query: "genus:Crotalus atrox stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "distance(location,geopoint(33.72463557,-96.7911926727045))&lt;1631" ; Times: 4
+	Query: "Thamnophis proximus" ; Times: 1
+	Query: "stenodactylus FMNH" ; Times: 1
+	Query: "Sphaerodactylus millepunctatus" ; Times: 2
+	Query: "specificepithet:neuwiedii genus:Pseudoboa" ; Times: 1
+	Query: "Porthidium nasutum" ; Times: 2
+	Query: "Anolis limifrons" ; Times: 1
+	Query: "Sceloporus chrysostictus" ; Times: 2
+	Query: "Corallus" ; Times: 4
+	Query: "29233" ; Times: 3
+	Query: "distance(location,geopoint(33.7427826252,-96.7929481645))&lt;1762" ; Times: 5
+	Query: "specificepithet:erytrogramma genus:Farancia stateprovince:&#34;florida&#34;" ; Times: 1
+	Query: "distance(location,geopoint(26.219201413,-98.5266965236825))&lt;20217" ; Times: 3
+	Query: "Lepidophyma flavimaculatum" ; Times: 2
+	Query: "genus:deirochelys stateprovince:&#34;oklahoma&#34;" ; Times: 4
+	Query: "hemidactylus turcicus" ; Times: 1
+	Query: "class:Reptilia county:&#34;Hardeman&#34; stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "PLESTIODON FASCIATUS oklahoma" ; Times: 1
+	Query: "genus:heterodon simus stateprovince:&#34;florida&#34;" ; Times: 1
+	Query: "distance(location,geopoint(36.6427830095001,-101.216595491))&lt;5106" ; Times: 3
+	Query: "distance(location,geopoint(31.3451472825001,-109.25778638))&lt;2897" ; Times: 3
+	Query: "Ctenosaura similis" ; Times: 2
+	Query: "Sceloporus teapensis" ; Times: 2
+	Query: "acanthodactylus FMNH" ; Times: 1
+	Query: "Leptophis ahaetulla" ; Times: 2
+	Query: "distance(location,geopoint(35.578607797,-95.960324128))&lt;13371" ; Times: 6
+	Query: "Amblyrhynchus cristatus" ; Times: 1
+	Query: "Anolis capito" ; Times: 2
+	Query: "Elaphe climacophora" ; Times: 1
+	Query: "Gopherus berlandieri" ; Times: 2
+	Query: "24880" ; Times: 1
+	Query: "Dipsas" ; Times: 1
+	Query: "aplopeltura" ; Times: 1
+	Query: "Bothriechis schlegelii" ; Times: 2
+	Query: "Mesaspis moreletii" ; Times: 2
+	Query: "phyllodactylus FMNH" ; Times: 1
+	Query: "distance(location,geopoint(34.1738458175001,-96.6470341709999))&lt;8152" ; Times: 2
+	Query: "specificepithet:mississippiensis genus:Alligator stateprovince:&#34;Oklahoma&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "distance(location,geopoint(36.784259511,-98.215133042))&lt;13670" ; Times: 3
+	Query: "Rhadinaea decorata" ; Times: 2
+	Query: "distance(location,geopoint(34.754019041,-98.659389363))&lt;15869" ; Times: 12
+	Query: "gopherus berlandieri" ; Times: 2
+	Query: "coleonyx brevis" ; Times: 2
+	Query: "Hemidactylus turcicus country:&#34;United States&#34;" ; Times: 1
+	Query: "Thecadactylus rapicauda" ; Times: 2
+	Query: "Imantodes cenchoa" ; Times: 2
+	Query: "Sceloporus pictus" ; Times: 2
+	Query: "specificepithet:neuwiedii genus:Pseudoboa country:&#34;Guyana&#34;" ; Times: 1
+	Query: "Wood pile" ; Times: 24
+	Query: "genus:neusticurus" ; Times: 1
+	Query: "OMNH 45003" ; Times: 1
+	Query: "pseudocerastes persicus" ; Times: 5
+	Query: "Anolis sericeus" ; Times: 1
+	Query: "distance(location,geopoint(35.4290829255,-95.034842065))&lt;12602" ; Times: 3
+	Query: "Acanthochelys basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "26413" ; Times: 1
+	Query: "sceloporus horridus" ; Times: 2
+	Query: "PLESTIODON FASCIATUS kansas" ; Times: 1
+	Query: "genus:Uma county:&#34;Imperial&#34; stateprovince:&#34;California&#34; year &gt;= 1980" ; Times: 1
+	Query: "Senticolis triaspis" ; Times: 2
+	Query: "specificepithet:Carinatus genus:Leiocephalus hassex:1 mappable:1" ; Times: 1
+	Query: "sceloporus torquatus torquatus" ; Times: 2
+	Query: "PLESTIODON FASCIATUS cave" ; Times: 1
+	Query: "specificepithet:nasicus hassex:1" ; Times: 1
+	Query: "genus:Pantherophis stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "specificepithet:guttata family:emydidae" ; Times: 1
+	Query: "Oxyrhopus petolarius" ; Times: 2
+	Query: "specificepithet:obsoletus genus:plestiodon stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "Gymnophthalmus speciosus" ; Times: 2
+	Query: "distance(location,geopoint(29.57616763575,-94.335494987))&lt;6303" ; Times: 2
+	Query: "PLESTIODON FASCIATUS missouri" ; Times: 2
+	Query: "genus:Gonatodes family:Sphaerodactylidae order:Squamata class:reptilia year &gt;= 1999 year &lt;= 2018" ; Times: 1
+	Query: "Crotalus ruber San Diego" ; Times: 2
+	Query: "spatial data" ; Times: 1
+	Query: "Under log class:Reptilia country:&#34;United States&#34; year &gt;= 1990 year &lt;= 2018" ; Times: 1
+	Query: "Corytophanes cristatus" ; Times: 2
+	Query: "specificepithet:nasicus hassex:1 mappable:1" ; Times: 1
+	Query: "Nasicus arizona cochise" ; Times: 2
+	Query: "Sceloporus serrifer" ; Times: 2
+	Query: "Boa constrictor" ; Times: 1
+	Query: "Micrurus surinamensis" ; Times: 1
+	Query: "sceloporus undulatus alabama" ; Times: 1
+	Query: "Under rock class:Reptilia country:&#34;United States&#34; year &gt;= 1990 year &lt;= 2018" ; Times: 10
+	Query: "genus:heterodon stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "Anolis biporcatus" ; Times: 2
+	Query: "specificepithet:notata genus:Uma stateprovince:&#34;California&#34; year &gt;= 1980" ; Times: 1
+	Query: "plestiodon obsoletus" ; Times: 3
+	Query: "tantilla tissue" ; Times: 4
+	Query: "Ficimia olivacea" ; Times: 2
+	Query: "Lampropeltis nigra" ; Times: 1
+	Query: "genus:Dipsosaurus county:&#34;Imperial&#34; stateprovince:&#34;California&#34; year &gt;= 1980" ; Times: 1
+	Query: "specificepithet:nasicus genus:heterodon hassex:1" ; Times: 1
+	Query: "PLESTIODON FASCIATUS arkansas" ; Times: 13
+	Query: "specificepithet:catenifer genus:Pituophis stateprovince:&#34;Baja California Sur&#34; country:&#34;Mexico&#34; mappable:1" ; Times: 1
+	Query: "42679" ; Times: 1
+	Query: "Oxybelis fulgidus" ; Times: 2
+	Query: "specificepithet:punctatus genus:Diadophis county:&#34;San Bernardino&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "distance(location,geopoint(33.4988060165,-104.408602877))&lt;15213" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 26 (out of 1398 download events in this period)
+Total number of records downloaded: 1085
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 14
+	Country: Iran ; Times: 1
+	Country: Mexico ; Times: 11
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-08 ; Times: 1
+	Date: 2018-01-30 ; Times: 1
+	Date: 2018-01-11 ; Times: 1
+	Date: 2018-01-10 ; Times: 7
+	Date: 2018-01-13 ; Times: 3
+	Date: 2018-01-12 ; Times: 2
+	Date: 2018-01-15 ; Times: 2
+	Date: 2018-01-07 ; Times: 1
+	Date: 2018-01-22 ; Times: 4
+	Date: 2018-01-16 ; Times: 1
+	Date: 2018-01-25 ; Times: 2
+	Date: 2018-01-26 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:draconoides genus:Callisaurus stateprovince:&#34;Baja California Sur&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Sistrurus catenatus" ; Times: 1
+	Query: "crotalus molossus" ; Times: 1
+	Query: "specificepithet:ater genus:Sauromalus stateprovince:&#34;Baja California Sur&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "stateprovince:mississippi class:reptilia" ; Times: 1
+	Query: "specificepithet:dorsalis genus:Dipsosaurus stateprovince:&#34;Baja California Sur&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:stansburiana genus:Uta stateprovince:&#34;Baja California Sur&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:attenuatus genus:Ophisaurus year &gt;= 1990" ; Times: 1
+	Query: "Lampropeltis zonata" ; Times: 1
+	Query: "genus:boa" ; Times: 1
+	Query: "Phrynosoma hernandesi mappable:1" ; Times: 1
+	Query: "order:Testudines (road OR vehicle)" ; Times: 1
+	Query: "phrynosoma hernandesi" ; Times: 1
+	Query: "genus:Dipsosaurus county:&#34;Imperial&#34; stateprovince:&#34;California&#34; year &gt;= 1980" ; Times: 1
+	Query: "pseudocerastes persicus" ; Times: 1
+	Query: "specificepithet:nigricaudus genus:Urosaurus stateprovince:&#34;Baja California Sur&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "plestiodon laticeps" ; Times: 1
+	Query: "specificepithet:orcutti genus:Sceloporus stateprovince:&#34;Baja California Sur&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "anniella" ; Times: 1
+	Query: "specificepithet:thalassinus genus:Petrosaurus stateprovince:&#34;Baja California Sur&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:punctatus genus:Diadophis" ; Times: 1
+	Query: "specificepithet:catenifer genus:Pituophis stateprovince:&#34;Baja California Sur&#34; country:&#34;Mexico&#34; mappable:1" ; Times: 1
+	Query: "Thamnophis melanogaster" ; Times: 2
+	Query: "tropidurus torquatus" ; Times: 1
+	Query: "crotalus horridus" ; Times: 1
+
+
+End of report.
