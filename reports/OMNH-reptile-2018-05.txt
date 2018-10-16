@@ -1,0 +1,284 @@
+Report for Institution Code OMNH, Resource reptile
+Usage stats for May 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 196
+Number of records retrieved in searches: 2923
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 157
+	Country: Italy ; Times: 2
+	Country: Mexico ; Times: 16
+	Country: Denmark ; Times: 1
+	Country: United Kingdom ; Times: 11
+	Country: Colombia ; Times: 3
+	Country: Unknown ; Times: 3
+	Country: Argentina ; Times: 1
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-29 ; Times: 3
+	Date: 2018-05-20 ; Times: 1
+	Date: 2018-05-21 ; Times: 6
+	Date: 2018-05-22 ; Times: 3
+	Date: 2018-05-23 ; Times: 10
+	Date: 2018-05-24 ; Times: 15
+	Date: 2018-05-25 ; Times: 6
+	Date: 2018-05-26 ; Times: 3
+	Date: 2018-05-27 ; Times: 2
+	Date: 2018-05-06 ; Times: 1
+	Date: 2018-05-07 ; Times: 6
+	Date: 2018-05-04 ; Times: 5
+	Date: 2018-05-05 ; Times: 10
+	Date: 2018-05-02 ; Times: 7
+	Date: 2018-05-03 ; Times: 6
+	Date: 2018-05-01 ; Times: 13
+	Date: 2018-05-08 ; Times: 8
+	Date: 2018-05-09 ; Times: 13
+	Date: 2018-05-30 ; Times: 12
+	Date: 2018-05-15 ; Times: 10
+	Date: 2018-05-14 ; Times: 8
+	Date: 2018-05-17 ; Times: 12
+	Date: 2018-05-16 ; Times: 6
+	Date: 2018-05-10 ; Times: 16
+	Date: 2018-05-13 ; Times: 1
+	Date: 2018-05-12 ; Times: 3
+	Date: 2018-05-19 ; Times: 4
+	Date: 2018-05-18 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:Nasicus genus:Heterodon county:&#34;Cleveland&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "phrynosoma cornutum stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "11051" ; Times: 1
+	Query: "OMNH 39347" ; Times: 1
+	Query: "OMNH 39346" ; Times: 1
+	Query: "specificepithet:graciosus genus:Urosaurus stateprovince:&#34;California&#34; year &gt;= 1800 year &lt;= 1960" ; Times: 1
+	Query: "specificepithet:cornutum genus:phrynosoma stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "specificepithet:miliarius genus:Sistrurus stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "OMNH 39348" ; Times: 2
+	Query: "OMNH sphenomorphus" ; Times: 1
+	Query: "distance(location,geopoint(42.2699864184285,-90.3736484933877))&lt;29940" ; Times: 2
+	Query: "omnh 6111" ; Times: 2
+	Query: "atropoides" ; Times: 1
+	Query: "Crotalus polystictus" ; Times: 1
+	Query: "specificepithet:uniparens class:Reptilia county:&#34;Dona Ana&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "Pinoyscincus llanosi OMNH" ; Times: 1
+	Query: "genus:diadophis county:&#34;san bernardino&#34;" ; Times: 1
+	Query: "specificepithet:cornutum genus:phrynosoma county:&#34;union&#34; stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "Atropoides nummifer" ; Times: 1
+	Query: "31227" ; Times: 2
+	Query: "specificepithet:scincus genus:scincus" ; Times: 4
+	Query: "entomology" ; Times: 1
+	Query: "class:Reptilia distance(location,geopoint(21.32959788937382,-99.0501213678861))&lt;33926" ; Times: 2
+	Query: "18002" ; Times: 1
+	Query: "reptiles of Day County South Dakota" ; Times: 1
+	Query: "37184" ; Times: 1
+	Query: "Agkistrodon taylori" ; Times: 1
+	Query: "genus:deirochelys stateprovince:&#34;Oklahoma&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:tesselatus class:Reptilia county:&#34;Dona Ana&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Thamnophis sumichrasti" ; Times: 1
+	Query: "specificepithet:philippinicus genus:Cyrtodactylus country:&#34;Philippines&#34;" ; Times: 1
+	Query: "class:Reptilia country:&#34;Nicaragua&#34; AND (NOT ANOLIS NOT AMEIVA) institutioncode:OMNH" ; Times: 2
+	Query: "10048" ; Times: 1
+	Query: "specificepithet:scripta genus:Trachemys mappable:1 year&gt;=2000" ; Times: 1
+	Query: "Anolis lionotus" ; Times: 4
+	Query: "Reptilia Escuinapa" ; Times: 1
+	Query: "SS 822" ; Times: 1
+	Query: "specificepithet:spekii genus:Kinixys" ; Times: 9
+	Query: "Micrurus lemniscatus" ; Times: 1
+	Query: "class:Reptilia county:&#34;San Patricio&#34; stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "Liophis typhlus" ; Times: 1
+	Query: "specificepithet:neuwiedii genus:Pseudoboa" ; Times: 1
+	Query: "specificepithet:annulata genus:Leptodeira country:&#34;Panama&#34; institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:neuwiedii genus:Pseudoboa institutioncode:OMNH" ; Times: 1
+	Query: "micrurus alleni" ; Times: 1
+	Query: "Micrurus hemprichii" ; Times: 1
+	Query: "specificepithet:cornutum genus:phrynosoma stateprovince:&#34;new mexico&#34; year &gt;= 1990 year &lt;= 2018" ; Times: 1
+	Query: "specificepithet:cornutum genus:phrynosoma stateprovince:&#34;new mexico&#34; year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "Phrynosoma cornutum stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "class:Reptilia country:&#34;Nicaragua&#34; AND (NOT KU NOT AMNH NOT UF NOT USNM)" ; Times: 2
+	Query: "reptiles zacatecas" ; Times: 4
+	Query: "family:Gekkonidae country:&#34;Philippines&#34;" ; Times: 1
+	Query: "liotyphlops albirostris" ; Times: 1
+	Query: "distance(location,geopoint(39.152078820787,-93.5543637292319))&lt;66104" ; Times: 3
+	Query: "genus:cophosaurus sex:male OR female" ; Times: 1
+	Query: "OMNH Pinoyscincus jagori" ; Times: 2
+	Query: "laemanctus serratus" ; Times: 1
+	Query: "Pinoyscincus abdictus OMNH" ; Times: 1
+	Query: "OMNH platyrhinos" ; Times: 1
+	Query: "Cemophora oklahoma" ; Times: 4
+	Query: "37232" ; Times: 1
+	Query: "genus:Heterodon county:&#34;Cleveland&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "class:Reptilia country:&#34;Nicaragua&#34; AND (NOT KU NOT AMNH NOT UF NOT USNM) institutioncode:OMNH" ; Times: 5
+	Query: "Reptilia Oklahoma canadian" ; Times: 3
+	Query: "specificepithet:guttata genus:pantherophis" ; Times: 2
+	Query: "OMNH 6111" ; Times: 1
+	Query: "Reptilia Oklahoma hinton" ; Times: 1
+	Query: "specificepithet:cornutum genus:phrynosoma year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "family:PHRYNOSOMATIDAE stateprovince:&#34;Puebla&#34;" ; Times: 2
+	Query: "specificepithet:Catenatus county:&#34;Cleveland&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "OMNH 45364" ; Times: 2
+	Query: "Liotyphlops albirostris" ; Times: 1
+	Query: "genus:uma sex:male OR female" ; Times: 1
+	Query: "cyrtopsis genus:Thamnophis stateprovince:&#34;Arizona&#34; mappable:1" ; Times: 1
+	Query: "scientificname:Lepidoblepharis festae " ; Times: 1
+	Query: "specificepithet:exsanguis class:Reptilia county:&#34;Dona Ana&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "eunectes murinus" ; Times: 2
+	Query: "genus:Arizona county:&#34;Cleveland&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "specificepithet:miliarius genus:sistrurus stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "genus:Crotalus stateprovince:&#34;Illinois&#34;" ; Times: 1
+	Query: "class:Reptilia county:&#34;Cameron&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "OMNH lipinia" ; Times: 1
+	Query: "oklahoma cemophora" ; Times: 2
+	Query: "Barisia imbricata" ; Times: 1
+	Query: "27634" ; Times: 1
+	Query: "heloderma horridum" ; Times: 1
+	Query: "specificepithet:scincus genus:scincus country:&#34;Egypt&#34;" ; Times: 1
+	Query: "specificepithet:berlandieri genus:Gopherus country:&#34;Mexico&#34; mappable:1" ; Times: 1
+	Query: "class:reptilia county:&#34;Imperial&#34; year &gt;= 1990 year &lt;= 2000" ; Times: 1
+	Query: "44963" ; Times: 1
+	Query: "diadophis punctatus regalis" ; Times: 2
+	Query: "order:squamata country:&#34;nigeria&#34;" ; Times: 4
+	Query: "varanus griseus" ; Times: 1
+	Query: "country:&#34;British Virgin Islands&#34;" ; Times: 1
+	Query: "genus:Phrynosoma county:&#34;San Diego&#34;" ; Times: 1
+	Query: "distance(location,geopoint(43.4623053706115,-89.3701269216162))&lt;38648" ; Times: 1
+	Query: "Pinoyscincus jagori OMNH" ; Times: 1
+	Query: "Pseudalsophis Galapagos" ; Times: 2
+	Query: "drymarchon texas" ; Times: 1
+	Query: "OMNH Pinoyscincus" ; Times: 1
+	Query: "anolis lionotus" ; Times: 2
+	Query: "Alsophis Galapagos" ; Times: 8
+	Query: "specificepithet:annulata genus:Leptodeira country:&#34;Ecuador&#34;" ; Times: 2
+	Query: "KUNHM 7888" ; Times: 1
+	Query: "Pinoyscincus OMNH" ; Times: 3
+	Query: "class:Reptilia county:&#34;Kleberg&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Micrurus surinamensis" ; Times: 1
+	Query: "specificepithet:annulata genus:Leptodeira country:&#34;Panama&#34;" ; Times: 1
+	Query: "omnh philippines" ; Times: 6
+	Query: "Anolis biporcatus" ; Times: 1
+	Query: "specificepithet:getula genus:Lampropeltis mappable:1 year&gt;=2000" ; Times: 1
+	Query: "specificepithet:graciosus genus:Urosaurus stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "heterodon OMNH" ; Times: 2
+	Query: "omnh lipinia" ; Times: 1
+	Query: "omnh cyrtodactylus sumuroi" ; Times: 1
+	Query: "genus:Cemophora stateprovince:&#34;Oklahoma&#34;" ; Times: 3
+	Query: "OMNH Philippines" ; Times: 3
+	Query: "Plestiodon anthracinus" ; Times: 1
+	Query: "Sceloporus aeneus" ; Times: 1
+	Query: "39454" ; Times: 1
+	Query: "36458" ; Times: 1
+	Query: "distance(location,geopoint(38.823841899042,-90.7090116510005))&lt;58590" ; Times: 1
+	Query: "psammophis aegyptius" ; Times: 4
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 71 (out of 1178 download events in this period)
+Total number of records downloaded: 14563
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: United States ; Times: 24
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 34
+	Country: Unknown ; Times: 1
+	Country: South Africa ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Thailand ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-07 ; Times: 3
+	Date: 2018-05-04 ; Times: 3
+	Date: 2018-05-16 ; Times: 1
+	Date: 2018-05-02 ; Times: 5
+	Date: 2018-05-13 ; Times: 1
+	Date: 2018-05-01 ; Times: 6
+	Date: 2018-05-11 ; Times: 1
+	Date: 2018-05-19 ; Times: 2
+	Date: 2018-05-18 ; Times: 11
+	Date: 2018-05-08 ; Times: 1
+	Date: 2018-05-09 ; Times: 21
+	Date: 2018-05-26 ; Times: 5
+	Date: 2018-05-21 ; Times: 2
+	Date: 2018-05-23 ; Times: 2
+	Date: 2018-05-25 ; Times: 1
+	Date: 2018-05-31 ; Times: 1
+	Date: 2018-05-30 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:rhinocheilus sex:male OR female" ; Times: 1
+	Query: "Staurotypus triporcatus" ; Times: 1
+	Query: "Thamnophis proximus" ; Times: 1
+	Query: "class:REPTILIA stateprovince:&#34;SINALOA&#34;" ; Times: 1
+	Query: "Boa constrictor" ; Times: 1
+	Query: "class:Reptilia county:&#34;San Patricio&#34; stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "Caretta caretta" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 1
+	Query: "Bothrops asper" ; Times: 1
+	Query: "genus:uma sex:male OR female" ; Times: 1
+	Query: "Atropoides nummifer" ; Times: 1
+	Query: "Lacertidae" ; Times: 1
+	Query: "Thamnophis marcianus" ; Times: 1
+	Query: "Calotes mystaceus" ; Times: 1
+	Query: "Tlaxcala" ; Times: 1
+	Query: "specificepithet:dorsalis genus:Dipsosaurus" ; Times: 1
+	Query: "phrynosoma orbiculare" ; Times: 1
+	Query: "Imantodes cenchoa" ; Times: 2
+	Query: "specificepithet:exsul genus:uma" ; Times: 1
+	Query: "ophiophagus Hannah" ; Times: 1
+	Query: "Lepidophyma flavimaculatum" ; Times: 1
+	Query: "class:Reptilia county:&#34;Kleberg&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:sonora sex:male OR female" ; Times: 1
+	Query: "genus:aspidoscelis sex:male OR female" ; Times: 3
+	Query: "genus:urosaurus sex:male OR female" ; Times: 1
+	Query: "agkistrodon" ; Times: 1
+	Query: "Crotalus scutulatus" ; Times: 1
+	Query: "order:squamata country:&#34;nigeria&#34;" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "Thamnophis cyrtopsis" ; Times: 1
+	Query: "class:Reptilia county:&#34;Cameron&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Anolis biporcatus" ; Times: 1
+	Query: "sceloporus megalepidurus" ; Times: 1
+	Query: "Eretmochelys imbricata" ; Times: 1
+	Query: "Leptophis mexicanus" ; Times: 1
+	Query: "Gerrhonotus liocephalus" ; Times: 1
+	Query: "phrynosoma cornutum" ; Times: 1
+	Query: "genus:cophosaurus sex:male OR female" ; Times: 1
+	Query: "genus:pseudemys sex:male OR female" ; Times: 1
+	Query: "Barisia imbricata" ; Times: 1
+	Query: "laemanctus serratus" ; Times: 2
+	Query: "sistrurus" ; Times: 1
+	Query: "genus:nerodia sex:male OR female" ; Times: 1
+	Query: "class:Reptilia county:&#34;Nueces&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Glyptemys insculpta" ; Times: 1
+	Query: "Leptophis ahaetulla" ; Times: 1
+	Query: "Crotalus polystictus" ; Times: 1
+	Query: "genus:arizona sex:male OR female" ; Times: 1
+	Query: "genus:dipsosaurus sex:male OR female" ; Times: 1
+	Query: "genus:agkistrodon" ; Times: 1
+	Query: "kinosternon herrerai" ; Times: 1
+	Query: "genus:farancia sex:male OR female" ; Times: 1
+	Query: "Crotalus molossus" ; Times: 1
+	Query: "Serpentes" ; Times: 1
+	Query: "Ctenosaura acanthura" ; Times: 1
+	Query: "Agkistrodon taylori" ; Times: 1
+	Query: "sceloporus grammicus" ; Times: 1
+	Query: "Jaculus jaculus" ; Times: 1
+	Query: "genus:coleonyx sex:male OR female" ; Times: 1
+	Query: "kinosternon leucostomum" ; Times: 1
+	Query: "sistrurus tergeminus" ; Times: 1
+	Query: "genus:Atropoides OR Cerrophidion OR Bothriechis OR Lachesis OR Mixcoatlus OR Ophryacus OR porthidium" ; Times: 1
+	Query: "Xenosaurus grandis" ; Times: 1
+	Query: "Thamnophis sumichrasti" ; Times: 1
+	Query: "Thamnophis eques" ; Times: 1
+	Query: "crotalus horridus" ; Times: 1
+
+
+End of report.
