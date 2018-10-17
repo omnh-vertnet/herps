@@ -1,0 +1,226 @@
+Report for Institution Code OMNH, Resource reptile
+Usage stats for July 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 190
+Number of records retrieved in searches: 2175
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 154
+	Country: Australia ; Times: 4
+	Country: Chile ; Times: 1
+	Country: Mexico ; Times: 13
+	Country: Unknown ; Times: 3
+	Country: India ; Times: 3
+	Country: United Kingdom ; Times: 2
+	Country: Germany ; Times: 7
+	Country: Peru ; Times: 1
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-07 ; Times: 11
+	Date: 2018-07-01 ; Times: 3
+	Date: 2018-07-02 ; Times: 3
+	Date: 2018-07-03 ; Times: 17
+	Date: 2018-07-28 ; Times: 3
+	Date: 2018-07-29 ; Times: 3
+	Date: 2018-07-08 ; Times: 4
+	Date: 2018-07-09 ; Times: 17
+	Date: 2018-07-04 ; Times: 11
+	Date: 2018-07-05 ; Times: 4
+	Date: 2018-07-06 ; Times: 6
+	Date: 2018-07-21 ; Times: 1
+	Date: 2018-07-26 ; Times: 4
+	Date: 2018-07-27 ; Times: 6
+	Date: 2018-07-24 ; Times: 5
+	Date: 2018-07-25 ; Times: 2
+	Date: 2018-07-13 ; Times: 1
+	Date: 2018-07-12 ; Times: 2
+	Date: 2018-07-11 ; Times: 7
+	Date: 2018-07-10 ; Times: 7
+	Date: 2018-07-17 ; Times: 7
+	Date: 2018-07-16 ; Times: 3
+	Date: 2018-07-15 ; Times: 4
+	Date: 2018-07-14 ; Times: 5
+	Date: 2018-07-31 ; Times: 11
+	Date: 2018-07-30 ; Times: 3
+	Date: 2018-07-19 ; Times: 4
+	Date: 2018-07-18 ; Times: 24
+	Date: 2018-07-22 ; Times: 1
+	Date: 2018-07-23 ; Times: 4
+	Date: 2018-07-20 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "Geronimo Baja" ; Times: 2
+	Query: "34490" ; Times: 1
+	Query: "specificepithet:miliarius genus:Sistrurus stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "specificepithet:marcianus genus:Thamnophis stateprovince:&#34;Arizona&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "genus:siphlophis" ; Times: 1
+	Query: "specificepithet:solare genus:Phrynosoma stateprovince:&#34;Sonora&#34; country:&#34;Mexico&#34;" ; Times: 5
+	Query: "specificepithet:miliarius genus:Sistrurus county:&#34;le flore&#34; stateprovince:&#34;oklahoma&#34;" ; Times: 2
+	Query: "Agkistrodon liberty county florida" ; Times: 1
+	Query: "Crotalus atrox Hill County" ; Times: 1
+	Query: "genus:chrysemys stateprovince:&#34;Oklahoma&#34;" ; Times: 10
+	Query: "atractus trilineatus" ; Times: 1
+	Query: "genus:lampropeltis stateprovince:&#34;oklahoma&#34;" ; Times: 3
+	Query: "specificepithet:floridana genus:Rhineura year &gt;= 1990" ; Times: 2
+	Query: "Drymobius margaritiferus" ; Times: 1
+	Query: "emydocephalus" ; Times: 1
+	Query: "specificepithet:reticulatus genus:Crotaphytus" ; Times: 2
+	Query: "20167" ; Times: 1
+	Query: "Cyrtodactylus sumuroi OMNH" ; Times: 1
+	Query: "sphenomorphus acutus OMNH" ; Times: 2
+	Query: "bothrops moojeni" ; Times: 1
+	Query: "omnh 43848" ; Times: 1
+	Query: "specificepithet:suspectum genus:heloderma" ; Times: 1
+	Query: "29686" ; Times: 1
+	Query: "country:Ecuador scientificname:Bothrops atrox " ; Times: 1
+	Query: "Lepidothyris fernandi" ; Times: 1
+	Query: "30999" ; Times: 1
+	Query: "Urosaurus bicarinatus Nayarit" ; Times: 1
+	Query: "Eunectes" ; Times: 1
+	Query: "specificepithet:portoricensis genus:alsophis" ; Times: 1
+	Query: "OMNH serpentes" ; Times: 2
+	Query: "specificepithet:triangulum genus:lampropeltis stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "Gerrhonotus infernalis" ; Times: 1
+	Query: "specificepithet:neuwiedii genus:Pseudoboa" ; Times: 1
+	Query: "Drymarchon florida" ; Times: 1
+	Query: "THE NATURAL HISTORY SOCIETY OF MARYLAND" ; Times: 1
+	Query: "specificepithet:neuwiedii genus:Pseudoboa institutioncode:OMNH" ; Times: 1
+	Query: "Coleonyx Coahuila" ; Times: 3
+	Query: "genus:Diadophis (Fort)" ; Times: 1
+	Query: "atoka Hypsiglena" ; Times: 1
+	Query: "Jefferson county heterodon" ; Times: 1
+	Query: "genus:deirochelys stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "Crotaphytus reticulatus" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;SOUTH CAROLINA&#34; year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "Arrhyton" ; Times: 1
+	Query: "16129" ; Times: 1
+	Query: "genus:thecadactylus year &gt;= 1990" ; Times: 2
+	Query: "oklahoma triangulum" ; Times: 19
+	Query: "specificepithet:cyrtopsis genus:Thamnophis stateprovince:&#34;Arizona&#34; country:&#34;United States&#34;" ; Times: 4
+	Query: "Pseudogonatodes" ; Times: 1
+	Query: "26423" ; Times: 1
+	Query: "genus:deirochelys stateprovince:&#34;Oklahoma&#34;" ; Times: 10
+	Query: "Amblyrhynchus cristatus" ; Times: 1
+	Query: "Kinixys spekii" ; Times: 1
+	Query: "pantherophis guttata guttata" ; Times: 1
+	Query: "13038" ; Times: 1
+	Query: "29140" ; Times: 1
+	Query: "pinoyscincus abdictus OMNH" ; Times: 1
+	Query: "Anguis" ; Times: 1
+	Query: "farancia erytrogramma Florida" ; Times: 3
+	Query: "genus:gerrhonotus stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "genus:Diadophis stateprovince:&#34;Arizona&#34;" ; Times: 4
+	Query: "atropoides" ; Times: 2
+	Query: "Drew Davis" ; Times: 6
+	Query: "specificepithet:platyrhinos county:&#34;San Bernardino&#34;" ; Times: 1
+	Query: "19692" ; Times: 1
+	Query: "omnh 45911" ; Times: 1
+	Query: "42239" ; Times: 1
+	Query: "specificepithet:neuwiedii genus:Pseudoboa country:&#34;Guyana&#34;" ; Times: 1
+	Query: "agkistrodon taylori" ; Times: 1
+	Query: "24926" ; Times: 1
+	Query: "Anolis bonairensis" ; Times: 1
+	Query: "Sonora Micrurus" ; Times: 1
+	Query: "omnh 45003" ; Times: 1
+	Query: "32613" ; Times: 1
+	Query: "Platyceps" ; Times: 2
+	Query: "Phrynosoma orbiculare" ; Times: 1
+	Query: "Kansas syspila" ; Times: 3
+	Query: "Trimeresurus flavomaculatus" ; Times: 1
+	Query: "YPM 3320" ; Times: 1
+	Query: "32863" ; Times: 2
+	Query: "Pantherophis spiloides" ; Times: 1
+	Query: "varanus olivaceus" ; Times: 1
+	Query: "kinixys spekii" ; Times: 7
+	Query: "genus:sceloporus county:&#34;Alachua&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "29884" ; Times: 1
+	Query: "micrurus alleni" ; Times: 1
+	Query: "country:Ecuador scientificname:Micrurus lemniscatus " ; Times: 1
+	Query: "dipsas" ; Times: 1
+	Query: "Samar Philippines Serpentes" ; Times: 1
+	Query: "anolis oxylophus" ; Times: 2
+	Query: "spatial data" ; Times: 1
+	Query: "Conolophus" ; Times: 2
+	Query: "37260" ; Times: 1
+	Query: "Serpentes yavapai" ; Times: 3
+	Query: "39041" ; Times: 1
+	Query: "class:Reptilia county:&#34;Jefferson&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "39043" ; Times: 1
+	Query: "Florida heterodon simus" ; Times: 2
+	Query: "heterodon simus Florida" ; Times: 1
+	Query: "cyrtodactylus annulatus OMNH" ; Times: 1
+	Query: "genus:Trimorphodon stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "26817" ; Times: 2
+	Query: "13625" ; Times: 1
+	Query: "University of Oklahoma serpentes" ; Times: 2
+	Query: "Anolis bonairensis OMNH" ; Times: 1
+	Query: "acanthochelys" ; Times: 2
+	Query: "msb 30210" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 30 (out of 977 download events in this period)
+Total number of records downloaded: 409
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 15
+	Country: Mexico ; Times: 5
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 3
+	Country: Colombia ; Times: 3
+	Country: Argentina ; Times: 1
+	Country: Russia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-13 ; Times: 4
+	Date: 2018-07-12 ; Times: 1
+	Date: 2018-07-11 ; Times: 1
+	Date: 2018-07-17 ; Times: 5
+	Date: 2018-07-09 ; Times: 3
+	Date: 2018-07-15 ; Times: 1
+	Date: 2018-07-14 ; Times: 2
+	Date: 2018-07-31 ; Times: 5
+	Date: 2018-07-30 ; Times: 1
+	Date: 2018-07-18 ; Times: 1
+	Date: 2018-07-26 ; Times: 1
+	Date: 2018-07-27 ; Times: 2
+	Date: 2018-07-02 ; Times: 1
+	Date: 2018-07-03 ; Times: 1
+	Date: 2018-07-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "kinixys" ; Times: 1
+	Query: "Urosaurus bicarinatus Nayarit" ; Times: 1
+	Query: "crotalus molossus" ; Times: 1
+	Query: "Hemidactylus turcicus" ; Times: 1
+	Query: "kinixys spekii" ; Times: 1
+	Query: "Chihuahua" ; Times: 1
+	Query: "specificepithet:marcianus genus:Thamnophis stateprovince:&#34;Arizona&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:sagrei country:&#34;México&#34;" ; Times: 2
+	Query: "Platyurus platyurus" ; Times: 1
+	Query: "Pseudemys concinna" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;SOUTH CAROLINA&#34; year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "kinosternon hirtipes" ; Times: 1
+	Query: "Lepidoblepharis" ; Times: 2
+	Query: "kinixys belliana" ; Times: 1
+	Query: "oxyrhopus" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;SOUTH CAROLINA&#34;" ; Times: 1
+	Query: "crotalus viridis" ; Times: 1
+	Query: "specificepithet:cyrtopsis genus:Thamnophis stateprovince:&#34;Arizona&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "Pseudogonatodes" ; Times: 1
+	Query: "crotalus scutulatus" ; Times: 1
+	Query: "Trimeresurus flavomaculatus" ; Times: 1
+	Query: "Amblyrhynchus cristatus" ; Times: 2
+	Query: "Hemidactylus platyurus" ; Times: 1
+	Query: "specificepithet:turcicus genus:hemidactylus" ; Times: 1
+	Query: "specificepithet:reticulatus genus:Crotaphytus" ; Times: 1
+	Query: "macrochelys" ; Times: 1
+
+
+End of report.
