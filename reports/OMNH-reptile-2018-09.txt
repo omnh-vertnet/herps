@@ -1,0 +1,289 @@
+Report for Institution Code OMNH, Resource reptile
+Usage stats for September 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 260
+Number of records retrieved in searches: 3253
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Canada ; Times: 2
+	Country: Australia ; Times: 2
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 31
+	Country: United Kingdom ; Times: 9
+	Country: Sweden ; Times: 14
+	Country: China ; Times: 1
+	Country: Colombia ; Times: 15
+	Country: United States ; Times: 181
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-23 ; Times: 3
+	Date: 2018-09-24 ; Times: 9
+	Date: 2018-09-03 ; Times: 2
+	Date: 2018-09-26 ; Times: 11
+	Date: 2018-09-01 ; Times: 8
+	Date: 2018-09-06 ; Times: 22
+	Date: 2018-09-21 ; Times: 10
+	Date: 2018-09-04 ; Times: 25
+	Date: 2018-09-05 ; Times: 4
+	Date: 2018-09-08 ; Times: 11
+	Date: 2018-09-09 ; Times: 6
+	Date: 2018-09-28 ; Times: 48
+	Date: 2018-09-30 ; Times: 3
+	Date: 2018-09-11 ; Times: 13
+	Date: 2018-09-10 ; Times: 4
+	Date: 2018-09-13 ; Times: 8
+	Date: 2018-09-12 ; Times: 5
+	Date: 2018-09-15 ; Times: 1
+	Date: 2018-09-14 ; Times: 12
+	Date: 2018-09-17 ; Times: 7
+	Date: 2018-09-16 ; Times: 2
+	Date: 2018-09-19 ; Times: 12
+	Date: 2018-09-18 ; Times: 19
+	Date: 2018-09-02 ; Times: 3
+	Date: 2018-09-25 ; Times: 3
+	Date: 2018-09-27 ; Times: 1
+	Date: 2018-09-20 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "Agkistrodon county:&#34;Grayson&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "partelloi" ; Times: 1
+	Query: "specificepithet:cornutum genus:Phrynosoma stateprovince:&#34;Arizona&#34;" ; Times: 2
+	Query: "Elaphe emoryi" ; Times: 1
+	Query: "genus:Holbrookia stateprovince:&#34;Oklahoma&#34;" ; Times: 3
+	Query: "genus:Ceratophora" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus stateprovince:&#34;Oklahoma&#34;" ; Times: 2
+	Query: "Indotyphlops braminus" ; Times: 1
+	Query: "specificepithet:scalaris genus:sceloporus locality:barfoot" ; Times: 1
+	Query: "43401" ; Times: 1
+	Query: "Crotalus polystictus" ; Times: 1
+	Query: "specificepithet:humilis genus:Anolis mappable:1" ; Times: 3
+	Query: "genus:drymarchon stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "Heterodon simus mappable:1" ; Times: 5
+	Query: "genus:Sceloporus mappable:1 country:Nicaragua year&gt;1980" ; Times: 2
+	Query: "specificepithet:septentrionalis genus:Leptodeira mappable:1" ; Times: 1
+	Query: "Atropoides nummifer" ; Times: 1
+	Query: "specificepithet:varius genus:varanus institutioncode:OMNH" ; Times: 1
+	Query: "genus:Sceloporus mappable:1 country:Mexico year&gt;1980" ; Times: 8
+	Query: "genus:Crotalus county:&#34;Grayson&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "class:Reptilia county:&#34;sheridan&#34; stateprovince:&#34;wyoming&#34;" ; Times: 1
+	Query: "Anilius scytale" ; Times: 1
+	Query: "genus:Sistrurus stateprovince:&#34;Oklahoma&#34;" ; Times: 8
+	Query: "Pantherophis emoryi" ; Times: 1
+	Query: "Walterinnesia" ; Times: 1
+	Query: "Sceloporus tehuacan" ; Times: 2
+	Query: "Deirochelys reticularia miaria" ; Times: 1
+	Query: "varanus olivaceus" ; Times: 1
+	Query: "family:colubridae preparations:skeleton institutioncode:OMNH" ; Times: 2
+	Query: "34893-1" ; Times: 1
+	Query: "genus:arizona stateprovince:&#34;oklahoma&#34;" ; Times: 4
+	Query: "specificepithet:collaris genus:crotaphytus institutioncode:OMNH" ; Times: 1
+	Query: "Drymarchon florida" ; Times: 1
+	Query: "specificepithet:collaris genus:Crotaphytus mappable:1 stateprovince:Arizona" ; Times: 4
+	Query: "varanus beccari" ; Times: 1
+	Query: "county:&#34;Brown&#34; stateprovince:&#34;Texas&#34;" ; Times: 4
+	Query: "specificepithet:sericeus genus:Anolis mappable:1" ; Times: 6
+	Query: "Florida farancia erytrogramma" ; Times: 1
+	Query: "specificepithet:lemurinus genus:Anolis mappable:1" ; Times: 3
+	Query: "specificepithet:flavescens genus:Kinosternon stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:olivaceus genus:varanus institutioncode:OMNH" ; Times: 1
+	Query: "Barisia imbricata hidalgo" ; Times: 1
+	Query: "Aplopeltura boa" ; Times: 2
+	Query: "genus:Agkistrodon county:&#34;Grayson&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Deirochelys stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "16088" ; Times: 1
+	Query: "genus:Uma scoparia specificepithet:scoparia" ; Times: 1
+	Query: "Barisia imbricata Hidalgo" ; Times: 1
+	Query: "specificepithet:townsendi genus:Anolis mappable:1" ; Times: 3
+	Query: "genus:Thecadactylus year &gt;= 2000" ; Times: 1
+	Query: "genus:Heterodon stateprovince:&#34;Arizona&#34;" ; Times: 4
+	Query: "vntype:specimen county:&#34;Jim hogg&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:polystictus genus:Crotalus" ; Times: 1
+	Query: "leptophis mexicanus" ; Times: 1
+	Query: "specificepithet:aeneus genus:Oxybelis country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus institutioncode:OMNH" ; Times: 1
+	Query: "Barisia imbricata México" ; Times: 1
+	Query: "recordedby:burbrink year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "Crotalus county:&#34;Armstrong&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Agkistrodon county:&#34;Denton&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "amblyrhynchus cristatus" ; Times: 2
+	Query: "specificepithet:maculata genus:holbrookia stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "Lepidothyris" ; Times: 1
+	Query: "la joya veracruz" ; Times: 2
+	Query: "siphlophis" ; Times: 1
+	Query: "Phrynosoma douglassii" ; Times: 1
+	Query: "Sceloporus goldmani" ; Times: 1
+	Query: "class:reptilia stateprovince:&#34;Zacatecas&#34;" ; Times: 1
+	Query: "specificepithet:annulata genus:Leptodeira mappable:1" ; Times: 1
+	Query: "genus:Elgaria stateprovince:&#34;Arizona&#34;" ; Times: 4
+	Query: "phrynosoma sp" ; Times: 1
+	Query: "Liolaemidae" ; Times: 1
+	Query: "specificepithet:maculata genus:holbrookia stateprovince:&#34;texas&#34; distance(location,geopoint(31.790304782984613,-102.8378851454807))&lt;940451" ; Times: 1
+	Query: "Pseudemys Stephens" ; Times: 4
+	Query: "specificepithet:Triangulum genus:Lampropeltis county:&#34;Comanche&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Heterodon Arizona" ; Times: 4
+	Query: "bothrops asper" ; Times: 15
+	Query: "specificepithet:ortonii genus:Anolis mappable:1" ; Times: 3
+	Query: "Carphophis oklahoma" ; Times: 4
+	Query: "Crotalus zacatecas" ; Times: 3
+	Query: "specificepithet:trachyderma genus:Anolis mappable:1" ; Times: 3
+	Query: "33513" ; Times: 1
+	Query: "specificepithet:asper genus:Bothrops mappable:1" ; Times: 1
+	Query: "specificepithet:skiltonianus class:reptilia county:&#34;San Diego&#34; year &gt;= 1941 year &lt;= 1960" ; Times: 1
+	Query: "genus:Crotalus county:&#34;Brewster&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "kansas Phrynosoma" ; Times: 1
+	Query: "Barisia imbricata" ; Times: 12
+	Query: "specificepithet:modestum genus:Phrynosoma stateprovince:&#34;Arizona&#34;" ; Times: 4
+	Query: "specificepithet:skiltonianus class:Reptilia county:&#34;San Diego&#34; year &gt;= 1951 year &lt;= 1990" ; Times: 1
+	Query: "specificepithet:fuscoauratus genus:Anolis mappable:1" ; Times: 5
+	Query: "Ophisaurus attenuatus mappable:1" ; Times: 1
+	Query: "genus:phrynosoma stateprovince:&#34;washington&#34;" ; Times: 1
+	Query: "Heterodon simus Florida" ; Times: 1
+	Query: "specificepithet:grammicus genus:Sceloporus mappable:1" ; Times: 2
+	Query: "genus:Micrurus county:&#34;Harris&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:carpenteri genus:Anolis mappable:1" ; Times: 3
+	Query: "Opheodrys aestivus majalis" ; Times: 1
+	Query: "Tantilla bocourti" ; Times: 1
+	Query: "specificepithet:exsul genus:uma institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:capito genus:Anolis mappable:1" ; Times: 3
+	Query: "specificepithet:solare genus:Phrynosoma stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "leptophis ahaetulla" ; Times: 1
+	Query: "specificepithet:oxylophus genus:Anolis mappable:1" ; Times: 3
+	Query: "genus:Thecadactylus year &gt;= 1990" ; Times: 2
+	Query: "Bothrops brazili" ; Times: 1
+	Query: "Crotalus county:&#34;Brewster&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Deirochelys reticularia oklahoma" ; Times: 1
+	Query: "coleodactylus amazonicus" ; Times: 1
+	Query: "Barisia imbricata Durango" ; Times: 1
+	Query: "specificepithet:scutulatus genus:Crotalus institutioncode:OMNH" ; Times: 1
+	Query: "county:&#34;monterrey&#34;" ; Times: 1
+	Query: "specificepithet:grandis genus:xenosaurus institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:vitticeps genus:pogona institutioncode:OMNH" ; Times: 1
+	Query: "Pseudocerastes" ; Times: 1
+	Query: "specificepithet:nebulosus genus:Anolis mappable:1" ; Times: 3
+	Query: "Micruroides euryxanthus" ; Times: 1
+	Query: "specificepithet:Triangulum genus:Lampropeltis stateprovince:&#34;Oklahoma&#34;" ; Times: 2
+	Query: "Micrurus county:&#34;Harris&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:limifrons genus:Anolis mappable:1" ; Times: 3
+	Query: "Chase county pituophis" ; Times: 1
+	Query: "43935" ; Times: 1
+	Query: "Agkistrodon county:&#34;Denton&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:chrysolepis genus:Anolis mappable:1" ; Times: 3
+	Query: "Ficimia olivacea" ; Times: 1
+	Query: "27792" ; Times: 1
+	Query: "genus:Cemophora stateprovince:&#34;Oklahoma&#34;" ; Times: 8
+	Query: "Heterodon simus" ; Times: 1
+	Query: "genus:Crotalus county:&#34;Armstrong&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Paleosuchus trigonatus" ; Times: 1
+	Query: "Mabuya agilis" ; Times: 2
+	Query: "Richard Lardie" ; Times: 1
+	Query: "specificepithet:cristatus genus:amblyrhynchus institutioncode:OMNH" ; Times: 1
+	Query: "Pituophis catenifer sayi" ; Times: 1
+	Query: "specificepithet:biporcatus genus:Anolis mappable:1" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 72 (out of 846 download events in this period)
+Total number of records downloaded: 7574
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 39
+	Country: Mexico ; Times: 24
+	Country: Unknown ; Times: 1
+	Country: Indonesia ; Times: 2
+	Country: Costa Rica ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: China ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-11 ; Times: 3
+	Date: 2018-09-17 ; Times: 7
+	Date: 2018-09-03 ; Times: 1
+	Date: 2018-09-30 ; Times: 1
+	Date: 2018-09-24 ; Times: 1
+	Date: 2018-09-10 ; Times: 1
+	Date: 2018-09-04 ; Times: 3
+	Date: 2018-09-12 ; Times: 3
+	Date: 2018-09-06 ; Times: 1
+	Date: 2018-09-21 ; Times: 2
+	Date: 2018-09-22 ; Times: 2
+	Date: 2018-09-19 ; Times: 12
+	Date: 2018-09-18 ; Times: 31
+	Date: 2018-09-20 ; Times: 1
+	Date: 2018-09-28 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Sceloporus magister" ; Times: 1
+	Query: "Aplopeltura boa" ; Times: 1
+	Query: "Rhadinaea decorata" ; Times: 1
+	Query: "la joya veracruz" ; Times: 1
+	Query: "Bothrops brazili" ; Times: 1
+	Query: "bullfrog" ; Times: 1
+	Query: "family:Dipsadidae" ; Times: 1
+	Query: "Aspidoscelis gularis" ; Times: 1
+	Query: "Crotaphytus collaris" ; Times: 2
+	Query: "Holbrookia maculata" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 3
+	Query: "Phrynosoma mcallii" ; Times: 1
+	Query: "Bothrops asper" ; Times: 1
+	Query: "Ameiva undulata" ; Times: 2
+	Query: "phrynosoma sp" ; Times: 1
+	Query: "xantusia vigilis" ; Times: 1
+	Query: "Liolaemidae" ; Times: 1
+	Query: "Dipsadidae" ; Times: 1
+	Query: "Conophis lineatus" ; Times: 2
+	Query: "specificepithet:mitchelli genus:Crotalus" ; Times: 1
+	Query: "Ninia sebae sebae" ; Times: 1
+	Query: "Coleonyx variegatus" ; Times: 1
+	Query: "bothrops atrox" ; Times: 1
+	Query: "ArcGis" ; Times: 1
+	Query: "Phrynosoma hernandesi" ; Times: 1
+	Query: "Crotalus polystictus" ; Times: 1
+	Query: "Uma notata" ; Times: 1
+	Query: "Plestiodon skiltonianus" ; Times: 1
+	Query: "Anniella pulchra" ; Times: 1
+	Query: "Oxybelis aeneus" ; Times: 1
+	Query: "terrapene carolina carolina" ; Times: 1
+	Query: "Opheodrys aestivus majalis" ; Times: 1
+	Query: "Sceloporus consobrinus" ; Times: 1
+	Query: "Atropoides nummifer" ; Times: 1
+	Query: "Leptophis mexicanus mexicanus" ; Times: 1
+	Query: "sceloporus tristichus" ; Times: 1
+	Query: "Phrynosoma douglassii" ; Times: 1
+	Query: "Holbrookia lacerata" ; Times: 1
+	Query: "specificepithet:consobrinus genus:sceloporus" ; Times: 1
+	Query: "Drymobius margaritiferus margaritiferus" ; Times: 1
+	Query: "specificepithet:ruber genus:Crotalus" ; Times: 1
+	Query: "Uta stansburiana" ; Times: 1
+	Query: "Chamaeleonidae" ; Times: 1
+	Query: "Urosaurus ornatus" ; Times: 1
+	Query: "Leptodeira septentrionalis" ; Times: 1
+	Query: "Ficimia olivacea" ; Times: 1
+	Query: "Elgaria coerulea" ; Times: 1
+	Query: "Trachemys scripta elegans" ; Times: 2
+	Query: "Phrynosoma platyrhinos" ; Times: 1
+	Query: "Corytophanes cristatus" ; Times: 1
+	Query: "specificepithet:sirtalis genus:thamnophis" ; Times: 1
+	Query: "macrochelys temminckii" ; Times: 2
+	Query: "deirochelys" ; Times: 1
+	Query: "Senticolis triaspis" ; Times: 1
+	Query: "Pituophis catenifer sayi" ; Times: 1
+	Query: "Tantilla bocourti" ; Times: 1
+	Query: "Lachesis muta" ; Times: 1
+	Query: "Elgaria multicarinata" ; Times: 2
+	Query: "Sauromalus ater" ; Times: 1
+	Query: "Sceloporus occidentalis" ; Times: 1
+	Query: "glyptemys insculpta" ; Times: 1
+	Query: "Oxybelis fulgidus" ; Times: 1
+	Query: "Plestiodon gilberti" ; Times: 1
+	Query: "sistrurus miliarius Oklahoma" ; Times: 1
+
+
+End of report.
