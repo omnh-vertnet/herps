@@ -1,0 +1,229 @@
+Report for Institution Code OMNH, Resource reptile
+Usage stats for November 2018, generated on 2018/12/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 119
+Number of records retrieved in searches: 990
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 3
+	Country: Israel ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Mexico ; Times: 12
+	Country: Unknown ; Times: 23
+	Country: United States ; Times: 68
+	Country: Chile ; Times: 4
+	Country: China ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Argentina ; Times: 2
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-11-09 ; Times: 10
+	Date: 2018-11-08 ; Times: 5
+	Date: 2018-11-07 ; Times: 6
+	Date: 2018-11-06 ; Times: 2
+	Date: 2018-11-05 ; Times: 3
+	Date: 2018-11-04 ; Times: 2
+	Date: 2018-11-03 ; Times: 4
+	Date: 2018-11-02 ; Times: 3
+	Date: 2018-11-01 ; Times: 9
+	Date: 2018-11-25 ; Times: 1
+	Date: 2018-11-27 ; Times: 5
+	Date: 2018-11-26 ; Times: 5
+	Date: 2018-11-21 ; Times: 7
+	Date: 2018-11-20 ; Times: 3
+	Date: 2018-11-22 ; Times: 3
+	Date: 2018-11-28 ; Times: 10
+	Date: 2018-11-18 ; Times: 12
+	Date: 2018-11-10 ; Times: 1
+	Date: 2018-11-11 ; Times: 4
+	Date: 2018-11-12 ; Times: 4
+	Date: 2018-11-14 ; Times: 10
+	Date: 2018-11-15 ; Times: 6
+	Date: 2018-11-16 ; Times: 1
+	Date: 2018-11-30 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Aplopeltura boa" ; Times: 1
+	Query: "lampropeltis syspila" ; Times: 1
+	Query: "specificepithet:attenuatus genus:Ophisaurus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Microlophus occipitalis " ; Times: 1
+	Query: "genus:Leptotyphlops order:squamata country:&#34;Brazil&#34;" ; Times: 2
+	Query: "41170" ; Times: 1
+	Query: "genus:Crotalus atrox Arkansas" ; Times: 1
+	Query: "corallus hortulanus" ; Times: 7
+	Query: "class:Reptilia stateprovince:&#34;Arizona&#34; year &gt;= 2018 year &lt;= 2018" ; Times: 1
+	Query: "Agkistrodon taylori" ; Times: 1
+	Query: "27647" ; Times: 1
+	Query: "23341" ; Times: 1
+	Query: "oklahoma Hypsiglena" ; Times: 1
+	Query: "crotalus durissus" ; Times: 1
+	Query: "Ctenosaura sp." ; Times: 1
+	Query: "omnh 45003" ; Times: 1
+	Query: "sceloporus maculosus" ; Times: 2
+	Query: "oklahoma sistrurus" ; Times: 1
+	Query: "genus:Elgaria stateprovince:&#34;Arizona&#34;" ; Times: 3
+	Query: "sceloporus pyrocephalus" ; Times: 3
+	Query: "specificepithet:spinosus genus:Sceloporus stateprovince:&#34;Oaxaca&#34; country:&#34;Mexico&#34;" ; Times: 4
+	Query: "specificepithet:horridus genus:sceloporus country:&#34;mexico&#34;" ; Times: 1
+	Query: "genus:Liotyphlops class:reptilia country:&#34;Venezuela&#34;" ; Times: 1
+	Query: "Sceloporus aeneus" ; Times: 1
+	Query: "varanus salvadorii" ; Times: 1
+	Query: "Sceloporus bicanthalis" ; Times: 1
+	Query: "11 November 1946" ; Times: 1
+	Query: "OMNH 51717" ; Times: 1
+	Query: "Oklahoma cemophora" ; Times: 1
+	Query: "specificepithet:pyrocephalus genus:Sceloporus" ; Times: 1
+	Query: "order:serpentes distance(location,geopoint(34.082806178494735,-117.11657185517623))&lt;4281" ; Times: 1
+	Query: "45122" ; Times: 1
+	Query: "specificepithet:proximus genus:Thamnophis stateprovince:&#34;Texas&#34; year &gt;= 1700 year &lt;= 1954" ; Times: 2
+	Query: "lampropeltis triangulum kansas" ; Times: 2
+	Query: "order:Testudines institutioncode:OMNH" ; Times: 1
+	Query: "Heloderma horridum" ; Times: 1
+	Query: "specificepithet:viridis stateprovince:&#34;California&#34; year &gt;= 1971 year &lt;= 1980" ; Times: 1
+	Query: "Oklahoma holbrooki" ; Times: 1
+	Query: "order:Squamata locality:Santa Rita county:&#34;Pima&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 3
+	Query: "vliet" ; Times: 1
+	Query: "specificepithet:suspectum genus:Heloderma" ; Times: 1
+	Query: "45657" ; Times: 1
+	Query: "specificepithet:inornatus genus:aspidoscelis" ; Times: 1
+	Query: "Sibon longifrenis" ; Times: 2
+	Query: "Tarentola annularis is mappable =1" ; Times: 1
+	Query: "specificepithet:atriceps genus:Tantilla stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "75408" ; Times: 1
+	Query: "28904" ; Times: 1
+	Query: "Pantherophis spiloides" ; Times: 1
+	Query: "lampropeltis holbrooki" ; Times: 3
+	Query: "oklahoma triangulum" ; Times: 2
+	Query: "Cordylus vittifer" ; Times: 1
+	Query: "oklahoma cemophora" ; Times: 1
+	Query: "polychrus" ; Times: 1
+	Query: "specificepithet:vittatus genus:Basiliscus stateprovince:&#34;Oaxaca&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "27770" ; Times: 1
+	Query: "oklahoma lampropeltis" ; Times: 1
+	Query: "genus:bothrops stateprovince:&#34;Veracruz&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Plestiodon anthracinus" ; Times: 1
+	Query: "Heterodon simus" ; Times: 1
+	Query: "specificepithet:trivirgata genus:Lichanura" ; Times: 1
+	Query: "specificepithet:scutulatus genus:Crotalus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Polk county Pantherophis" ; Times: 1
+	Query: "chamaeleo chamaeleon" ; Times: 1
+	Query: "anolis biporcatus" ; Times: 1
+	Query: "arkansas triangulum" ; Times: 2
+	Query: "masticophis schotti" ; Times: 1
+	Query: "genus:Agkistrodon piscivorus Scott County Arkansas" ; Times: 1
+	Query: "ctenosaura pectinata" ; Times: 1
+	Query: "specificepithet:grammicus genus:Sceloporus mappable:1" ; Times: 2
+	Query: "agkistrodon laticinctus" ; Times: 1
+	Query: "Polk county Lampropeltis" ; Times: 1
+	Query: "genus:Pseustes class:reptilia country:&#34;Guyana&#34;" ; Times: 1
+	Query: "Phyllodactylus Galapagos" ; Times: 3
+	Query: "omnh 45007" ; Times: 1
+	Query: "Tantilla bocourti" ; Times: 2
+	Query: "genus:Uma scoparia specificepithet:scoparia" ; Times: 4
+	Query: "genus:diadophis stateprovince:&#34;texas&#34;" ; Times: 2
+	Query: "genus:Agkistrodon piscivorus Arkansas" ; Times: 2
+	Query: "28134" ; Times: 1
+	Query: "35923" ; Times: 1
+	Query: "gonatodes antillensis" ; Times: 1
+	Query: "fieldnumber:11350" ; Times: 2
+	Query: "specificepithet:proximus genus:Thamnophis county:&#34;Travis&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 57 (out of 1719 download events in this period)
+Total number of records downloaded: 8479
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 4
+	Country: Israel ; Times: 1
+	Country: Bangladesh ; Times: 1
+	Country: Mexico ; Times: 21
+	Country: United States ; Times: 22
+	Country: Chile ; Times: 3
+	Country: South Korea ; Times: 2
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-11-19 ; Times: 3
+	Date: 2018-11-09 ; Times: 7
+	Date: 2018-11-08 ; Times: 1
+	Date: 2018-11-07 ; Times: 3
+	Date: 2018-11-06 ; Times: 2
+	Date: 2018-11-05 ; Times: 4
+	Date: 2018-11-03 ; Times: 1
+	Date: 2018-11-02 ; Times: 1
+	Date: 2018-11-01 ; Times: 4
+	Date: 2018-11-15 ; Times: 2
+	Date: 2018-11-27 ; Times: 2
+	Date: 2018-11-26 ; Times: 8
+	Date: 2018-11-14 ; Times: 2
+	Date: 2018-11-16 ; Times: 1
+	Date: 2018-11-11 ; Times: 1
+	Date: 2018-11-12 ; Times: 5
+	Date: 2018-11-21 ; Times: 4
+	Date: 2018-11-17 ; Times: 1
+	Date: 2018-11-29 ; Times: 1
+	Date: 2018-11-28 ; Times: 3
+	Date: 2018-11-20 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:attenuatus genus:Ophisaurus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:lateralis genus:masticophis stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Oxyrhopus petolarius" ; Times: 1
+	Query: "Spilotes pullatus" ; Times: 1
+	Query: "Holbrookia propinqua" ; Times: 1
+	Query: "Agkistrodon bilineatus" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 3
+	Query: "Opheodrys aestivus" ; Times: 1
+	Query: "class:reptilia country:&#34;Venezuela&#34;" ; Times: 3
+	Query: "specificepithet:horridus genus:sceloporus country:&#34;mexico&#34;" ; Times: 1
+	Query: "pythonidae" ; Times: 1
+	Query: "anolis nebulosus" ; Times: 1
+	Query: "sceloporus pyrocephalus" ; Times: 1
+	Query: "specificepithet:euryxanthus genus:Micruroides" ; Times: 1
+	Query: "Iguana iguana" ; Times: 2
+	Query: "Sceloporus aeneus" ; Times: 1
+	Query: "Storeria dekayi" ; Times: 1
+	Query: "varanus salvadorii" ; Times: 1
+	Query: "ninia sebae" ; Times: 2
+	Query: "Coleonyx variegatus" ; Times: 1
+	Query: "family:Viperidae" ; Times: 1
+	Query: "Trimorphodon biscutatus" ; Times: 2
+	Query: "c.s. lieb vntype:specimen class:reptilia" ; Times: 1
+	Query: "uma inornata" ; Times: 1
+	Query: "order:Testudines institutioncode:OMNH" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "Boa constrictor" ; Times: 1
+	Query: "Dipsas catesbyi" ; Times: 1
+	Query: "Tarentola annularis mappable =1" ; Times: 1
+	Query: "anolis lemurinus" ; Times: 1
+	Query: "order:squamata country:&#34;brazil&#34;" ; Times: 1
+	Query: "sceloporus" ; Times: 1
+	Query: "Oxybelis aeneus" ; Times: 1
+	Query: "Leptophis mexicanus" ; Times: 1
+	Query: "Pseustes poecilonotus" ; Times: 1
+	Query: "genus:Opheodrys" ; Times: 2
+	Query: "specificepithet:temminckii family:Chelydridae" ; Times: 1
+	Query: "phyllorhynchus decurtatus" ; Times: 1
+	Query: "specificepithet:occipitalis genus:Chionactis" ; Times: 1
+	Query: "corallus hortulanus" ; Times: 1
+	Query: "specificepithet:trivirgata genus:Lichanura" ; Times: 1
+	Query: "chamaeleo chamaeleon" ; Times: 1
+	Query: "anolis biporcatus" ; Times: 1
+	Query: "ctenosaura pectinata" ; Times: 1
+	Query: "order:Squamata locality:Santa Rita county:&#34;Pima&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Agkistrodon taylori" ; Times: 1
+	Query: "Emydoidea blandingii" ; Times: 1
+	Query: "Phrynosoma mcallii" ; Times: 1
+	Query: "anolis sericeus" ; Times: 1
+
+
+End of report.
