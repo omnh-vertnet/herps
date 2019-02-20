@@ -1,0 +1,237 @@
+Report for Institution Code OMNH, Resource reptile
+Usage stats for January 2019, generated on 2019/02/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 173
+Number of records retrieved in searches: 1353
+Number of different countries where searches have been originated: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Canada ; Times: 13
+	Country: Australia ; Times: 2
+	Country: Mexico ; Times: 21
+	Country: Unknown ; Times: 2
+	Country: Indonesia ; Times: 3
+	Country: Saint Kitts and Nevis ; Times: 2
+	Country: France ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Sweden ; Times: 5
+	Country: Netherlands ; Times: 2
+	Country: Germany ; Times: 1
+	Country: Belgium ; Times: 9
+	Country: United States ; Times: 104
+	Country: Bonaire ; Times: 1
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-31 ; Times: 1
+	Date: 2019-01-23 ; Times: 1
+	Date: 2019-01-18 ; Times: 4
+	Date: 2019-01-19 ; Times: 3
+	Date: 2019-01-14 ; Times: 7
+	Date: 2019-01-15 ; Times: 1
+	Date: 2019-01-30 ; Times: 12
+	Date: 2019-01-17 ; Times: 4
+	Date: 2019-01-10 ; Times: 4
+	Date: 2019-01-11 ; Times: 2
+	Date: 2019-01-12 ; Times: 2
+	Date: 2019-01-13 ; Times: 4
+	Date: 2019-01-03 ; Times: 7
+	Date: 2019-01-02 ; Times: 2
+	Date: 2019-01-29 ; Times: 3
+	Date: 2019-01-28 ; Times: 13
+	Date: 2019-01-01 ; Times: 28
+	Date: 2019-01-07 ; Times: 7
+	Date: 2019-01-06 ; Times: 3
+	Date: 2019-01-05 ; Times: 2
+	Date: 2019-01-04 ; Times: 8
+	Date: 2019-01-21 ; Times: 10
+	Date: 2019-01-20 ; Times: 5
+	Date: 2019-01-09 ; Times: 7
+	Date: 2019-01-22 ; Times: 1
+	Date: 2019-01-25 ; Times: 6
+	Date: 2019-01-24 ; Times: 3
+	Date: 2019-01-27 ; Times: 4
+	Date: 2019-01-08 ; Times: 5
+	Date: 2019-01-16 ; Times: 14
+
+List of queries that retrieved data from the resource: 
+	Query: "OMNH 487" ; Times: 2
+	Query: "genus:Graptemys stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Reptilia Arkansas ouachita" ; Times: 6
+	Query: "specificepithet:melanocephala genus:Tantilla year &gt;= 1980 year &lt;= 2019" ; Times: 1
+	Query: "specificepithet:cautus genus:Sceloporus stateprovince:&#34;Nuevo Leon&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:melanocephala genus:Tantilla AND (NOT AMNH) institutioncode:OMNH" ; Times: 1
+	Query: "class:reptilia county:&#34;Ensenada&#34; stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Alligator Oklahoma mccurtain" ; Times: 1
+	Query: "genus:Micrurus country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "specificepithet:mentovarius genus:Masticophis" ; Times: 1
+	Query: "specificepithet:taeniatus genus:masticophis country:&#34;mexico&#34;" ; Times: 2
+	Query: "Glyptemys muhlenbergii" ; Times: 2
+	Query: "Masticophis schotti" ; Times: 2
+	Query: "Laemanctus serratus" ; Times: 1
+	Query: "16464" ; Times: 1
+	Query: "15827" ; Times: 1
+	Query: "specificepithet:serratus genus:Laemanctus stateprovince:&#34;Tamaulipas&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Guttata frederick md" ; Times: 1
+	Query: "Atrox Oklahoma latimer" ; Times: 1
+	Query: "anolis cuvieri" ; Times: 2
+	Query: "Glyptemys insculpta" ; Times: 1
+	Query: "stateprovince:&#34;Oklahoma&#34; recordedby:King" ; Times: 1
+	Query: "specificepithet:cuvieri genus:Oplurus" ; Times: 1
+	Query: "15059" ; Times: 1
+	Query: "genus:Dipsosaurus locality:santa catalina" ; Times: 1
+	Query: "anilius" ; Times: 2
+	Query: "hemidactylus turcicus mexico" ; Times: 1
+	Query: "sistrurus buffalo" ; Times: 4
+	Query: "Atrox Oklahoma pushmataha" ; Times: 1
+	Query: "Nasicus Oklahoma" ; Times: 1
+	Query: "specificepithet:modestum genus:phrynosoma stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Reptilia Oklahoma choctaw" ; Times: 2
+	Query: "specificepithet:geographica genus:Graptemys stateprovince:&#34;Michigan&#34;" ; Times: 1
+	Query: "specificepithet:jaculus genus:Eryx country:&#34;Egypt&#34;" ; Times: 1
+	Query: "42855" ; Times: 1
+	Query: "Farancia Oklahoma" ; Times: 1
+	Query: "729 ornata" ; Times: 1
+	Query: "omnh 398" ; Times: 1
+	Query: "Drymarchon couperi" ; Times: 5
+	Query: "( Aniella OR Abronia OR Anguis OR Celestus OR Diploglossus OR Gerrhonotus OR Ophisaurus OR Ophiodes OR Elgaria OR Dopasia OR Coloptychon OR Barisia OR Mesaspis) institutioncode:OMNH" ; Times: 2
+	Query: "class:reptilia stateprovince:&#34;Zacatecas&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:Graptemys county:&#34;Oklahoma&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Reptilia wisconsin columbia" ; Times: 2
+	Query: "Sistrurus Oklahoma mccurtain" ; Times: 1
+	Query: "Crotaphytus reticulatus" ; Times: 1
+	Query: "specificepithet:stansburiana genus:Uta county:&#34;Bernalillo&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "genus:phrynosoma locality:Rodeo stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Osteolaemus" ; Times: 2
+	Query: "specificepithet:grahamiae genus:Salvadora county:&#34;cochise&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Triangulum Oklahoma atoka" ; Times: 1
+	Query: "Sceloporus acanthinus" ; Times: 1
+	Query: "Hoplocercus spinosus" ; Times: 1
+	Query: "Ctenosaura pectinata" ; Times: 1
+	Query: "genus:thecadactylus year &gt;= 1990" ; Times: 2
+	Query: "31794" ; Times: 1
+	Query: "Potamites" ; Times: 1
+	Query: "Bitis nasicornis" ; Times: 1
+	Query: "Atrox Oklahoma murray" ; Times: 1
+	Query: "genus:Urosaurus family:Phrynosomatidae country:&#34;Mexico&#34;" ; Times: 1
+	Query: "walterinnesia" ; Times: 1
+	Query: "Hypsiglena Oklahoma atoka" ; Times: 1
+	Query: "Basiliscus plumifrons" ; Times: 1
+	Query: "specificepithet:shawi genus:Sauromalus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "35292" ; Times: 1
+	Query: "genus:coluber locality:8" ; Times: 1
+	Query: "Deirochelys Oklahoma" ; Times: 2
+	Query: "specificepithet:melanolomus genus:Dryadophis" ; Times: 1
+	Query: "Reptilia Mississippi lafayette" ; Times: 2
+	Query: "Farancia Oklahoma mccurtain" ; Times: 2
+	Query: "genus:Lichanura" ; Times: 1
+	Query: "T. proximus" ; Times: 1
+	Query: "Reptilia Wisconsin columbia" ; Times: 2
+	Query: "Atrox Oklahoma atoka" ; Times: 1
+	Query: "B 42820" ; Times: 2
+	Query: "11225" ; Times: 1
+	Query: "Horridus Oklahoma atoka" ; Times: 1
+	Query: "specificepithet:molossus genus:Crotalus county:&#34;Pinal&#34; stateprovince:&#34;Arizona&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "uma paraphygas" ; Times: 2
+	Query: "specificepithet:cyanogenys genus:Sceloporus stateprovince:&#34;San Luis Potosí&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:mentovarius genus:Masticophis AND (NOT MEXICO)" ; Times: 1
+	Query: "specificepithet:melanocephala genus:Tantilla country:&#34;Brazil&#34;" ; Times: 1
+	Query: "thecadactylus rapicauda" ; Times: 1
+	Query: "Deirochelys" ; Times: 4
+	Query: "Alligator Oklahoma" ; Times: 1
+	Query: "specificepithet:melanocephala genus:Tantilla AND (NOT AMNH)" ; Times: 1
+	Query: "12623" ; Times: 1
+	Query: "Reptilia Oklahoma pushmataha" ; Times: 3
+	Query: "Crotaphytus insularis" ; Times: 1
+	Query: "26287" ; Times: 1
+	Query: "aspidoscelis apache tigris arizona" ; Times: 2
+	Query: "LJV 7110" ; Times: 2
+	Query: "family:phrynosomatidae locality:Santa Inez country:&#34;Mexico&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Alopoglossus angulatus " ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "family:anguidae country:&#34;mexico&#34;" ; Times: 1
+	Query: "LJV-7110" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Comanche&#34; stateprovince:&#34;Oklahoma&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Deirochelys Oklahoma mccurtain" ; Times: 1
+	Query: "Sistrurus Oklahoma latimer" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Comanche&#34; stateprovince:&#34;Oklahoma&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "43627" ; Times: 1
+	Query: "35646" ; Times: 1
+	Query: "Neoseps reynoldsi" ; Times: 1
+	Query: "specificepithet:brevis genus:coleonyx" ; Times: 1
+	Query: "rhineura" ; Times: 1
+	Query: "corallus hortulanus" ; Times: 1
+	Query: "Phyllodactylus tuberculosus" ; Times: 4
+	Query: "specificepithet:tigris genus:Crotalus county:&#34;Pinal&#34; stateprovince:&#34;Arizona&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Uma inornata" ; Times: 1
+	Query: "13818" ; Times: 1
+	Query: "Cemophora Oklahoma atoka" ; Times: 1
+	Query: "B-42820" ; Times: 1
+	Query: "Triangulum Oklahoma mccurtain" ; Times: 1
+	Query: "hemidactylus turcicus (louisiana)" ; Times: 1
+	Query: "Corytophanes cristatus" ; Times: 1
+	Query: "Helodermatidae" ; Times: 1
+	Query: "Atrox Oklahoma carter" ; Times: 1
+	Query: "Pseudemys rubriventris" ; Times: 1
+	Query: "cophosaurus mohave" ; Times: 1
+	Query: "Anolis biporcatus" ; Times: 1
+	Query: "reptilia arkansas grant" ; Times: 1
+	Query: "Regina Oklahoma mccurtain" ; Times: 1
+	Query: "22061" ; Times: 1
+	Query: "Crotaphytus mohave arizona" ; Times: 1
+	Query: "genus:phrynosoma locality:rodeo county:&#34;cochise&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Nerodia rhombifera" ; Times: 1
+	Query: "anolis biporcatus" ; Times: 3
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Pinal&#34; stateprovince:&#34;Arizona&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Deirochelys Oklahoma atoka" ; Times: 1
+	Query: "Enyalioides laticeps" ; Times: 1
+	Query: "Tropidolaemus subannulatus" ; Times: 1
+	Query: "fieldnumber:10760" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 17 (out of 962 download events in this period)
+Total number of records downloaded: 810
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+	Country: Iran ; Times: 2
+	Country: Mexico ; Times: 5
+	Country: United Kingdom ; Times: 1
+	Country: Kenya ; Times: 1
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-03 ; Times: 1
+	Date: 2019-01-28 ; Times: 1
+	Date: 2019-01-08 ; Times: 1
+	Date: 2019-01-07 ; Times: 1
+	Date: 2019-01-19 ; Times: 2
+	Date: 2019-01-04 ; Times: 1
+	Date: 2019-01-21 ; Times: 3
+	Date: 2019-01-16 ; Times: 1
+	Date: 2019-01-17 ; Times: 1
+	Date: 2019-01-24 ; Times: 2
+	Date: 2019-01-12 ; Times: 2
+	Date: 2019-01-13 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Anolis biporcatus" ; Times: 1
+	Query: "Anolis lemurinus" ; Times: 1
+	Query: "specificepithet:nigricaudus genus:Urosaurus country:&#34;México&#34;" ; Times: 1
+	Query: "specificepithet:catenatus genus:Sistrurus" ; Times: 1
+	Query: "Urosaurus nigricaudus" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 6
+	Query: "Tropidoclonion" ; Times: 1
+	Query: "urosaurus nigricaudus" ; Times: 1
+	Query: "Osteolaemus" ; Times: 1
+	Query: "Crocodilia" ; Times: 1
+	Query: "genus:Opheodrys aestivus" ; Times: 1
+	Query: "specificepithet:frenatus genus:Hemidactylus country:&#34;Mexico&#34;" ; Times: 1
+
+
+End of report.
