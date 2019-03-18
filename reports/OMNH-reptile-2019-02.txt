@@ -1,0 +1,228 @@
+Report for Institution Code OMNH, Resource reptile
+Usage stats for February 2019, generated on 2019/03/18
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 177
+Number of records retrieved in searches: 934
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 92
+	Country: Israel ; Times: 2
+	Country: Australia ; Times: 9
+	Country: Mexico ; Times: 10
+	Country: Unknown ; Times: 3
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 45
+	Country: Sweden ; Times: 7
+	Country: Netherlands ; Times: 2
+	Country: Belgium ; Times: 2
+	Country: Argentina ; Times: 1
+	Country: Hong Kong ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-22 ; Times: 1
+	Date: 2019-02-23 ; Times: 9
+	Date: 2019-02-11 ; Times: 3
+	Date: 2019-02-10 ; Times: 5
+	Date: 2019-02-13 ; Times: 3
+	Date: 2019-02-12 ; Times: 17
+	Date: 2019-02-15 ; Times: 3
+	Date: 2019-02-14 ; Times: 3
+	Date: 2019-02-17 ; Times: 3
+	Date: 2019-02-16 ; Times: 8
+	Date: 2019-02-19 ; Times: 5
+	Date: 2019-02-18 ; Times: 8
+	Date: 2019-02-02 ; Times: 1
+	Date: 2019-02-03 ; Times: 7
+	Date: 2019-02-26 ; Times: 4
+	Date: 2019-02-01 ; Times: 32
+	Date: 2019-02-20 ; Times: 4
+	Date: 2019-02-07 ; Times: 6
+	Date: 2019-02-04 ; Times: 13
+	Date: 2019-02-05 ; Times: 6
+	Date: 2019-02-08 ; Times: 3
+	Date: 2019-02-09 ; Times: 2
+	Date: 2019-02-28 ; Times: 8
+	Date: 2019-02-24 ; Times: 7
+	Date: 2019-02-25 ; Times: 9
+	Date: 2019-02-27 ; Times: 2
+	Date: 2019-02-06 ; Times: 1
+	Date: 2019-02-21 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:ptyodactylus" ; Times: 1
+	Query: "Varanus samarensis" ; Times: 2
+	Query: "OMNH 38621" ; Times: 1
+	Query: "Eryx" ; Times: 1
+	Query: "genus:cerastes" ; Times: 1
+	Query: "sthenodactylus" ; Times: 1
+	Query: "sceloporus scalaris nayarit" ; Times: 1
+	Query: "Psammophis sibilans" ; Times: 1
+	Query: "atropoides" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Pecos&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Eunectes mappable:1" ; Times: 1
+	Query: "Crotalus polystictus" ; Times: 2
+	Query: "specificepithet:clelia genus:Clelia institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:cerastes genus:cerastes" ; Times: 1
+	Query: "genus:Phrynosoma stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "map turtles" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "glyptemys muhlenbergii" ; Times: 2
+	Query: "25217" ; Times: 1
+	Query: "stateprovince:&#34;OK&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "7488 OMNH" ; Times: 1
+	Query: "country:Ecuador scientificname:Conolophus pallidus " ; Times: 1
+	Query: "30254" ; Times: 1
+	Query: "OMNH Brachymeles makusog" ; Times: 1
+	Query: "specificepithet:chamaeleon genus:Chamaeleo" ; Times: 4
+	Query: "specificepithet:viridis genus:Crotalus county:&#34;Washoe&#34; stateprovince:&#34;Nevada&#34;" ; Times: 3
+	Query: "Drymarchon couperi" ; Times: 2
+	Query: "Corallus mappable:1" ; Times: 1
+	Query: "Ptyodactylus hasselquistii" ; Times: 4
+	Query: "genus:Lepidophyma year &gt;= 1990 year &lt;= 1999" ; Times: 1
+	Query: "genus:Sceloporus stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "Tarentola mauritanica" ; Times: 2
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "genus:thamnophis county:&#34;travis&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "22840" ; Times: 1
+	Query: "specificepithet:lemniscatus genus:Micrurus country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "44998" ; Times: 1
+	Query: "specificepithet:taeniura family:Colubridae" ; Times: 1
+	Query: "Cerastes cerastes country:&#34;Egypt&#34;" ; Times: 3
+	Query: "32402" ; Times: 1
+	Query: "Eryx mappable:1" ; Times: 1
+	Query: "sceloporus aeneus" ; Times: 1
+	Query: "specificepithet:trigeminus genus:Oxyrhopus institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Randall&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "gumprechti" ; Times: 1
+	Query: "12010" ; Times: 1
+	Query: "OMNH 3530" ; Times: 3
+	Query: "Sphenops sepsoides" ; Times: 1
+	Query: "fieldnumber:4028" ; Times: 1
+	Query: "Varanus olivaceus" ; Times: 2
+	Query: "Trimeresurus trigonocephalus" ; Times: 1
+	Query: "Psammophis schokari" ; Times: 4
+	Query: "Lichanura mappable:1" ; Times: 1
+	Query: "Varanus griseus" ; Times: 5
+	Query: "crotalus zacatecas" ; Times: 1
+	Query: "genus:Heterodon stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Boa constrictor mappable:1" ; Times: 1
+	Query: "ctenosaura pectinata" ; Times: 1
+	Query: "Cerastes country:&#34;Egypt&#34;" ; Times: 3
+	Query: "barisia" ; Times: 1
+	Query: "27799" ; Times: 1
+	Query: "sceloporous" ; Times: 2
+	Query: "locality:brackettville county:&#34;kinney&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "Tantilla atriceps" ; Times: 4
+	Query: "specificepithet:aegyptia genus:Uromastyx" ; Times: 1
+	Query: "Boiga philippina" ; Times: 1
+	Query: "31887" ; Times: 2
+	Query: "Map Turtles" ; Times: 1
+	Query: "Ptyodactylus hasselquistii country:&#34;egypt&#34;" ; Times: 1
+	Query: "Malpolon monspessulanus" ; Times: 1
+	Query: "genus:Mabuya country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "genus:Sceloporus stateprovince:&#34;Alabama&#34; year &lt;= 2000" ; Times: 1
+	Query: "stateprovince:&#34;texas&#34; (crane)" ; Times: 2
+	Query: "specificepithet:melanolomus genus:Dryadophis country:&#34;Nicaragua&#34;" ; Times: 1
+	Query: "stenodactylus sthenodactylus" ; Times: 1
+	Query: "Agkistrodon laticinctus" ; Times: 1
+	Query: "Cerastes vipera" ; Times: 1
+	Query: "Eryx johnii" ; Times: 4
+	Query: "Acanthodactylus scutellatus" ; Times: 2
+	Query: "heloderma suspectum" ; Times: 4
+	Query: "Drymarchon corais OR (melanurus) NOT (couperi) NOT (USA)" ; Times: 2
+	Query: "sceloporus parvus" ; Times: 1
+	Query: "specificepithet:hemprichii genus:Micrurus" ; Times: 1
+	Query: "35018" ; Times: 1
+	Query: "specificepithet:scincus genus:Scincus" ; Times: 3
+	Query: "specificepithet:cerastes genus:cerastes country:&#34;Egypt&#34;" ; Times: 1
+	Query: "specificepithet:undulata genus:ameiva country:&#34;mexico&#34;" ; Times: 2
+	Query: "Spalerosophis diadema" ; Times: 2
+	Query: "country:Ecuador scientificname:Amblyrhynchus cristatus " ; Times: 1
+	Query: "varanus griseus" ; Times: 1
+	Query: "9526 FMNH" ; Times: 2
+	Query: "32115" ; Times: 1
+	Query: "genus:Masticophis stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "Echis mappable:1" ; Times: 1
+	Query: "Drymarchon corais OR (melanurus) NOT (couperi)" ; Times: 1
+	Query: "aegyptius" ; Times: 1
+	Query: "spatial data" ; Times: 2
+	Query: "KUNHM 12276" ; Times: 1
+	Query: "specificepithet:diadema genus:Spalerosophis country:&#34;Egypt&#34;" ; Times: 1
+	Query: "13463" ; Times: 1
+	Query: "Aspidoscelis hyperythrus" ; Times: 1
+	Query: "OMNH 11801" ; Times: 1
+	Query: "specificepithet:narducci genus:Micrurus" ; Times: 1
+	Query: "Chamaeleon" ; Times: 1
+	Query: "genus:Rhinobothryum" ; Times: 2
+	Query: "genus:Plestiodon stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "Spalerosophis" ; Times: 1
+	Query: "Plestiodon anthracinus" ; Times: 1
+	Query: "Heterodon simus" ; Times: 5
+	Query: "tarentola mauritanica" ; Times: 1
+	Query: "Acrantophis dumerili" ; Times: 3
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Pinal&#34; stateprovince:&#34;Arizona&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "13701" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Pecos&#34; stateprovince:&#34;Texas&#34; institutioncode:OMNH basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:zebrata genus:Corucia" ; Times: 2
+	Query: "FMNH 9031" ; Times: 3
+	Query: "Drymarchon corais AND (couperi)" ; Times: 1
+	Query: "FMNH 3582" ; Times: 1
+	Query: "sceloporus scalaris zacatecas" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 33 (out of 1227 download events in this period)
+Total number of records downloaded: 2106
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 19
+	Country: Israel ; Times: 2
+	Country: Mexico ; Times: 5
+	Country: United Kingdom ; Times: 4
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-04 ; Times: 2
+	Date: 2019-02-10 ; Times: 1
+	Date: 2019-02-05 ; Times: 4
+	Date: 2019-02-11 ; Times: 10
+	Date: 2019-02-25 ; Times: 2
+	Date: 2019-02-13 ; Times: 3
+	Date: 2019-02-12 ; Times: 2
+	Date: 2019-02-06 ; Times: 3
+	Date: 2019-02-21 ; Times: 2
+	Date: 2019-02-17 ; Times: 1
+	Date: 2019-02-16 ; Times: 1
+	Date: 2019-02-08 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "xantusia vigilis" ; Times: 1
+	Query: "tantilla melanocephala" ; Times: 1
+	Query: "Agkistrodon laticinctus" ; Times: 1
+	Query: "specificepithet:Aestivus genus:Opheodrys" ; Times: 1
+	Query: "phelsuma" ; Times: 1
+	Query: "Alligator mississippiensis vntype:specimen" ; Times: 1
+	Query: "Tarentola mauritanica" ; Times: 1
+	Query: "Echis carinatus" ; Times: 1
+	Query: "sceloporus spinosus" ; Times: 1
+	Query: "deirochelys" ; Times: 2
+	Query: "Phrynosoma platyrhinos" ; Times: 1
+	Query: "Phrynosoma orbiculare" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 3
+	Query: "specificepithet:nasicus genus:Heterodon" ; Times: 1
+	Query: "specificepithet:biscutatus genus:Trimorphodon" ; Times: 1
+	Query: "Trimeresurus trigonocephalus" ; Times: 1
+	Query: "genus:Chironius" ; Times: 1
+	Query: "genus:Sauromalus" ; Times: 11
+	Query: "anolis nebulosus" ; Times: 1
+	Query: "specificepithet:marcianus genus:Thamnophis" ; Times: 1
+
+
+End of report.
