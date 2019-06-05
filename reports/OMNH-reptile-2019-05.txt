@@ -1,0 +1,248 @@
+Report for Institution Code OMNH, Resource reptile
+Usage stats for May 2019, generated on 2019/06/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 170
+Number of records retrieved in searches: 802
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Canada ; Times: 1
+	Country: Australia ; Times: 3
+	Country: Bangladesh ; Times: 2
+	Country: Mexico ; Times: 13
+	Country: Unknown ; Times: 3
+	Country: France ; Times: 20
+	Country: United Kingdom ; Times: 1
+	Country: Sweden ; Times: 5
+	Country: Germany ; Times: 20
+	Country: Belgium ; Times: 6
+	Country: United States ; Times: 93
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-30 ; Times: 1
+	Date: 2019-05-31 ; Times: 7
+	Date: 2019-05-09 ; Times: 4
+	Date: 2019-05-08 ; Times: 6
+	Date: 2019-05-07 ; Times: 7
+	Date: 2019-05-06 ; Times: 3
+	Date: 2019-05-05 ; Times: 7
+	Date: 2019-05-04 ; Times: 3
+	Date: 2019-05-03 ; Times: 4
+	Date: 2019-05-02 ; Times: 5
+	Date: 2019-05-01 ; Times: 9
+	Date: 2019-05-25 ; Times: 2
+	Date: 2019-05-24 ; Times: 1
+	Date: 2019-05-27 ; Times: 5
+	Date: 2019-05-26 ; Times: 21
+	Date: 2019-05-21 ; Times: 8
+	Date: 2019-05-20 ; Times: 5
+	Date: 2019-05-23 ; Times: 4
+	Date: 2019-05-22 ; Times: 6
+	Date: 2019-05-29 ; Times: 2
+	Date: 2019-05-18 ; Times: 3
+	Date: 2019-05-19 ; Times: 8
+	Date: 2019-05-10 ; Times: 5
+	Date: 2019-05-11 ; Times: 3
+	Date: 2019-05-12 ; Times: 1
+	Date: 2019-05-13 ; Times: 4
+	Date: 2019-05-14 ; Times: 15
+	Date: 2019-05-15 ; Times: 6
+	Date: 2019-05-16 ; Times: 7
+	Date: 2019-05-17 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:fasciatus genus:Hemidactylus country:&#34;Gabon&#34;" ; Times: 1
+	Query: "specificepithet:getula genus:Lampropeltis county:&#34;cochise&#34; stateprovince:&#34;Arizona&#34; country:&#34;united states&#34;" ; Times: 1
+	Query: "genus:bothrops stateprovince:&#34;Veracruz&#34; country:&#34;Mexico&#34;" ; Times: 2
+	Query: "gopherus flavomarginatus" ; Times: 1
+	Query: "Elgaria kingii" ; Times: 2
+	Query: "specificepithet:mcallii genus:Phrynosoma county:&#34;Imperial&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Philodryas viridissima" ; Times: 1
+	Query: "medora genus:heterodon" ; Times: 1
+	Query: "Sea turtle skeleton" ; Times: 1
+	Query: "Philodryas olfersii" ; Times: 1
+	Query: "sceloporus jalapae" ; Times: 5
+	Query: "33485" ; Times: 1
+	Query: "33255" ; Times: 1
+	Query: "Micrurus surinamensis" ; Times: 1
+	Query: "34130" ; Times: 1
+	Query: "OU 6819" ; Times: 2
+	Query: "genus:Phrynosoma county:&#34;pima&#34; stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "fmnh 28224" ; Times: 1
+	Query: "fieldnumber:10432" ; Times: 1
+	Query: "specificepithet:Zonata genus:Lampropeltis county:&#34;San Bernardino&#34; stateprovince:&#34;California&#34;" ; Times: 3
+	Query: "Anilius scytale" ; Times: 1
+	Query: "Phrynosoma taurus" ; Times: 1
+	Query: "washoe Crotalus" ; Times: 1
+	Query: "specificepithet:getula genus:Lampropeltis county:&#34;santa cruz&#34; stateprovince:&#34;Arizona&#34; country:&#34;united states&#34;" ; Times: 1
+	Query: "emydoidea blandingi" ; Times: 2
+	Query: "Eretmochelys imbricata" ; Times: 1
+	Query: "OU 9981" ; Times: 2
+	Query: "Storeria dekayi stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "Pantherophis guttata" ; Times: 1
+	Query: "31985" ; Times: 1
+	Query: "Hydrodynastes gigas" ; Times: 1
+	Query: "specificepithet:lemniscatus genus:Micrurus" ; Times: 1
+	Query: "genus:Micrurus county:&#34;Harris&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Macrochelys temminckii mappable:1" ; Times: 3
+	Query: "genus:crotalus stateprovince:&#34;kansas&#34;" ; Times: 1
+	Query: "Gerrhonotus liocephalus" ; Times: 1
+	Query: "DBS genus:Arizona" ; Times: 1
+	Query: "Liberty county Florida micrurus" ; Times: 1
+	Query: "Helicops polylepis" ; Times: 1
+	Query: "fasciatus class:reptilia stateprovince:&#34;ohio&#34;" ; Times: 2
+	Query: "omnh 38247" ; Times: 2
+	Query: "omnh 38246" ; Times: 2
+	Query: "uromastyx" ; Times: 1
+	Query: "24880" ; Times: 1
+	Query: "Pituophis catenifer catenifer Galiano Island" ; Times: 1
+	Query: "specificepithet:emoryi genus:Pantherophis country:&#34;Mexico&#34;" ; Times: 1
+	Query: "43627" ; Times: 1
+	Query: "liophis oligolepis" ; Times: 1
+	Query: "varanus salvadorii" ; Times: 1
+	Query: "barisia" ; Times: 2
+	Query: "liophis# typhlus" ; Times: 1
+	Query: "18900" ; Times: 1
+	Query: "anilius scytale" ; Times: 1
+	Query: "specificepithet:collaris genus:Crotaphytus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "plestiodon egregious" ; Times: 1
+	Query: "Dendrophidion dendrophis" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon stateprovince:&#34;Oklahoma&#34;" ; Times: 5
+	Query: "11225" ; Times: 1
+	Query: "specificepithet:horridus genus:crotalus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "stateprovince:&#34;Texas&#34; Crotalus horridus" ; Times: 3
+	Query: "Eretmochelys imbricata  mappable:1" ; Times: 1
+	Query: "Thamnophis butleri" ; Times: 2
+	Query: "agkistrodon taylori" ; Times: 1
+	Query: "Varanus prasinus" ; Times: 1
+	Query: "specificepithet:fulvius genus:Micrurus stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "uromastyx aCANTHINURA" ; Times: 7
+	Query: "sceloporus cryptus" ; Times: 2
+	Query: "DBS 872 genus:Arizona" ; Times: 1
+	Query: "OU 32504" ; Times: 2
+	Query: "Thecadactylus solimoensis" ; Times: 1
+	Query: "Erythrolamprus aesculapii" ; Times: 1
+	Query: "34176" ; Times: 1
+	Query: "Cyrtopsis Oklahoma" ; Times: 1
+	Query: "Eunectes murinus" ; Times: 1
+	Query: "Oxyrhopus occipitalis" ; Times: 2
+	Query: "class:reptilia county:&#34;russell&#34; stateprovince:&#34;kansas&#34;" ; Times: 1
+	Query: "DBS 837" ; Times: 2
+	Query: "heloderma suspectum" ; Times: 1
+	Query: "Typhlops brongersmianus" ; Times: 1
+	Query: "uromastyx aegyptia" ; Times: 10
+	Query: "specificepithet:getula genus:Lampropeltis stateprovince:&#34;Arizona&#34; country:&#34;united states&#34;" ; Times: 3
+	Query: "specificepithet:emoryi genus:Pantherophis stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "Helicops hagmanni" ; Times: 1
+	Query: "OU 13980" ; Times: 2
+	Query: "34885" ; Times: 1
+	Query: "Florida Farancia erytrogramma" ; Times: 1
+	Query: "Ahaetulla prasina praeocularis" ; Times: 1
+	Query: "rhineura" ; Times: 1
+	Query: "specificepithet:modestum genus:Phrynosoma county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Oklahoma cyrtopsis" ; Times: 2
+	Query: "Helicops angulatus" ; Times: 2
+	Query: "class:Reptilia distance(location,geopoint(29.258871251165782,-103.29821648713425))&lt;8242" ; Times: 1
+	Query: "Micrurus hemprichii" ; Times: 1
+	Query: "Drymarchon corais couperi" ; Times: 2
+	Query: "platyrhinos maricopa" ; Times: 2
+	Query: "10408" ; Times: 1
+	Query: "genus:Pantherophis stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "specificepithet:parvus genus:Sceloporus stateprovince:&#34;Coahuila&#34;" ; Times: 1
+	Query: "dbs 785" ; Times: 1
+	Query: "Walterinnesia" ; Times: 1
+	Query: "Lichanura" ; Times: 2
+	Query: "specificepithet:modestum genus:phrynosoma class:reptilia county:&#34;cochise&#34; stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon stateprovince:&#34;Arkansas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:hernandesi genus:Phrynosoma stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "lepidophyma flavimaculatum" ; Times: 1
+	Query: "country:&#34;USA&#34; (Agkistrodon)" ; Times: 1
+	Query: "specificepithet:dumerilii genus:Varanus" ; Times: 1
+	Query: "Liophis almadensis" ; Times: 2
+	Query: "31934" ; Times: 1
+	Query: "UTEP 385" ; Times: 1
+	Query: "Plestiodon egregious" ; Times: 1
+	Query: "heterodon arizona" ; Times: 1
+	Query: "eunectes murinus murinus" ; Times: 1
+	Query: "ophiophagus indonesia" ; Times: 1
+	Query: "varanus beccarii" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 42 (out of 940 download events in this period)
+Total number of records downloaded: 1607
+Number of different countries: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Ghana ; Times: 1
+	Country: Brazil ; Times: 3
+	Country: Australia ; Times: 1
+	Country: Bangladesh ; Times: 4
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 12
+	Country: Poland ; Times: 1
+	Country: France ; Times: 2
+	Country: United States ; Times: 10
+	Country: Switzerland ; Times: 5
+	Country: Belgium ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-26 ; Times: 1
+	Date: 2019-05-21 ; Times: 2
+	Date: 2019-05-20 ; Times: 1
+	Date: 2019-05-30 ; Times: 2
+	Date: 2019-05-31 ; Times: 1
+	Date: 2019-05-10 ; Times: 3
+	Date: 2019-05-29 ; Times: 1
+	Date: 2019-05-06 ; Times: 2
+	Date: 2019-05-19 ; Times: 1
+	Date: 2019-05-03 ; Times: 1
+	Date: 2019-05-01 ; Times: 1
+	Date: 2019-05-09 ; Times: 6
+	Date: 2019-05-08 ; Times: 3
+	Date: 2019-05-07 ; Times: 4
+	Date: 2019-05-11 ; Times: 4
+	Date: 2019-05-12 ; Times: 1
+	Date: 2019-05-04 ; Times: 1
+	Date: 2019-05-14 ; Times: 3
+	Date: 2019-05-16 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "callisaurus draconoides distance(location,geopoint(37.12130728695301,-118.09835902908941))&lt;118999" ; Times: 1
+	Query: "crotalus molossus" ; Times: 1
+	Query: "&#34;Echis carinatus&#34;" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 5
+	Query: "&#34;Naja naja&#34;" ; Times: 1
+	Query: "gopherus flavomarginatus" ; Times: 1
+	Query: "&#34;Ophiophagus hannah&#34;" ; Times: 2
+	Query: "uma paraphygas" ; Times: 1
+	Query: "family:Gekkonidae" ; Times: 1
+	Query: "DBS genus:Arizona" ; Times: 1
+	Query: "varanus salvadorii" ; Times: 1
+	Query: "agkistrodon bilineatus" ; Times: 1
+	Query: "agkistrodon taylori" ; Times: 1
+	Query: "bothrops asper" ; Times: 1
+	Query: "sceloporus jalapae" ; Times: 1
+	Query: "genus:gambelia stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "sceloporus cryptus" ; Times: 2
+	Query: "genus:Rhinocheilus" ; Times: 1
+	Query: "uromastyx" ; Times: 1
+	Query: "phrynosoma cornutum" ; Times: 1
+	Query: "gambelia wislizenii" ; Times: 1
+	Query: "crotalus scutulatus" ; Times: 1
+	Query: "Xenosaurus" ; Times: 1
+	Query: "uma exsul" ; Times: 1
+	Query: "genus:Arizona" ; Times: 1
+	Query: "crotalus atrox" ; Times: 1
+	Query: "barisia" ; Times: 1
+	Query: "kentropyx calcarata" ; Times: 2
+	Query: "sauromalus" ; Times: 1
+	Query: "(reptilia) distance(location,geopoint(37.12130728695301,-118.09835902908941))&lt;118999" ; Times: 1
+	Query: "emydoidea blandingi" ; Times: 4
+	Query: "Lygodactylus genus:Lygodactylus" ; Times: 1
+
+
+End of report.
