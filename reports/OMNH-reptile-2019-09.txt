@@ -1,0 +1,329 @@
+Report for Institution Code OMNH, Resource reptile
+Usage stats for September 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 388
+Number of records retrieved in searches: 6223
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 42
+	Country: United States ; Times: 331
+	Country: Mexico ; Times: 4
+	Country: Kuwait ; Times: 1
+	Country: Philippines ; Times: 1
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 3
+	Country: Germany ; Times: 2
+	Country: Argentina ; Times: 1
+	Country: Panama ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-14 ; Times: 2
+	Date: 2019-09-16 ; Times: 5
+	Date: 2019-09-17 ; Times: 11
+	Date: 2019-09-10 ; Times: 8
+	Date: 2019-09-11 ; Times: 8
+	Date: 2019-09-12 ; Times: 26
+	Date: 2019-09-13 ; Times: 12
+	Date: 2019-09-18 ; Times: 15
+	Date: 2019-09-19 ; Times: 33
+	Date: 2019-09-30 ; Times: 5
+	Date: 2019-09-09 ; Times: 29
+	Date: 2019-09-08 ; Times: 1
+	Date: 2019-09-03 ; Times: 53
+	Date: 2019-09-02 ; Times: 1
+	Date: 2019-09-01 ; Times: 3
+	Date: 2019-09-07 ; Times: 14
+	Date: 2019-09-06 ; Times: 22
+	Date: 2019-09-05 ; Times: 23
+	Date: 2019-09-04 ; Times: 36
+	Date: 2019-09-21 ; Times: 21
+	Date: 2019-09-20 ; Times: 34
+	Date: 2019-09-23 ; Times: 5
+	Date: 2019-09-22 ; Times: 1
+	Date: 2019-09-25 ; Times: 11
+	Date: 2019-09-24 ; Times: 1
+	Date: 2019-09-27 ; Times: 2
+	Date: 2019-09-26 ; Times: 4
+	Date: 2019-09-29 ; Times: 1
+	Date: 2019-09-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Thecadactylus solimoensis hassex:1" ; Times: 6
+	Query: "45583" ; Times: 1
+	Query: "Micrurus lemniscatus mappable:1" ; Times: 1
+	Query: "27957" ; Times: 1
+	Query: "Coleodactylus septentrionalis hassex:1" ; Times: 8
+	Query: "specificepithet:bimaculatus genus:Draco class:Reptilia" ; Times: 1
+	Query: "specificepithet:suspectum genus:heloderma country:&#34;united states&#34;" ; Times: 2
+	Query: "genus:Holbrookia stateprovince:&#34;Oklahoma&#34;" ; Times: 23
+	Query: "genus:Pantherophis county:&#34;Pushmataha&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "class:Reptilia county:&#34;Carbon&#34; stateprovince:&#34;Montana&#34;" ; Times: 2
+	Query: "genus:Pituophis stateprovince:&#34;Montana&#34;" ; Times: 2
+	Query: "specificepithet:humeralis genus:Gonatodes institutioncode:OMNH" ; Times: 5
+	Query: "mvz uniparens arizona" ; Times: 1
+	Query: "specificepithet:festae genus:Lepidoblepharis institutioncode:OMNH" ; Times: 5
+	Query: "apalone mutica" ; Times: 1
+	Query: "stateprovince:&#34;Texas&#34; distance(location,geopoint(35.40058605939291,-101.37433816395258))&lt;34620.46525113693" ; Times: 1
+	Query: "specificepithet:alexandermendesi genus:Gonatodes institutioncode:OMNH" ; Times: 5
+	Query: "genus:gymnophthalmus year &gt;= 1990" ; Times: 1
+	Query: "specificepithet:constrictor genus:Coluber stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "Corallus hortulanus mappable:1" ; Times: 1
+	Query: "Crotalus polystictus" ; Times: 2
+	Query: "Clelia clelia mappable:1" ; Times: 1
+	Query: "Anilius scytale" ; Times: 2
+	Query: "phrynops mappable:1" ; Times: 1
+	Query: "41149" ; Times: 1
+	Query: "specificepithet:concinnatus genus:Gonatodes institutioncode:OMNH" ; Times: 5
+	Query: "specificepithet:pseudogeographica genus:graptemys" ; Times: 3
+	Query: "specificepithet:galapagensis genus:Phyllodactylus institutioncode:OMNH" ; Times: 5
+	Query: "nerodia fairfax" ; Times: 1
+	Query: "specificepithet:geckoides genus:Gymnodactylus institutioncode:OMNH" ; Times: 5
+	Query: "specificepithet:rapicauda genus:Thecadactylus institutioncode:OMNH" ; Times: 3
+	Query: "specificepithet:occipitomaculata genus:Storeria stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "specificepithet:hasemani genus:Gonatodes institutioncode:OMNH" ; Times: 5
+	Query: "37768" ; Times: 2
+	Query: "specificepithet:emoryi genus:pantherophis stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "43180" ; Times: 1
+	Query: "Dipsas catesbyi mappable:1" ; Times: 1
+	Query: "Drymarchon corais" ; Times: 20
+	Query: "genus:Pantherophis county:&#34;Johnston&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "specificepithet:lineolatus genus:Sphaerodactylus institutioncode:OMNH" ; Times: 3
+	Query: "CDS 10 Dendrelaphis" ; Times: 1
+	Query: "specificepithet:martini genus:Phyllodactylus institutioncode:OMNH" ; Times: 5
+	Query: "pituophis catenifer sayi" ; Times: 2
+	Query: "specificepithet:constrictor genus:Coluber stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "genus:Sonora Texas" ; Times: 1
+	Query: "Pantherophis emoryi" ; Times: 1
+	Query: "45335" ; Times: 1
+	Query: "specificepithet:pseudogeographica genus:graptemys preparations:dry" ; Times: 1
+	Query: "Deirochelys reticularia miaria" ; Times: 2
+	Query: "anolis sericeus" ; Times: 1
+	Query: "genus:clemmys stateprovince:&#34;connecticut&#34;" ; Times: 1
+	Query: "graptemys kohnii" ; Times: 1
+	Query: "Erythrolamprus aesculapii mappable:1" ; Times: 1
+	Query: "family:amphisbaenidae country:&#34;Brazil&#34; year &gt;= 1990" ; Times: 1
+	Query: "Atropoides" ; Times: 1
+	Query: "genus:Pantherophis county:&#34;Latimer&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Drepanoides anomalus mappable:1" ; Times: 1
+	Query: "10430" ; Times: 1
+	Query: "genus:Lepidophyma year &gt;= 1990" ; Times: 1
+	Query: "Kentropyx altamazonica mappable:1" ; Times: 1
+	Query: "specificepithet:emoryi genus:Pantherophis stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "genus:Pituophis stateprovince:&#34;British Columbia&#34; country:&#34;Canada&#34;" ; Times: 1
+	Query: "Lepidoblepharis festae hassex:1" ; Times: 8
+	Query: "Spilotes pullatus pullatus mappable:1" ; Times: 1
+	Query: "class:Reptilia county:&#34;Big Horn&#34; stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "genus:Pituophis stateprovince:&#34;Oklahoma&#34;" ; Times: 2
+	Query: "specificepithet:emoryi genus:Pantherophis stateprovince:&#34;Arkansas&#34; institutioncode:OMNH" ; Times: 1
+	Query: "genus:Thamnophis county:&#34;Cimarron&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Liophis typhlus mappable:1" ; Times: 1
+	Query: "genus:Uta stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "CDS 2336" ; Times: 2
+	Query: "recordedby:hatch year &gt;= 1910 year &lt;= 1930" ; Times: 1
+	Query: "genus:Pantherophis county:&#34;coal&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Drymarchon corais mappable:1" ; Times: 1
+	Query: "specificepithet:pacificus genus:Sphaerodactylus institutioncode:OMNH" ; Times: 3
+	Query: "Gonatodes concinnatus hassex:1" ; Times: 8
+	Query: "genus:Pantherophis county:&#34;Pittsburg&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Leptodeira annulata mappable:1" ; Times: 1
+	Query: "genus:Tropidoclonion stateprovince:&#34;Oklahoma&#34;" ; Times: 6
+	Query: "specificepithet:lineolatus genus:Sphaerodactylus AND (NOT molei)" ; Times: 1
+	Query: "sauromalus klauberi" ; Times: 6
+	Query: "42180" ; Times: 1
+	Query: "Boa constrictor mappable:1" ; Times: 1
+	Query: "Eunectes murinus murinus mappable:1" ; Times: 1
+	Query: "specificepithet:millepunctatus genus:Sphaerodactylus institutioncode:OMNH" ; Times: 3
+	Query: "specificepithet:nasicus genus:heterodon stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "specificepithet:emoryi genus:pantherophis institutioncode:OMNH" ; Times: 1
+	Query: "32960" ; Times: 1
+	Query: "specificepithet:kohnii genus:graptemys" ; Times: 3
+	Query: "CDS-2336" ; Times: 2
+	Query: "specificepithet:xanthostigma genus:Lepidoblepharis institutioncode:OMNH" ; Times: 5
+	Query: "24204" ; Times: 1
+	Query: "15722" ; Times: 1
+	Query: "Helicops angulatus mappable:1" ; Times: 1
+	Query: "32980" ; Times: 1
+	Query: "Imantodes cenchoa cenchoa mappable:1" ; Times: 1
+	Query: "specificepithet:zonata genus:Lampropeltis county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Pituophis county:&#34;Carson&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Dendrophidion dendrophis" ; Times: 1
+	Query: "Agkistrodon taylori" ; Times: 3
+	Query: "specificepithet:constrictor genus:Coluber county:&#34;Santa Clara&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Sinomicrurus OR Calliophis OR Hemibungarus" ; Times: 2
+	Query: "specificepithet:constrictor genus:Coluber stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Bothrops atrox mappable:1" ; Times: 1
+	Query: "specificepithet:pacificus genus:Sphaerodactylus country:&#34;Costa Rica&#34;" ; Times: 2
+	Query: "specificepithet:ater genus:Sauromalus stateprovince:&#34;Baja&#34;" ; Times: 2
+	Query: "heterodon mexico" ; Times: 1
+	Query: "genus:crotalus class:reptilia locality:needles county:&#34;San Bernardino&#34; stateprovince:&#34;CAlifornia&#34;" ; Times: 1
+	Query: "Platemys platycephala" ; Times: 7
+	Query: "specificepithet:nasicus genus:heterodon county:&#34;tillman&#34; stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "graptemys pseudogeographica" ; Times: 3
+	Query: "specificepithet:sirtalis genus:Thamnophis stateprovince:&#34;Oklahoma&#34;" ; Times: 2
+	Query: "41235" ; Times: 1
+	Query: "genus:Pituophis stateprovince:&#34;Wyoming&#34;" ; Times: 2
+	Query: "Spilotes pullatus mappable:1" ; Times: 1
+	Query: "Thecadactylus solimoensis" ; Times: 6
+	Query: "Imantodes cenchoa mappable:1" ; Times: 1
+	Query: "specificepithet:antillensis genus:Gonatodes institutioncode:OMNH" ; Times: 5
+	Query: "genus:Pantherophis county:&#34;Atoka&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "genus:Pituophis country:&#34;Canada&#34;" ; Times: 1
+	Query: "specificepithet:constrictor genus:Coluber stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "Oxyrhopus melanogenys mappable:1" ; Times: 1
+	Query: "Anilius" ; Times: 1
+	Query: "Philodryas olfersii mappable:1" ; Times: 1
+	Query: "Chironius fuscus mappable:1" ; Times: 1
+	Query: "thecadactylus solimoensis" ; Times: 1
+	Query: "class:Reptilia locality:Cerralbo stateprovince:&#34;Baja California Sur&#34;" ; Times: 1
+	Query: "Xenopholis scalaris mappable:1" ; Times: 1
+	Query: "specificepithet:baurii genus:Phyllodactylus institutioncode:OMNH" ; Times: 5
+	Query: "class:Reptilia county:&#34;Big Horn&#34; stateprovince:&#34;Wyoming&#34; AND (NOT PBDB NOT UCMP NOT YPM )" ; Times: 1
+	Query: "genus:Chionactis county:&#34;San Bernardino&#34; stateprovince:&#34;California&#34; year &gt;= 1950 year &lt;= 1959" ; Times: 1
+	Query: "specificepithet:sirtalis genus:Thamnophis stateprovince:&#34;Wyoming&#34;" ; Times: 2
+	Query: "specificepithet:getula genus:Lampropeltis county:&#34;San Bernardino&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Gonatodes hasemani hassex:1" ; Times: 8
+	Query: "genus:Diadophis institutioncode:OMNH" ; Times: 3
+	Query: "Reptiles Macon county" ; Times: 2
+	Query: "specificepithet:septentrionalis genus:Coleodactylus institutioncode:OMNH" ; Times: 5
+	Query: "specificepithet:horridus genus:Crotalus stateprovince:&#34;Illinois&#34;" ; Times: 1
+	Query: "Hydrodynastes" ; Times: 2
+	Query: "Oxyrhopus petolarius" ; Times: 1
+	Query: "Gonatodes alexandermendesi" ; Times: 8
+	Query: "specificepithet:lateralis genus:Masticophis county:&#34;San Diego&#34; stateprovince:&#34;California&#34; AND (NOT CERASTES NOT RUBER NOT VIRIDIS NOT OREGANUS )" ; Times: 1
+	Query: "Eunectes murinus mappable:1" ; Times: 1
+	Query: "genus:Pituophis stateprovince:&#34;South Dakota&#34;" ; Times: 2
+	Query: "genus:Arizona county:&#34;Imperial&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Reptilia Missouri" ; Times: 1
+	Query: "genus:Pituophis stateprovince:&#34;Kansas&#34;" ; Times: 2
+	Query: "specificepithet:pseudogeographica genus:graptemys institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:ruber genus:Crotalus county:&#34;San Diego&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "Oxyrhabdium modestum" ; Times: 1
+	Query: "genus:Masticophis county:&#34;San Diego&#34; stateprovince:&#34;California&#34; AND (NOT CERASTES NOT RUBER NOT VIRIDIS NOT OREGANUS )" ; Times: 1
+	Query: "RMB Stegonotus" ; Times: 2
+	Query: "Pseudocerastes" ; Times: 1
+	Query: "Micrurus surinamensis" ; Times: 1
+	Query: "Crotalus durissus mappable:1" ; Times: 1
+	Query: "KUNHM 5294" ; Times: 1
+	Query: "genus:Crotalus county:&#34;Armstrong&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:tropidoclonion stateprovince:&#34;texas&#34;" ; Times: 2
+	Query: "Leptophis ahaetulla mappable:1" ; Times: 1
+	Query: "specificepithet:tuberculosus genus:Phyllodactylus institutioncode:OMNH" ; Times: 5
+	Query: "genus:Pituophis county:&#34;Siskiyou&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "locality:Cerralbo stateprovince:&#34;Baja California Sur&#34;" ; Times: 1
+	Query: "Helicops trivittatus" ; Times: 2
+	Query: "specificepithet:macrolepis genus:Sphaerodactylus institutioncode:OMNH" ; Times: 3
+	Query: "specificepithet:solimoensis genus:Thecadactylus institutioncode:OMNH" ; Times: 3
+	Query: "genus:Pantherophis county:&#34;McCurtain&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "specificepithet:kohnii genus:graptemys institutioncode:OMNH" ; Times: 1
+	Query: "45812" ; Times: 1
+	Query: "Oxyrhopus formosus mappable:1" ; Times: 1
+	Query: "genus:Trimorphodon stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "genus:Pituophis stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "specificepithet:sirtalis genus:Thamnophis stateprovince:&#34;South Dakota&#34;" ; Times: 2
+	Query: "class:Reptilia locality:Cerralbo stateprovince:&#34;Baja&#34;" ; Times: 1
+	Query: "specificepithet:punctatus genus:diadophis county:&#34;delaware&#34; stateprovince:&#34;oklahoma&#34; institutioncode:OMNH" ; Times: 1
+	Query: "genus:Salvadora county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Anilius scytale mappable:1" ; Times: 1
+	Query: "heterodon arizona" ; Times: 1
+	Query: "Drymarchon corais corais mappable:1" ; Times: 1
+	Query: "specificepithet:platirhinos genus:Heterodon stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Chironius fuscus" ; Times: 1
+	Query: "specificepithet:guttata genus:clemmys stateprovince:&#34;connecticut&#34;" ; Times: 1
+	Query: "anilius scytale" ; Times: 2
+	Query: "specificepithet:hexalepis genus:Salvadora county:&#34;San Bernardino&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:constrictor genus:Coluber stateprovince:&#34;Montana&#34;" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 50 (out of 1073 download events in this period)
+Total number of records downloaded: 1624
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 6
+	Country: Brunei ; Times: 1
+	Country: Mexico ; Times: 10
+	Country: Unknown ; Times: 1
+	Country: Indonesia ; Times: 1
+	Country: United States ; Times: 29
+	Country: Rwanda ; Times: 1
+	Country: Japan ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-16 ; Times: 2
+	Date: 2019-09-17 ; Times: 2
+	Date: 2019-09-10 ; Times: 1
+	Date: 2019-09-11 ; Times: 4
+	Date: 2019-09-12 ; Times: 3
+	Date: 2019-09-13 ; Times: 1
+	Date: 2019-09-18 ; Times: 2
+	Date: 2019-09-19 ; Times: 5
+	Date: 2019-09-30 ; Times: 3
+	Date: 2019-09-09 ; Times: 2
+	Date: 2019-09-08 ; Times: 1
+	Date: 2019-09-03 ; Times: 3
+	Date: 2019-09-07 ; Times: 4
+	Date: 2019-09-06 ; Times: 1
+	Date: 2019-09-05 ; Times: 1
+	Date: 2019-09-04 ; Times: 1
+	Date: 2019-09-20 ; Times: 1
+	Date: 2019-09-23 ; Times: 3
+	Date: 2019-09-25 ; Times: 1
+	Date: 2019-09-24 ; Times: 1
+	Date: 2019-09-27 ; Times: 1
+	Date: 2019-09-26 ; Times: 3
+	Date: 2019-09-29 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Diadophis institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:turcicus genus:Hemidactylus" ; Times: 1
+	Query: "class:Reptilia locality:Cerralvo stateprovince:&#34;Baja&#34;" ; Times: 1
+	Query: "Laticauda laticaudata" ; Times: 1
+	Query: "specificepithet:constrictor genus:Coluber stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "ants" ; Times: 1
+	Query: "Dendrophidion dendrophis" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 3
+	Query: "jaculus jaculus" ; Times: 1
+	Query: "Laticauda colubrina" ; Times: 1
+	Query: "Sinomicrurus OR Calliophis OR Hemibungarus" ; Times: 1
+	Query: "specificepithet:pseudogeographica genus:graptemys institutioncode:OMNH" ; Times: 1
+	Query: "elgaria multicarinata" ; Times: 1
+	Query: "storeria dekayi virginia" ; Times: 1
+	Query: "chihuahua" ; Times: 2
+	Query: "Trimorphodon biscutatus" ; Times: 1
+	Query: "urosaurus bicarinatus" ; Times: 1
+	Query: "agkistrodon bilineatus" ; Times: 1
+	Query: "Micrurus surinamensis" ; Times: 1
+	Query: "Bothrops asper" ; Times: 1
+	Query: "reptiles jalisco" ; Times: 1
+	Query: "specificepithet:platirhinos genus:Heterodon stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Reptilia Missouri" ; Times: 1
+	Query: "Salvadora grahamiae" ; Times: 1
+	Query: "genus:Rhinocheilus" ; Times: 1
+	Query: "coleonyx variegatus" ; Times: 1
+	Query: "Texas genus:Sonora" ; Times: 1
+	Query: "Reptilia Dakota" ; Times: 1
+	Query: "genus:Anolis stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "newt" ; Times: 1
+	Query: "specificepithet:iguana genus:Iguana" ; Times: 1
+	Query: "Dipsosaurus dorsalis" ; Times: 1
+	Query: "mvz uniparens arizona" ; Times: 1
+	Query: "genus:Diadophis stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "genus:Sonora Texas" ; Times: 1
+	Query: "genus:Arizona" ; Times: 1
+	Query: "leptophis mexicanus" ; Times: 2
+	Query: "deirochelys" ; Times: 1
+	Query: "caiman crocodilus" ; Times: 1
+	Query: "Opheodrys vernalis" ; Times: 1
+	Query: "Reptilia Nebraska" ; Times: 1
+	Query: "specificepithet:kohnii genus:graptemys" ; Times: 1
+	Query: "class:Reptilia locality:Cerralbo stateprovince:&#34;Baja&#34;" ; Times: 1
+	Query: "Opheodrys" ; Times: 1
+	Query: "anilius scytale" ; Times: 2
+
+
+End of report.
