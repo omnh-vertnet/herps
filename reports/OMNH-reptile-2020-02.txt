@@ -1,0 +1,275 @@
+Report for Institution Code OMNH, Resource reptile
+Usage stats for February 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 216
+Number of records retrieved in searches: 2301
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 11
+	Country: United States ; Times: 148
+	Country: Australia ; Times: 8
+	Country: Mexico ; Times: 40
+	Country: Unknown ; Times: 2
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: Ecuador ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-04 ; Times: 27
+	Date: 2020-02-05 ; Times: 11
+	Date: 2020-02-24 ; Times: 3
+	Date: 2020-02-25 ; Times: 3
+	Date: 2020-02-26 ; Times: 5
+	Date: 2020-02-27 ; Times: 12
+	Date: 2020-02-20 ; Times: 7
+	Date: 2020-02-21 ; Times: 13
+	Date: 2020-02-22 ; Times: 7
+	Date: 2020-02-23 ; Times: 6
+	Date: 2020-02-08 ; Times: 2
+	Date: 2020-02-09 ; Times: 33
+	Date: 2020-02-28 ; Times: 18
+	Date: 2020-02-11 ; Times: 9
+	Date: 2020-02-10 ; Times: 2
+	Date: 2020-02-13 ; Times: 12
+	Date: 2020-02-12 ; Times: 5
+	Date: 2020-02-15 ; Times: 5
+	Date: 2020-02-14 ; Times: 7
+	Date: 2020-02-17 ; Times: 2
+	Date: 2020-02-16 ; Times: 5
+	Date: 2020-02-19 ; Times: 7
+	Date: 2020-02-18 ; Times: 2
+	Date: 2020-02-03 ; Times: 6
+	Date: 2020-02-06 ; Times: 2
+	Date: 2020-02-07 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "pantherophis emoryi" ; Times: 1
+	Query: "fieldnumber:DBS" ; Times: 1
+	Query: "specificepithet:humeralis genus:Gonatodes institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:festae genus:Lepidoblepharis institutioncode:OMNH" ; Times: 1
+	Query: "Draco OMNH" ; Times: 4
+	Query: "brown anole" ; Times: 1
+	Query: "17161" ; Times: 1
+	Query: "specificepithet:alexandermendesi genus:Gonatodes institutioncode:OMNH" ; Times: 1
+	Query: "Lygodactylus klugei" ; Times: 2
+	Query: "15683" ; Times: 1
+	Query: "Glyptemys muhlenbergii" ; Times: 4
+	Query: "country:Ecuador scientificname:Anolis transversalis " ; Times: 1
+	Query: "Crotalus polystictus" ; Times: 1
+	Query: "country:Ecuador scientificname:Anolis punctatus " ; Times: 1
+	Query: "genus:Coleodactylus country:&#34;Brazil&#34; AND (NOT amazonicus)" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 2
+	Query: "Pinoyscincus llanosi OMNH" ; Times: 1
+	Query: "specificepithet:concinnatus genus:Gonatodes institutioncode:OMNH" ; Times: 1
+	Query: "41653" ; Times: 1
+	Query: "41652" ; Times: 1
+	Query: "Sphenomorphus OMNH" ; Times: 1
+	Query: "prairie rattlesnake" ; Times: 1
+	Query: "specificepithet:rapicauda genus:Thecadactylus institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:hasemani genus:Gonatodes institutioncode:OMNH" ; Times: 1
+	Query: "microlophus grayii" ; Times: 1
+	Query: "specificepithet:lineolatus genus:Sphaerodactylus institutioncode:OMNH" ; Times: 1
+	Query: "Draco bimaculatus OMNH" ; Times: 1
+	Query: "specificepithet:martini genus:Phyllodactylus institutioncode:OMNH" ; Times: 1
+	Query: "26637" ; Times: 1
+	Query: "25928" ; Times: 1
+	Query: "country:Ecuador scientificname:Boa constrictor " ; Times: 1
+	Query: "spinifera cameron" ; Times: 1
+	Query: "genus:sonora county:&#34;beckham&#34;" ; Times: 4
+	Query: "holbrookia lacerata" ; Times: 2
+	Query: "apalone spinifera texas" ; Times: 2
+	Query: "Tropidonophis negrosensis" ; Times: 1
+	Query: "specificepithet:baurii genus:Phyllodactylus institutioncode:OMNH" ; Times: 1
+	Query: "Ptyodactylus hasselquistii" ; Times: 3
+	Query: "crotalus molossus" ; Times: 1
+	Query: "OMNH 34083" ; Times: 3
+	Query: "Draco ornatus OMNH" ; Times: 1
+	Query: "specificepithet:annularis genus:Tarentola institutioncode:OMNH" ; Times: 1
+	Query: "deirochelys reticularia miaria" ; Times: 1
+	Query: "tropidurus galapagos charles" ; Times: 1
+	Query: "Sceloporus consobrinus hidalgo" ; Times: 1
+	Query: "country:Ecuador scientificname:Anilius scytale " ; Times: 1
+	Query: "Aspidoscelis arizonae" ; Times: 1
+	Query: "Uromastyx aegyptia" ; Times: 1
+	Query: "country:Ecuador scientificname:Anolis fuscoauratus " ; Times: 1
+	Query: "microlophus galapagos charles" ; Times: 1
+	Query: "Sonora semiannulata texas cameron" ; Times: 2
+	Query: "specificepithet:tigris family:viperidae" ; Times: 1
+	Query: "aspidoscelis tigris apache arizona" ; Times: 1
+	Query: "specificepithet:pacificus genus:Sphaerodactylus institutioncode:OMNH" ; Times: 1
+	Query: "Pinoyscincus abdictus OMNH" ; Times: 1
+	Query: "apalone spinifera texas cameron" ; Times: 1
+	Query: "17132" ; Times: 2
+	Query: "Aspidoscelis tigris butte county" ; Times: 1
+	Query: "country:Ecuador scientificname:Thecadactylus solimoensis " ; Times: 1
+	Query: "specificepithet:millepunctatus genus:Sphaerodactylus institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:emoryi genus:pantherophis institutioncode:OMNH" ; Times: 1
+	Query: "26386" ; Times: 1
+	Query: "OMNH 34545" ; Times: 1
+	Query: "apalone spinifera cameron county texas" ; Times: 1
+	Query: "spinifera texas" ; Times: 3
+	Query: "specificepithet:xanthostigma genus:Lepidoblepharis institutioncode:OMNH" ; Times: 1
+	Query: "anilius scytale" ; Times: 2
+	Query: "genus:Lichanura" ; Times: 1
+	Query: "specificepithet:getula genus:lampropeltis stateprovince:&#34;georgia&#34;" ; Times: 2
+	Query: "&#34;Cerastes vipera&#34;" ; Times: 1
+	Query: "vntype:specimen class:Reptilia stateprovince:&#34;galapagos&#34; country:&#34;ecuador&#34; institutioncode:OMNH basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "27725" ; Times: 1
+	Query: "genus:Geochelone (Galapagos OR Ecuador)" ; Times: 1
+	Query: "vntype:specimen specificepithet:annulifera genus:naja" ; Times: 1
+	Query: "specificepithet:solimoensis genus:Thecadactylus institutioncode:OMNH" ; Times: 1
+	Query: "country:Ecuador scientificname:Kentropyx pelviceps " ; Times: 1
+	Query: "eunectes murinus" ; Times: 4
+	Query: "country:Ecuador scientificname:Lepidoblepharis festae " ; Times: 1
+	Query: "39229" ; Times: 1
+	Query: "Sceloporus undulatus texas cameron" ; Times: 1
+	Query: "Malpolon monspessulanus" ; Times: 1
+	Query: "country:Ecuador scientificname:Leptodeira annulata " ; Times: 1
+	Query: "Thecadactylus solimoensis" ; Times: 1
+	Query: "specificepithet:mauritanica genus:Tarentola institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:antillensis genus:Gonatodes institutioncode:OMNH" ; Times: 1
+	Query: "country:Ecuador scientificname:Gonatodes concinnatus " ; Times: 1
+	Query: "country:Ecuador scientificname:Plica umbra " ; Times: 1
+	Query: "Apalone spinifera texas" ; Times: 1
+	Query: "heloderma suspectum" ; Times: 2
+	Query: "country:Ecuador scientificname:Iphisa elegans " ; Times: 1
+	Query: "fieldnumber:DBS 328" ; Times: 4
+	Query: "specificepithet:galapagensis genus:Phyllodactylus institutioncode:OMNH" ; Times: 1
+	Query: "Crotalus molossus" ; Times: 2
+	Query: "28572" ; Times: 1
+	Query: "country:Ecuador scientificname:Mabuya nigropunctata " ; Times: 1
+	Query: "diadophis punctatus regalis" ; Times: 1
+	Query: "genus:lampropeltis stateprovince:&#34;georgia&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Alopoglossus atriventris " ; Times: 2
+	Query: "gymnodactylus geckoides" ; Times: 2
+	Query: "34885" ; Times: 1
+	Query: "varanus griseus" ; Times: 1
+	Query: "specificepithet:septentrionalis genus:Coleodactylus institutioncode:OMNH" ; Times: 1
+	Query: "15700" ; Times: 1
+	Query: "genus:Pseudogonatodes country:&#34;Brazil&#34;" ; Times: 2
+	Query: "Draco spilopterus OMNH" ; Times: 1
+	Query: "Pinoyscincus jagori OMNH" ; Times: 1
+	Query: "Gonatodes alexandermendesi" ; Times: 1
+	Query: "psammophis aegyptius" ; Times: 1
+	Query: "genus:Coleodactylus country:&#34;Brazil&#34; year &gt;= 1970" ; Times: 1
+	Query: "specificepithet:solimoensis genus:thecadactylus" ; Times: 1
+	Query: "Micruroides euryxanthus" ; Times: 1
+	Query: "Pinoyscincus OMNH" ; Times: 3
+	Query: "genus:thamnophis stateprovince:&#34;michoacan&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Anolis cuvieri" ; Times: 1
+	Query: "specificepithet:geckoides genus:Gymnodactylus institutioncode:OMNH" ; Times: 1
+	Query: "genus:alligator lifestage:adult preparations:skeleton" ; Times: 1
+	Query: "Pseudogekko compresicorpus" ; Times: 1
+	Query: "specificepithet:olivaceus genus:varanus" ; Times: 7
+	Query: "specificepithet:tuberculosus genus:Phyllodactylus institutioncode:OMNH" ; Times: 1
+	Query: "genus:varanus lifestage:adult preparations:skeleton" ; Times: 1
+	Query: "country:Ecuador scientificname:Anolis ortonii " ; Times: 1
+	Query: "Xenosaurus platyceps" ; Times: 2
+	Query: "specificepithet:transversalis genus:Anolis country:&#34;Brazil&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Arthrosaura reticulata " ; Times: 1
+	Query: "specificepithet:macrolepis genus:Sphaerodactylus institutioncode:OMNH" ; Times: 1
+	Query: "15969" ; Times: 1
+	Query: "26348" ; Times: 1
+	Query: "country:Ecuador scientificname:Anolis trachyderma " ; Times: 1
+	Query: "anolis biporcatus" ; Times: 1
+	Query: "Manolepis putnami" ; Times: 32
+	Query: "country:Ecuador scientificname:Chironius fuscus " ; Times: 1
+	Query: "country:Ecuador scientificname:Corallus hortulanus " ; Times: 1
+	Query: "no data specificepithet:storri genus:varanus" ; Times: 2
+	Query: "country:Ecuador scientificname:Bachia trisanale " ; Times: 1
+	Query: "specificepithet:transversalis genus:Anolis" ; Times: 1
+	Query: "specificepithet:hasselquistii genus:Ptyodactylus institutioncode:OMNH" ; Times: 1
+	Query: "Plestiodon copei" ; Times: 3
+	Query: "genus:Coleodactylus country:&#34;Brazil&#34;" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 53 (out of 1023 download events in this period)
+Total number of records downloaded: 1448
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Turkey ; Times: 1
+	Country: Australia ; Times: 5
+	Country: Mexico ; Times: 9
+	Country: France ; Times: 2
+	Country: United States ; Times: 28
+	Country: Chile ; Times: 1
+	Country: Guyana ; Times: 1
+	Country: Belgium ; Times: 2
+	Country: Thailand ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-04 ; Times: 1
+	Date: 2020-02-27 ; Times: 3
+	Date: 2020-02-10 ; Times: 1
+	Date: 2020-02-16 ; Times: 2
+	Date: 2020-02-13 ; Times: 2
+	Date: 2020-02-24 ; Times: 3
+	Date: 2020-02-25 ; Times: 1
+	Date: 2020-02-26 ; Times: 2
+	Date: 2020-02-12 ; Times: 1
+	Date: 2020-02-06 ; Times: 3
+	Date: 2020-02-14 ; Times: 2
+	Date: 2020-02-17 ; Times: 2
+	Date: 2020-02-23 ; Times: 2
+	Date: 2020-02-19 ; Times: 2
+	Date: 2020-02-15 ; Times: 2
+	Date: 2020-02-05 ; Times: 16
+	Date: 2020-02-09 ; Times: 3
+	Date: 2020-02-28 ; Times: 3
+	Date: 2020-02-18 ; Times: 1
+	Date: 2020-02-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Xantusia vigilis" ; Times: 1
+	Query: "Uma paraphygas" ; Times: 1
+	Query: "Xantusia henshawi" ; Times: 1
+	Query: "Tantilla melanocephala" ; Times: 1
+	Query: "Urosaurus bicarinatus" ; Times: 1
+	Query: "Varanus niloticus" ; Times: 1
+	Query: "&#34;Cerastes vipera&#34;" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 6
+	Query: "deirochelys" ; Times: 2
+	Query: "class:Reptilia county:&#34;San Diego&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Tamaulipas&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:Geochelone (Galapagos OR Ecuador)" ; Times: 1
+	Query: "Uta palmeri" ; Times: 1
+	Query: "genus:macrochelys" ; Times: 1
+	Query: "&#34;Cerastes cerastes&#34;" ; Times: 1
+	Query: "eunectes murinus" ; Times: 1
+	Query: "country:&#34;Mexico&#34;" ; Times: 1
+	Query: "county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "louisiana" ; Times: 1
+	Query: "Uma scoparia" ; Times: 1
+	Query: "Uromastyx aegyptia" ; Times: 1
+	Query: "Xenosaurus platyceps" ; Times: 1
+	Query: "specificepithet:macrolepis genus:Sphaerodactylus" ; Times: 1
+	Query: "Urosaurus nigricaudus" ; Times: 1
+	Query: "Manolepis putnami" ; Times: 3
+	Query: "Anguidae" ; Times: 1
+	Query: "class:reptilia county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "class:reptilia county:&#34;San Diego&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Urosaurus graciosus" ; Times: 1
+	Query: "specificepithet:dekayi genus:Storeria country:&#34;United States&#34; year &gt;= 1970 year &lt;= 2020" ; Times: 1
+	Query: "varanus griseus" ; Times: 1
+	Query: "Varanus salvator" ; Times: 1
+	Query: "specificepithet:lecontei genus:Rhinocheilus" ; Times: 1
+	Query: "Uta squamata" ; Times: 1
+	Query: "psammophis aegyptius" ; Times: 1
+	Query: "specificepithet:dekayi genus:Storeria year &gt;= 1970 year &lt;= 2020" ; Times: 1
+	Query: "class:Reptilia county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "guyana" ; Times: 1
+	Query: "Xenosaurus grandis" ; Times: 1
+	Query: "Varanus exanthematicus" ; Times: 1
+	Query: "Ptyodactylus hasselquistii" ; Times: 2
+	Query: "anilius scytale" ; Times: 1
+
+
+End of report.
