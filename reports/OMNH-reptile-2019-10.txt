@@ -1,0 +1,283 @@
+Report for Institution Code OMNH, Resource reptile
+Usage stats for October 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 217
+Number of records retrieved in searches: 3033
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 21
+	Country: Australia ; Times: 3
+	Country: Mexico ; Times: 14
+	Country: Unknown ; Times: 1
+	Country: South Africa ; Times: 5
+	Country: France ; Times: 4
+	Country: United States ; Times: 158
+	Country: Sweden ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: Argentina ; Times: 6
+	Country: Taiwan ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-09 ; Times: 7
+	Date: 2019-10-08 ; Times: 5
+	Date: 2019-10-21 ; Times: 2
+	Date: 2019-10-20 ; Times: 4
+	Date: 2019-10-27 ; Times: 1
+	Date: 2019-10-26 ; Times: 9
+	Date: 2019-10-25 ; Times: 7
+	Date: 2019-10-24 ; Times: 5
+	Date: 2019-10-01 ; Times: 5
+	Date: 2019-10-03 ; Times: 5
+	Date: 2019-10-02 ; Times: 9
+	Date: 2019-10-04 ; Times: 19
+	Date: 2019-10-07 ; Times: 5
+	Date: 2019-10-23 ; Times: 9
+	Date: 2019-10-22 ; Times: 30
+	Date: 2019-10-29 ; Times: 8
+	Date: 2019-10-18 ; Times: 4
+	Date: 2019-10-28 ; Times: 14
+	Date: 2019-10-12 ; Times: 2
+	Date: 2019-10-13 ; Times: 4
+	Date: 2019-10-10 ; Times: 7
+	Date: 2019-10-11 ; Times: 9
+	Date: 2019-10-16 ; Times: 2
+	Date: 2019-10-31 ; Times: 26
+	Date: 2019-10-14 ; Times: 2
+	Date: 2019-10-17 ; Times: 5
+	Date: 2019-10-15 ; Times: 6
+	Date: 2019-10-30 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "boa constrictor mappable:1" ; Times: 1
+	Query: "OMNH Aurora Serpentes" ; Times: 1
+	Query: "phyllomedusa omnh" ; Times: 1
+	Query: "specificepithet:emoryi genus:Pantherophis institutioncode:OMNH" ; Times: 3
+	Query: "class:Reptilia county:&#34;Carbon&#34; stateprovince:&#34;Montana&#34;" ; Times: 2
+	Query: "genus:Opheodrys institutioncode:OMNH" ; Times: 1
+	Query: "Ptyas Albay" ; Times: 1
+	Query: "class:Reptilia locality:Catalina stateprovince:&#34;Baja&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:Polychrus country:&#34;Trinidad&#34;" ; Times: 2
+	Query: "plestiodon tetragrammus" ; Times: 5
+	Query: "Crotalus polystictus" ; Times: 1
+	Query: "specificepithet:Nasicus genus:Heterodon stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon stateprovince:&#34;Ohio&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "43878" ; Times: 1
+	Query: "11188" ; Times: 1
+	Query: "genus:Pituophis class:Reptilia county:&#34;Carbon&#34; stateprovince:&#34;Montana&#34;" ; Times: 1
+	Query: "OMNH Ahaetulla Aurora" ; Times: 1
+	Query: "vntype:specimen (Phrynosoma orbiculare) year &gt;= 1950 year &lt;= 2019" ; Times: 1
+	Query: "specificepithet:simus genus:Heterodon stateprovince:&#34;Florida&#34;" ; Times: 2
+	Query: "omnh 36713" ; Times: 1
+	Query: "39945 anolis" ; Times: 2
+	Query: "specificepithet:dekayi genus:Storeria year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "KUNHM 15882" ; Times: 1
+	Query: "cordylus vittifer" ; Times: 1
+	Query: "Drymarchon couperi" ; Times: 2
+	Query: "emydoidea blandingi" ; Times: 1
+	Query: "vntype:specimen (Phrynosoma orbiculare) year &gt;= 1950 year &lt;= 2019 basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "32783" ; Times: 1
+	Query: "10109" ; Times: 1
+	Query: "Gopherus agassizii 2013" ; Times: 1
+	Query: "Neoseps reynoldsi 2013" ; Times: 1
+	Query: "sceloporus nelsoni sinaloa" ; Times: 1
+	Query: "genus:Sceloporus stateprovince:&#34;Alabama&#34;" ; Times: 4
+	Query: "omnh 41307" ; Times: 1
+	Query: "32887" ; Times: 1
+	Query: "Sistrurus catenatus 2004" ; Times: 1
+	Query: "Sistrurus catenatus 2005" ; Times: 1
+	Query: "Sistrurus catenatus 2006" ; Times: 1
+	Query: "Sistrurus catenatus 2007" ; Times: 1
+	Query: "Sistrurus catenatus 2000" ; Times: 1
+	Query: "omnh 8648" ; Times: 1
+	Query: "Sistrurus catenatus 2002" ; Times: 1
+	Query: "specificepithet:speciosus genus:Gymnophthalmus year &gt;= 1990" ; Times: 2
+	Query: "genus:pogona stateprovince:&#34;queensland&#34;" ; Times: 1
+	Query: "Drymarchon couperi 2017" ; Times: 1
+	Query: "Drymarchon couperi 2013" ; Times: 1
+	Query: "specificepithet:mcallii county:&#34;imperial&#34;" ; Times: 1
+	Query: "ctenosaura pectinata sinaloa" ; Times: 1
+	Query: "gymnophthalmus speciosus" ; Times: 1
+	Query: "iguana iguana sinaloa" ; Times: 1
+	Query: "Calamaria Camarines Norte" ; Times: 1
+	Query: "thamnophis tlaxcala" ; Times: 1
+	Query: "genus:Crotalus class:Reptilia county:&#34;Carbon&#34; stateprovince:&#34;Montana&#34;" ; Times: 1
+	Query: "Neoseps reynoldsi 2017" ; Times: 1
+	Query: "40047" ; Times: 1
+	Query: "Plestiodon laticeps mappable:1" ; Times: 1
+	Query: "Sistrurus catenatus 2017" ; Times: 1
+	Query: "Sistrurus catenatus 2016" ; Times: 1
+	Query: "Sistrurus catenatus 2014" ; Times: 1
+	Query: "OMNH Philippines Serpentes" ; Times: 3
+	Query: "Emydoidea blandingi" ; Times: 2
+	Query: "28676" ; Times: 1
+	Query: "sauromalus klauberi" ; Times: 16
+	Query: "Sistrurus catenatus 1972" ; Times: 1
+	Query: "Sistrurus catenatus 1975" ; Times: 1
+	Query: "pantherophis lindheimeri" ; Times: 1
+	Query: "country:Ecuador scientificname:Amblyrhynchus cristatus " ; Times: 1
+	Query: "reptile distance(location,geopoint(28.776642801257953,-114.37182959814027))&lt;113568.68064110065" ; Times: 1
+	Query: "Sistrurus catenatus 2013" ; Times: 1
+	Query: "37120" ; Times: 1
+	Query: "Cyclocorus Camarines" ; Times: 1
+	Query: "vntype:specimen recordedby:Drew Davis basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "genus:anolis locality:Tampa stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "Boiga Camarines Norte" ; Times: 1
+	Query: "genus:Hydrodynastes" ; Times: 1
+	Query: "Aspidoscelis sexlineatus mappable:1" ; Times: 1
+	Query: "Boiga Philippines" ; Times: 1
+	Query: "genus:sphaerodactylus locality:bimini" ; Times: 1
+	Query: "family:helodermatidae" ; Times: 1
+	Query: "Sistrurus catenatus 1983" ; Times: 1
+	Query: "omnh 37614" ; Times: 1
+	Query: "omnh 37613" ; Times: 1
+	Query: "specificepithet:griseus genus:varanus" ; Times: 2
+	Query: "reptile distance(location,geopoint(25.63095683527129,-117.64575537939027))&lt;447676" ; Times: 1
+	Query: "Gopherus agassizii 2017" ; Times: 1
+	Query: "specificepithet:elegans genus:Thamnophis class:Reptilia county:&#34;Carbon&#34; stateprovince:&#34;Montana&#34;" ; Times: 1
+	Query: "Storeria arkansas year &gt;= 2000 year" ; Times: 1
+	Query: "genus:Coluber class:Reptilia county:&#34;Carbon&#34; stateprovince:&#34;Montana&#34;" ; Times: 1
+	Query: "genus:Carphophis stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Rhinobothryum lentiginosum" ; Times: 1
+	Query: "11817" ; Times: 1
+	Query: "phrynops" ; Times: 2
+	Query: "Philodryas patagoniensis" ; Times: 1
+	Query: "Drymarchon couperi 1981" ; Times: 1
+	Query: "Imantodes cenchoa mappable:1" ; Times: 1
+	Query: "Dendrelaphis Albay" ; Times: 1
+	Query: "genus:Chrysemys recordedby:Drew Davis" ; Times: 3
+	Query: "44016" ; Times: 1
+	Query: "thamnophis proximus mexico" ; Times: 1
+	Query: "32998" ; Times: 1
+	Query: "rhinobothryum lentiginosum" ; Times: 3
+	Query: "17684" ; Times: 1
+	Query: "Sceloporus torquatus" ; Times: 1
+	Query: "FMNH 1580" ; Times: 1
+	Query: "Ahaetulla Albay" ; Times: 4
+	Query: "genus:Heterodon stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Barangay Mariroc Serpentes" ; Times: 1
+	Query: "class:Reptilia county:&#34;Carbon&#34; stateprovince:&#34;Montana&#34; institutioncode:OMNH" ; Times: 1
+	Query: "Dendrelaphis Aurora Philippines" ; Times: 1
+	Query: "Lycodon Albay" ; Times: 2
+	Query: "Ptyas Camarines Norte" ; Times: 1
+	Query: "10495" ; Times: 2
+	Query: "omnh 50000" ; Times: 2
+	Query: "specificepithet:viridis genus:Crotalus institutioncode:OMNH" ; Times: 2
+	Query: "Vipera kaznakovi" ; Times: 1
+	Query: "coleodactylus amazonicus" ; Times: 2
+	Query: "12619" ; Times: 2
+	Query: "genus:Lampropeltis class:Reptilia county:&#34;Carbon&#34; stateprovince:&#34;Montana&#34;" ; Times: 1
+	Query: "reptiles estado de mexico" ; Times: 1
+	Query: "genus:Hemibungarus" ; Times: 1
+	Query: "Cyclocorus Camarines Norte" ; Times: 1
+	Query: "genus:Thamnophis class:Reptilia county:&#34;Carbon&#34; stateprovince:&#34;Montana&#34;" ; Times: 1
+	Query: "12953" ; Times: 1
+	Query: "Cordylus vittifer" ; Times: 4
+	Query: "vanzosaura rubricauda" ; Times: 1
+	Query: "Lycodon Camarines Norte" ; Times: 1
+	Query: "Sistrurus catenatus 1991" ; Times: 1
+	Query: "specificepithet:calligaster genus:Hemibungarus" ; Times: 1
+	Query: "genus:varanus country:&#34;egypt&#34;" ; Times: 2
+	Query: "OMNH Ptyas Philippines" ; Times: 1
+	Query: "Storeria dekayi Arkansas year &gt;= 2000" ; Times: 1
+	Query: "chamaeleo chamaeleon" ; Times: 1
+	Query: "genus:Polychrus country:&#34;trinidad&#34;" ; Times: 14
+	Query: "OMNH Lycodon Philippines" ; Times: 1
+	Query: "Drymobius margaritiferus mappable:1" ; Times: 1
+	Query: "uracentron flaviceps" ; Times: 4
+	Query: "Pantherophis guttatus mappable:1" ; Times: 1
+	Query: "Enyalioides laticeps" ; Times: 1
+	Query: "Gopherus flavomarginatus" ; Times: 3
+	Query: "sceloporus torquatus" ; Times: 5
+	Query: "Chironius fuscus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 53 (out of 1308 download events in this period)
+Total number of records downloaded: 1983
+Number of different countries: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: United States ; Times: 23
+	Country: Saudi Arabia ; Times: 1
+	Country: Mexico ; Times: 6
+	Country: Unknown ; Times: 12
+	Country: South Africa ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Rwanda ; Times: 1
+	Country: Taiwan ; Times: 1
+	Country: Hong Kong ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-09 ; Times: 1
+	Date: 2019-10-22 ; Times: 1
+	Date: 2019-10-21 ; Times: 4
+	Date: 2019-10-02 ; Times: 2
+	Date: 2019-10-27 ; Times: 1
+	Date: 2019-10-26 ; Times: 1
+	Date: 2019-10-25 ; Times: 2
+	Date: 2019-10-01 ; Times: 1
+	Date: 2019-10-16 ; Times: 4
+	Date: 2019-10-03 ; Times: 4
+	Date: 2019-10-11 ; Times: 2
+	Date: 2019-10-30 ; Times: 11
+	Date: 2019-10-17 ; Times: 1
+	Date: 2019-10-07 ; Times: 2
+	Date: 2019-10-04 ; Times: 3
+	Date: 2019-10-12 ; Times: 1
+	Date: 2019-10-23 ; Times: 4
+	Date: 2019-10-15 ; Times: 3
+	Date: 2019-10-28 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "ophisaurus attenuatus" ; Times: 1
+	Query: "sceloporus clarkii" ; Times: 4
+	Query: "genus:Sceloporus stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "genus:Polychrus country:&#34;Trinidad&#34;" ; Times: 1
+	Query: "specificepithet:guttata family:emydidae" ; Times: 1
+	Query: "coleodactylus amazonicus" ; Times: 1
+	Query: "genus:Micrurus country:&#34;México&#34;" ; Times: 1
+	Query: "Hemidactylus mabouia" ; Times: 1
+	Query: "eretmochelys imbricata" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 2
+	Query: "genus:Opheodrys institutioncode:OMNH" ; Times: 1
+	Query: "reptilia stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:tesselatus genus:Aspidoscelis" ; Times: 1
+	Query: "class:Reptilia locality:Catalina stateprovince:&#34;Baja&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "catalina class:reptilia stateprovince:&#34;baja&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "sphaerodactylus macrolepis" ; Times: 1
+	Query: "sceloporus Clarkii" ; Times: 1
+	Query: "reptilia stateprovince:&#34;arizona&#34; distance(location,geopoint(33.9811704087733,-114.3090985705079))&lt;100000" ; Times: 1
+	Query: "Ophiophagus hannah" ; Times: 1
+	Query: "Trimorphodon biscutatus" ; Times: 1
+	Query: "genus:Lampropeltis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:gularis genus:Aspidoscelis" ; Times: 1
+	Query: "gonatodes humeralis" ; Times: 1
+	Query: "Mourning dove" ; Times: 1
+	Query: "vanzosaura rubricauda" ; Times: 1
+	Query: "testudo graeca" ; Times: 1
+	Query: "reptile baja california distance(location,geopoint(31.279965062709955,-115.82428755317488))&lt;100000" ; Times: 1
+	Query: "Squamata country:&#34;Madagascar&#34;" ; Times: 1
+	Query: "reptile distance(location,geopoint(31.59984735526638,-115.65597327765477))&lt;152164.6603398149" ; Times: 2
+	Query: "chamaeleo chamaeleon" ; Times: 1
+	Query: "SCELOPORUS CLARKII" ; Times: 3
+	Query: "genus:Polychrus country:&#34;trinidad&#34;" ; Times: 1
+	Query: "Phrynosoma orbiculare" ; Times: 1
+	Query: "Varanus salvator" ; Times: 2
+	Query: "cordylus vittifer" ; Times: 1
+	Query: "Drymarchon couperi" ; Times: 1
+	Query: "Sceloporus clarkii" ; Times: 2
+	Query: "sceloporus torquatus" ; Times: 3
+	Query: "emydoidea blandingi" ; Times: 1
+	Query: "vntype:specimen (Phrynosoma orbiculare) year &gt;= 1950 year &lt;= 2019 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Xenosaurus grandis" ; Times: 1
+	Query: "Varanus exanthematicus" ; Times: 1
+
+
+End of report.
