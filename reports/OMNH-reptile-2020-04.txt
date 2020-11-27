@@ -1,0 +1,420 @@
+Report for Institution Code OMNH, Resource reptile
+Usage stats for April 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 612
+Number of records retrieved in searches: 4158
+Number of different countries where searches have been originated: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 14
+	Country: Canada ; Times: 18
+	Country: Australia ; Times: 6
+	Country: Peru ; Times: 1
+	Country: Mexico ; Times: 6
+	Country: Unknown ; Times: 13
+	Country: Panama ; Times: 1
+	Country: Singapore ; Times: 1
+	Country: India ; Times: 3
+	Country: United States ; Times: 531
+	Country: Ecuador ; Times: 1
+	Country: Germany ; Times: 1
+	Country: United Kingdom ; Times: 9
+	Country: Ireland ; Times: 1
+	Country: Dominican Republic ; Times: 2
+	Country: Spain ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-21 ; Times: 55
+	Date: 2020-04-04 ; Times: 18
+	Date: 2020-04-23 ; Times: 5
+	Date: 2020-04-06 ; Times: 32
+	Date: 2020-04-22 ; Times: 3
+	Date: 2020-04-05 ; Times: 36
+	Date: 2020-04-20 ; Times: 107
+	Date: 2020-04-07 ; Times: 38
+	Date: 2020-04-26 ; Times: 2
+	Date: 2020-04-01 ; Times: 4
+	Date: 2020-04-24 ; Times: 6
+	Date: 2020-04-25 ; Times: 3
+	Date: 2020-04-28 ; Times: 5
+	Date: 2020-04-29 ; Times: 4
+	Date: 2020-04-08 ; Times: 6
+	Date: 2020-04-09 ; Times: 28
+	Date: 2020-04-27 ; Times: 3
+	Date: 2020-04-02 ; Times: 16
+	Date: 2020-04-03 ; Times: 20
+	Date: 2020-04-19 ; Times: 32
+	Date: 2020-04-18 ; Times: 19
+	Date: 2020-04-13 ; Times: 14
+	Date: 2020-04-12 ; Times: 4
+	Date: 2020-04-11 ; Times: 10
+	Date: 2020-04-10 ; Times: 23
+	Date: 2020-04-17 ; Times: 20
+	Date: 2020-04-16 ; Times: 27
+	Date: 2020-04-15 ; Times: 39
+	Date: 2020-04-14 ; Times: 20
+	Date: 2020-04-30 ; Times: 13
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Pituophis class:Reptilia stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Craig&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "genus:Pituophis class:Reptilia stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "specificepithet:cornutum genus:Phrynosoma stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "23208" ; Times: 1
+	Query: "genus:Holbrookia stateprovince:&#34;Oklahoma&#34;" ; Times: 2
+	Query: "specificepithet:dulcis genus:Leptotyphlops county:&#34;ellis&#34; stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Pittsburg&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Oxyrhopus melanogenys " ; Times: 1
+	Query: "genus:Sistrurus county:&#34;harmon&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "genus:holbrookia county:&#34;logan&#34; stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "genus:Pituophis class:Reptilia county:&#34;Cleveland&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "specificepithet:catenatus genus:Sistrurus county:&#34;Blaine&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "genus:thamnophis county:&#34;Grady&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "26823" ; Times: 3
+	Query: "genus:cemophora stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "26821" ; Times: 2
+	Query: "genus:Plestiodon county:&#34;pittsburg&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Glyptemys insculpta" ; Times: 242
+	Query: "specificepithet:constrictor genus:Coluber county:&#34;Carbon&#34; stateprovince:&#34;Montana&#34;" ; Times: 1
+	Query: "specificepithet:nasicus genus:Heterodon stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Anomalepididae" ; Times: 2
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Miller&#34; stateprovince:&#34;Arkansas&#34;" ; Times: 2
+	Query: "genus:Plestiodon county:&#34;McIntosh&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "genus:Sistrurus stateprovince:&#34;Michigan&#34;" ; Times: 3
+	Query: "genus:tropidoclonion county:&#34;comanche&#34; stateprovince:&#34;oklahoma&#34;" ; Times: 2
+	Query: "genus:Ophisaurus stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Pushmataha&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 2
+	Query: "genus:Cemophora stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "genus:Pituophis class:Reptilia county:&#34;Randall&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Pituophis class:Reptilia county:&#34;Nowata&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "specificepithet:fasciatus genus:plestiodon county:&#34;ouachita&#34; stateprovince:&#34;louisiana&#34;" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon stateprovince:&#34;Arkansas&#34;" ; Times: 3
+	Query: "Heloderma suspectum" ; Times: 3
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Polk&#34; stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "specificepithet:suspectum genus:Heloderma" ; Times: 1
+	Query: "23472" ; Times: 1
+	Query: "36527 institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:aestivus genus:Opheodrys stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "30985" ; Times: 1
+	Query: "genus:tropidoclonion county:&#34;bryan&#34; stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "specificepithet:catenatus genus:Sistrurus county:&#34;Ellis&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "genus:tropidoclonion county:&#34;cotton&#34; stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "27883" ; Times: 1
+	Query: "genus:Sistrurus county:&#34;blaine&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "genus:Pituophis class:Reptilia county:&#34;Carbon&#34; stateprovince:&#34;Montana&#34;" ; Times: 1
+	Query: "specificepithet:rigida genus:Regina stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "gymnophthalmus underwoodi" ; Times: 2
+	Query: "specificepithet:laticeps stateprovince:&#34;Oklahoma&#34;" ; Times: 2
+	Query: "genus:Virginia county:&#34;marshall&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "genus:opheodrys county:&#34;garfield&#34; stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Choctaw&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 2
+	Query: "genus:hypsiglena stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "genus:sternotherus county:&#34;pittsburg&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "specificepithet:elegans genus:Arizona stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "specificepithet:butleri genus:Thamnophis" ; Times: 1
+	Query: "genus:Pituophis class:Reptilia stateprovince:&#34;South Dakota&#34;" ; Times: 1
+	Query: "OMNH 33294" ; Times: 1
+	Query: "class:Reptilia county:&#34;Mcintosh&#34; stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "specificepithet:catenatus genus:Sistrurus county:&#34;Harper&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "specificepithet:marcianus genus:thamnophis stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "37370 institutioncode:OMNH" ; Times: 2
+	Query: "genus:Lampropeltis county:&#34;Texas&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Boa constrictor " ; Times: 1
+	Query: "41218 institutioncode:OMNH" ; Times: 1
+	Query: "34417 institutioncode:OMNH" ; Times: 1
+	Query: "genus:Tropidoclonion stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Love&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "specificepithet:insculpta genus:Glyptemys" ; Times: 5
+	Query: "plestiodon fasciatus ouachita louisiana" ; Times: 1
+	Query: "27883 class:reptilia" ; Times: 1
+	Query: "specificepithet:fasciata genus:nerodia stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "specificepithet:aestivus genus:opheodrys county:&#34;ouachita&#34; stateprovince:&#34;louisiana&#34;" ; Times: 2
+	Query: "genus:Glyptemys insculpta" ; Times: 2
+	Query: "specificepithet:neuwiedii genus:Pseudoboa" ; Times: 1
+	Query: "specificepithet:dichrous genus:Drymoluber" ; Times: 1
+	Query: "specificepithet:kohnii genus:graptemys stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Imantodes cenchoa " ; Times: 1
+	Query: "genus:Pituophis class:Reptilia county:&#34;Pottawatomie&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "22916" ; Times: 1
+	Query: "anolis trachyderma OR norops trachyderma" ; Times: 3
+	Query: "Trachemys scripta arkansas" ; Times: 4
+	Query: "(10009)" ; Times: 1
+	Query: "specificepithet:boa genus:Aplopeltura" ; Times: 1
+	Query: "specificepithet:concinna genus:pseudemys stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "genus:Pituophis class:Reptilia county:&#34;Carson&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:proximus genus:thamnophis stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "specificepithet:catenatus genus:Sistrurus county:&#34;Custer&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "genus:thamnophis county:&#34;Carter&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "opheodrys aestivus ouachita louisiana" ; Times: 1
+	Query: "specificepithet:catenatus genus:Sistrurus stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Marshall&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "genus:Diadophis stateprovince:&#34;Texas&#34;" ; Times: 4
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;McCurtain&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 5
+	Query: "specificepithet:dulcis genus:Leptotyphlops stateprovince:&#34;oklahoma&#34;" ; Times: 3
+	Query: "scincella lateralis denton texas" ; Times: 1
+	Query: "41220 institutioncode:OMNH" ; Times: 1
+	Query: "genus:Sistrurus county:&#34;kiowa&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "genus:Virginia county:&#34;love&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "vntype:specimen genus:Sceloporus stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Le Flore&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 2
+	Query: "genus:oxyrhopus country:&#34;Ecuador&#34;" ; Times: 2
+	Query: "genus:Sistrurus stateprovince:&#34;MIchigan&#34;" ; Times: 1
+	Query: "specificepithet:occipitomaculata genus:storeria stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "python reticulatus" ; Times: 2
+	Query: "specificepithet:catenatus genus:Sistrurus stateprovince:&#34;Oklahoma&#34;" ; Times: 2
+	Query: "genus:tropidoclonion stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Adair&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 2
+	Query: "coleonyx brevis" ; Times: 1
+	Query: "Caiman crocodilus" ; Times: 4
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Cherokee&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 2
+	Query: "specificepithet:obsoletus genus:pantherophis county:&#34;ouachita&#34; stateprovince:&#34;louisiana&#34;" ; Times: 1
+	Query: "genus:Carphophis county:&#34;choctaw&#34; stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Grayson&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Wagoner&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Sebastian&#34; stateprovince:&#34;Arkansas&#34;" ; Times: 2
+	Query: "genus:Ophisaurus county:&#34;Ellis&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "hemidactylus turcicus louisiana" ; Times: 1
+	Query: "country:Ecuador scientificname:Drepanoides anomalus " ; Times: 1
+	Query: "genus:tropidoclonion county:&#34;stephens&#34; stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "genus:opheodrys county:&#34;blaine&#34; stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "genus:opheodrys county:&#34;comanche&#34; stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "genus:virginia county:&#34;rogers&#34; stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "genus:thamnophis county:&#34;Caddo&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "genus:Regina county:&#34;jackson&#34; stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "genus:thamnophis county:&#34;stephens&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Jefferson&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Nueces Trachemys" ; Times: 1
+	Query: "12876" ; Times: 1
+	Query: "40612" ; Times: 1
+	Query: "specificepithet:triangulum genus:Lampropeltis stateprovince:&#34;Montana&#34;" ; Times: 1
+	Query: "genus:virginia county:&#34;mayes&#34; stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "specificepithet:spiloides genus:Pantherophis" ; Times: 1
+	Query: "specificepithet:getula genus:lampropeltis stateprovince:&#34;georgia&#34;" ; Times: 1
+	Query: "genus:Regina county:&#34;latimer&#34; stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "genus:opheodrys stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "specificepithet:radix genus:thamnophis stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "genus:Sistrurus stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Cotton&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "genus:Cemophora stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "hydromorphus concolor" ; Times: 1
+	Query: "genus:Regina county:&#34;atoka&#34; stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "specificepithet:constrictor genus:Coluber stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Glyptemys insculpta." ; Times: 19
+	Query: "specificepithet:nasicus genus:Heterodon stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "genus:sternotherus county:&#34;johnston&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "specificepithet:trachyderma genus:Anolis institutioncode:OMNH" ; Times: 1
+	Query: "Thamnophis butleri" ; Times: 2
+	Query: "country:Ecuador scientificname:Micrurus lemniscatus " ; Times: 2
+	Query: "eunectes murinus" ; Times: 1
+	Query: "specificepithet:striatula stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "specificepithet:neuwiedii genus:Pseudoboa country:&#34;Guyana&#34;" ; Times: 1
+	Query: "specificepithet:constrictor genus:Coluber county:&#34;Yellowstone&#34; stateprovince:&#34;Montana&#34;" ; Times: 1
+	Query: "scincella lateralis louisiana" ; Times: 3
+	Query: "genus:Sistrurus county:&#34;osage&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "chelydra serpentina louisiana" ; Times: 1
+	Query: "41044" ; Times: 2
+	Query: "specificepithet:sipedon genus:Nerodia stateprovince:&#34;Massachusetts&#34;" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Rogers&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "genus:virginia county:&#34;tulsa&#34; stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "genus:Regina stateprovince:&#34;oklahoma&#34;" ; Times: 2
+	Query: "scientificname:Anolis trachyderma " ; Times: 2
+	Query: "country:&#34;mexico&#34; recordedby:carpenter" ; Times: 1
+	Query: "specificepithet:triangulum genus:Lampropeltis stateprovince:&#34;Oklahoma&#34;" ; Times: 2
+	Query: "36314" ; Times: 1
+	Query: "genus:thamnophis county:&#34;love&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "specificepithet:constrictor genus:Coluber stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "genus:Pituophis class:Reptilia county:&#34;Oklahoma&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Leptodeira annulata " ; Times: 1
+	Query: "heloderma suspectum" ; Times: 1
+	Query: "Flagellum Arbuckle" ; Times: 1
+	Query: "Manis temminckii" ; Times: 4
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Montgomery&#34; stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "Trachemys Nueces Texas" ; Times: 1
+	Query: "Pantherophis spiloides" ; Times: 1
+	Query: "genus:Pituophis class:Reptilia stateprovince:&#34;Montana&#34;" ; Times: 1
+	Query: "36533 institutioncode:OMNH" ; Times: 1
+	Query: "genus:rhinobothryum" ; Times: 1
+	Query: "CEMOPHORA COCCINEA COPEI" ; Times: 1
+	Query: "specificepithet:nigriceps genus:tantilla stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "specificepithet:proximus genus:thamnophis county:&#34;ouachita&#34; stateprovince:&#34;louisiana&#34;" ; Times: 1
+	Query: "specificepithet:catenatus genus:Sistrurus county:&#34;Mitchell&#34; stateprovince:&#34;Kansas&#34;" ; Times: 2
+	Query: "graptemys pseudogeographica louisiana" ; Times: 1
+	Query: "specificepithet:proximus genus:thamnophis county:&#34;Texas&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "genus:tropidoclonion county:&#34;coal&#34; stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "pantherophis spiloides" ; Times: 1
+	Query: "specificepithet:constrictor genus:Coluber stateprovince:&#34;Michigan&#34;" ; Times: 1
+	Query: "Masticophis Arbuckle" ; Times: 1
+	Query: "34276" ; Times: 1
+	Query: "genus:Sistrurus county:&#34;Harper&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "40579" ; Times: 2
+	Query: "40578" ; Times: 2
+	Query: "genus:sistrurus county:&#34;blaine&#34; stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "specificepithet:nasicus genus:Heterodon stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "class:reptilia (proctor)" ; Times: 1
+	Query: "genus:thamnophis county:&#34;comanche&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 2
+	Query: "genus:storeria county:&#34;Ellis&#34; stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "genus:Diadophis stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "25093" ; Times: 1
+	Query: "26884" ; Times: 2
+	Query: "26886" ; Times: 2
+	Query: "anolis trachyderma" ; Times: 5
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Atoka&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "genus:opheodrys county:&#34;caddo&#34; stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "genus:Sistrurus stateprovince:&#34;Kansas&#34;" ; Times: 2
+	Query: "genus:Pituophis class:Reptilia county:&#34;Yellowstone&#34; stateprovince:&#34;Montana&#34;" ; Times: 1
+	Query: "genus:Pituophis class:Reptilia county:&#34;McClain&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Manouria impressa" ; Times: 1
+	Query: "specificepithet:catenatus genus:Sistrurus county:&#34;alfalfa&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "specificepithet:nasicus genus:Heterodon stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Eutropis institutioncode:OMNH" ; Times: 1
+	Query: "genus:rhinocheilus stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "genus:holbrookia county:&#34;jefferson&#34; stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "specificepithet:cyrtopsis genus:thamnophis stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "specificepithet:gracilis genus:tantilla county:&#34;Blaine&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "specificepithet:gracilis genus:tantilla county:&#34;caddo&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Latimer&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 2
+	Query: "specificepithet:pseudogeographica genus:graptemys stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "genus:Ophisaurus county:&#34;McCurtain&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "specificepithet:catenatus genus:Sistrurus county:&#34;Roger Mills&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "genus:deirochelys stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "order:Serpentes locality:Flores" ; Times: 1
+	Query: "Barisia" ; Times: 1
+	Query: "26816" ; Times: 3
+	Query: "29346" ; Times: 1
+	Query: "genus:Carphophis county:&#34;pottawatomie&#34; stateprovince:&#34;oklahoma&#34;" ; Times: 2
+	Query: "genus:Carphophis stateprovince:&#34;Indiana&#34;" ; Times: 1
+	Query: "specificepithet:contortrix genus:agkistrodon stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "genus:Carphophis county:&#34;atoka&#34; stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "Lampropeltis holbrooki" ; Times: 1
+	Query: "specificepithet:carolinensis genus:anolis county:&#34;ouachita&#34; stateprovince:&#34;louisiana&#34;" ; Times: 1
+	Query: "44897 institutioncode:OMNH" ; Times: 1
+	Query: "class:reptilia recordedby:Proctor" ; Times: 1
+	Query: "Paleosuchus trigonatus" ; Times: 2
+	Query: "specificepithet:boa genus:aplopeltura" ; Times: 3
+	Query: "FMNH 3282" ; Times: 1
+	Query: "genus:Carphophis stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "Gopherus flavomarginatus" ; Times: 1
+	Query: "genus:Pituophis class:Reptilia county:&#34;Sheridan&#34; stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Haskell&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "glyptemys insculpta" ; Times: 31
+	Query: "genus:sistrurus county:&#34;comanche&#34; stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "genus:Virginia county:&#34;Marshall&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "36220" ; Times: 1
+	Query: "specificepithet:constrictor genus:Coluber stateprovince:&#34;Montana&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 77 (out of 1171 download events in this period)
+Total number of records downloaded: 19485
+Number of different countries: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Turkey ; Times: 1
+	Country: Australia ; Times: 9
+	Country: Mexico ; Times: 5
+	Country: Unknown ; Times: 3
+	Country: Panama ; Times: 1
+	Country: United States ; Times: 53
+	Country: Netherlands ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Kenya ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-04 ; Times: 1
+	Date: 2020-04-06 ; Times: 10
+	Date: 2020-04-22 ; Times: 1
+	Date: 2020-04-05 ; Times: 1
+	Date: 2020-04-20 ; Times: 6
+	Date: 2020-04-21 ; Times: 1
+	Date: 2020-04-27 ; Times: 1
+	Date: 2020-04-02 ; Times: 3
+	Date: 2020-04-25 ; Times: 1
+	Date: 2020-04-28 ; Times: 1
+	Date: 2020-04-29 ; Times: 19
+	Date: 2020-04-08 ; Times: 2
+	Date: 2020-04-09 ; Times: 1
+	Date: 2020-04-24 ; Times: 3
+	Date: 2020-04-03 ; Times: 6
+	Date: 2020-04-19 ; Times: 1
+	Date: 2020-04-18 ; Times: 2
+	Date: 2020-04-13 ; Times: 1
+	Date: 2020-04-12 ; Times: 2
+	Date: 2020-04-10 ; Times: 6
+	Date: 2020-04-17 ; Times: 1
+	Date: 2020-04-16 ; Times: 2
+	Date: 2020-04-15 ; Times: 3
+	Date: 2020-04-14 ; Times: 1
+	Date: 2020-04-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Xantusia henshawi" ; Times: 1
+	Query: "emydoidea" ; Times: 3
+	Query: "trachemys scripta elegans" ; Times: 1
+	Query: "bullfrog" ; Times: 1
+	Query: "specificepithet:spiloides genus:Pantherophis" ; Times: 1
+	Query: "specificepithet:constrictor genus:Coluber stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:rhinobothryum" ; Times: 1
+	Query: "Thamnophis ordinoides" ; Times: 1
+	Query: "clelia clelia" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 2
+	Query: "specificepithet:platirhinos genus:Heterodon" ; Times: 1
+	Query: "&#34;Iguana iguana&#34;" ; Times: 1
+	Query: "thamnophis eques" ; Times: 1
+	Query: "specificepithet:occidentalis genus:Sceloporus" ; Times: 1
+	Query: "Charina bottae" ; Times: 1
+	Query: "specificepithet:platyrhinos genus:Heterodon" ; Times: 1
+	Query: "specificepithet:tigris genus:Aspidoscelis" ; Times: 1
+	Query: "Sceloporus tristichus" ; Times: 1
+	Query: "specificepithet:hernandesi genus:Phrynosoma" ; Times: 2
+	Query: "specificepithet:lepidus genus:Crotalus" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus" ; Times: 2
+	Query: "eretmochelys" ; Times: 1
+	Query: "Melanosuchus niger" ; Times: 1
+	Query: "agkistrodon bilineatus" ; Times: 1
+	Query: "specificepithet:molossus genus:Crotalus" ; Times: 1
+	Query: "specificepithet:obsoletus genus:Pantherophis" ; Times: 1
+	Query: "specificepithet:nasicus genus:Heterodon" ; Times: 1
+	Query: "Lacerta viridis" ; Times: 1
+	Query: "anolis trachyderma" ; Times: 1
+	Query: "specificepithet:suspectum genus:Heloderma" ; Times: 1
+	Query: "stateprovince:&#34;oklahoma&#34; institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:constrictor genus:Coluber" ; Times: 1
+	Query: "specificepithet:draconoides genus:Callisaurus" ; Times: 2
+	Query: "specificepithet:taeniatus genus:Masticophis" ; Times: 1
+	Query: "specificepithet:graciosus genus:Sceloporus" ; Times: 1
+	Query: "Lampropeltis holbrooki" ; Times: 1
+	Query: "blandingii" ; Times: 1
+	Query: "specificepithet:scutulatus genus:Crotalus" ; Times: 1
+	Query: "specificepithet:molossus genus:Crotalus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:fulgidus genus:Oxybelis" ; Times: 1
+	Query: "specificepithet:tigris genus:Crotalus" ; Times: 1
+	Query: "specificepithet:ruber genus:Crotalus" ; Times: 1
+	Query: "heloderma suspectum" ; Times: 3
+	Query: "vntype:specimen stateprovince:&#34;Veracruz&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "staurotypus triporcatus" ; Times: 1
+	Query: "specificepithet:butleri genus:Thamnophis" ; Times: 1
+	Query: "specificepithet:bilineatus genus:Agkistrodon" ; Times: 1
+	Query: "Pantherophis spiloides" ; Times: 1
+	Query: "specificepithet:catenifer genus:Pituophis" ; Times: 2
+	Query: "specificepithet:magister genus:Sceloporus" ; Times: 3
+	Query: "specificepithet:melanoleucus genus:Pituophis" ; Times: 1
+	Query: "specificepithet:lecontei genus:Rhinocheilus" ; Times: 1
+	Query: "Masticophis taeniatus" ; Times: 1
+	Query: "vntype:specimen specificepithet:consobrinus genus:Sceloporus" ; Times: 1
+	Query: "caiman crocodilus" ; Times: 1
+	Query: "specificepithet:cerastes genus:Crotalus" ; Times: 1
+	Query: "specificepithet:platyrhinos genus:Phrynosoma" ; Times: 2
+	Query: "specificepithet:moreletii genus:Mesaspis" ; Times: 1
+	Query: "vntype:specimen genus:Sceloporus stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "specificepithet:torquata genus:Hypsiglena" ; Times: 1
+	Query: "Rhabdophis tigrinus" ; Times: 1
+	Query: "crotalus atrox" ; Times: 1
+	Query: "Anolis nebulosus" ; Times: 3
+
+
+End of report.
