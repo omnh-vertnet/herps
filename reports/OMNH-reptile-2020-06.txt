@@ -1,0 +1,125 @@
+Report for Institution Code OMNH, Resource reptile
+Usage stats for June 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 88
+Number of records retrieved in searches: 1701
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Singapore ; Times: 1
+	Country: South Africa ; Times: 1
+	Country: India ; Times: 1
+	Country: Mexico ; Times: 7
+	Country: United States ; Times: 63
+	Country: Sweden ; Times: 5
+	Country: Peru ; Times: 7
+	Country: Switzerland ; Times: 1
+	Country: New Zealand ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-23 ; Times: 3
+	Date: 2020-06-24 ; Times: 2
+	Date: 2020-06-25 ; Times: 7
+	Date: 2020-06-08 ; Times: 2
+	Date: 2020-06-09 ; Times: 19
+	Date: 2020-06-06 ; Times: 4
+	Date: 2020-06-07 ; Times: 10
+	Date: 2020-06-04 ; Times: 1
+	Date: 2020-06-05 ; Times: 4
+	Date: 2020-06-02 ; Times: 7
+	Date: 2020-06-03 ; Times: 2
+	Date: 2020-06-01 ; Times: 7
+	Date: 2020-06-15 ; Times: 2
+	Date: 2020-06-28 ; Times: 15
+	Date: 2020-06-26 ; Times: 2
+	Date: 2020-06-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Reptilia stateprovince:&#34;Zulia&#34; country:&#34;Venezuela&#34;" ; Times: 1
+	Query: "Agkistrodon piscivorous" ; Times: 4
+	Query: "genus:Micruroides county:&#34;Pinal&#34; stateprovince:&#34;Arizona&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Boa specificepithet:constrictor" ; Times: 1
+	Query: "Crotalus abyssus" ; Times: 1
+	Query: "Oklahoma cemophorA" ; Times: 8
+	Query: "tantilla bocourti" ; Times: 1
+	Query: "37841" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Roraima&#34; country:&#34;Brazil&#34; institutioncode:OMNH" ; Times: 2
+	Query: "Anolis trachyderma" ; Times: 1
+	Query: "heloderma suspectum" ; Times: 1
+	Query: "tantilla atriceps" ; Times: 1
+	Query: "Arthrosaura reticulata" ; Times: 2
+	Query: "genus:Oxyrhopus country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "genus:Charina stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "OMNH Imantodes" ; Times: 1
+	Query: "Prionodactylus argulus" ; Times: 1
+	Query: "country:Ecuador scientificname:Anolis transversalis " ; Times: 1
+	Query: "genus:Sistrurus stateprovince:&#34;Michigan&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "genus:Philodryas country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Anolis punctatus " ; Times: 1
+	Query: "specificepithet:miliarius genus:Sistrurus stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "specificepithet:flagellicauda genus:aspidoscelis county:&#34;pinal&#34;" ; Times: 1
+	Query: "arthrosaura reticulata" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Zulia&#34; country:&#34;Venezuela&#34; institutioncode:OMNH" ; Times: 1
+	Query: "country:Ecuador scientificname:Anolis ortonii " ; Times: 1
+	Query: "genus:chironius country:&#34;Ecuador&#34;" ; Times: 4
+	Query: "Chrysopelea paradisi vntype:specimen" ; Times: 1
+	Query: "rhabdophis chrysargos" ; Times: 1
+	Query: "recordedby: william wood" ; Times: 1
+	Query: "genus:Micruroides county:&#34;Graham&#34; stateprovince:&#34;Arizona&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Kinosternon county:&#34;Okfuskee&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Acre&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Rondonia&#34; country:&#34;Brazil&#34; institutioncode:OMNH" ; Times: 4
+	Query: "country:Ecuador scientificname:Anolis trachyderma " ; Times: 1
+	Query: "genus:Sistrurus county:&#34;Washtenaw&#34; stateprovince:&#34;Michigan&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Pantherophis spiloides" ; Times: 1
+	Query: "specificepithet:platirhinos genus:Heterodon stateprovince:&#34;Texas&#34; year &gt;= 1930 year &lt;= 2019" ; Times: 1
+	Query: "Prionodactylus eigenmanni" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Acre&#34; country:&#34;Brazil&#34; institutioncode:OMNH" ; Times: 1
+	Query: "scientificname:emydoidea blandingii" ; Times: 18
+	Query: "class:Reptilia stateprovince:&#34;Para&#34; country:&#34;Brazil&#34; institutioncode:OMNH" ; Times: 1
+	Query: "genus:Micrurus country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "genus:aspidoscelis county:&#34;pinal&#34;" ; Times: 1
+	Query: "Prionodactylus oshaughnessyi" ; Times: 2
+	Query: "class:Reptilia stateprovince:&#34;Rondonia&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Amazonas&#34; country:&#34;Brazil&#34; institutioncode:OMNH" ; Times: 4
+	Query: "class:Reptilia stateprovince:&#34;Roraima&#34; country:&#34;Brazil&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 13 (out of 474 download events in this period)
+Total number of records downloaded: 194
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+	Country: Peru ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-23 ; Times: 1
+	Date: 2020-06-25 ; Times: 3
+	Date: 2020-06-26 ; Times: 2
+	Date: 2020-06-09 ; Times: 1
+	Date: 2020-06-07 ; Times: 1
+	Date: 2020-06-04 ; Times: 2
+	Date: 2020-06-05 ; Times: 2
+	Date: 2020-06-02 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "locality:kentucky" ; Times: 1
+	Query: "Prionodactylus eigenmanni" ; Times: 1
+	Query: "Arthrosaura reticulata" ; Times: 1
+	Query: "bullfrog" ; Times: 1
+	Query: "genus:Charina stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Prionodactylus argulus" ; Times: 1
+	Query: "Prionodactylus oshaughnessyi" ; Times: 2
+	Query: "emydoidea blandingii" ; Times: 1
+	Query: "Neusticurus ecpleopus" ; Times: 1
+	Query: "american beaver" ; Times: 1
+	Query: "specificepithet:platirhinos genus:Heterodon stateprovince:&#34;Texas&#34; year &gt;= 1930 year &lt;= 2019" ; Times: 1
+	Query: "heloderma suspectum" ; Times: 1
+
+
+End of report.
