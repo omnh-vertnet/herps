@@ -1,0 +1,261 @@
+Report for Institution Code OMNH, Resource reptile
+Usage stats for September 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 204
+Number of records retrieved in searches: 1646
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 158
+	Country: Australia ; Times: 2
+	Country: Ireland ; Times: 4
+	Country: Mexico ; Times: 8
+	Country: India ; Times: 1
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Colombia ; Times: 10
+	Country: Ecuador ; Times: 18
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-09 ; Times: 1
+	Date: 2020-09-08 ; Times: 3
+	Date: 2020-09-03 ; Times: 4
+	Date: 2020-09-02 ; Times: 4
+	Date: 2020-09-01 ; Times: 8
+	Date: 2020-09-07 ; Times: 5
+	Date: 2020-09-06 ; Times: 5
+	Date: 2020-09-05 ; Times: 11
+	Date: 2020-09-04 ; Times: 7
+	Date: 2020-09-21 ; Times: 4
+	Date: 2020-09-20 ; Times: 2
+	Date: 2020-09-23 ; Times: 9
+	Date: 2020-09-25 ; Times: 1
+	Date: 2020-09-27 ; Times: 15
+	Date: 2020-09-26 ; Times: 4
+	Date: 2020-09-29 ; Times: 12
+	Date: 2020-09-28 ; Times: 1
+	Date: 2020-09-30 ; Times: 7
+	Date: 2020-09-14 ; Times: 3
+	Date: 2020-09-15 ; Times: 3
+	Date: 2020-09-16 ; Times: 2
+	Date: 2020-09-17 ; Times: 4
+	Date: 2020-09-10 ; Times: 62
+	Date: 2020-09-11 ; Times: 13
+	Date: 2020-09-13 ; Times: 1
+	Date: 2020-09-18 ; Times: 12
+	Date: 2020-09-19 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "&#34;Calamaria&#34; Labo Philippines CDS 7669" ; Times: 1
+	Query: "tropidonophis philippines" ; Times: 1
+	Query: "institutioncode:OMNH Tropidonophis" ; Times: 2
+	Query: "NAH 8 Ptyas" ; Times: 1
+	Query: "tropidophorus partelloi" ; Times: 1
+	Query: "plica umbra" ; Times: 6
+	Query: "brown anole" ; Times: 2
+	Query: "KUNHM 13537" ; Times: 1
+	Query: "Ptyas Albay" ; Times: 1
+	Query: "tropidophorus partelloi omnh" ; Times: 1
+	Query: "omnh gekko" ; Times: 1
+	Query: "Cyclocorus DRD 2627" ; Times: 1
+	Query: "Glyptemys muhlenbergii" ; Times: 3
+	Query: "Polychrus" ; Times: 1
+	Query: "genus:Phrynosoma stateprovince:&#34;Idaho&#34;" ; Times: 1
+	Query: "10815" ; Times: 3
+	Query: "&#34;Cyclocorus&#34; Philippines CDS 8450" ; Times: 1
+	Query: "OMNH 44824" ; Times: 2
+	Query: "OMNH 45924" ; Times: 2
+	Query: "OMNH 45925" ; Times: 2
+	Query: "OMNH 45926" ; Times: 2
+	Query: "Ahaetulla CDS 7878" ; Times: 1
+	Query: "32708" ; Times: 3
+	Query: "Warfel reptilia colorado" ; Times: 2
+	Query: "specificepithet:geckoides genus:Gymnodactylus institutioncode:OMNH" ; Times: 2
+	Query: "specificepithet:rapicauda genus:Thecadactylus institutioncode:OMNH" ; Times: 2
+	Query: "NAH 628 Lycodon" ; Times: 1
+	Query: "KUNHM 7571" ; Times: 1
+	Query: "CDS 7759" ; Times: 2
+	Query: "specificepithet:martini genus:Phyllodactylus institutioncode:OMNH" ; Times: 2
+	Query: "Calamaria NAH 128" ; Times: 1
+	Query: "Plica umbra" ; Times: 1
+	Query: "caiman crocodilus" ; Times: 1
+	Query: "Cyclocorus CDS 7758" ; Times: 1
+	Query: "27933" ; Times: 1
+	Query: "OMNH Reptiles 45923.0" ; Times: 1
+	Query: "&#34;Calamaria&#34; Labo Philippines" ; Times: 1
+	Query: "genus:Virginia stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:subrubrum stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:annularis genus:Tarentola institutioncode:OMNH" ; Times: 2
+	Query: "NAH 188" ; Times: 2
+	Query: "institutioncode:OMNH japalura" ; Times: 1
+	Query: "thamnophis sumichrasti" ; Times: 1
+	Query: "rhabdophis philippines" ; Times: 1
+	Query: "&#34;Ahaetulla prasina&#34; Albay Philippines" ; Times: 1
+	Query: "institutioncode:OMNH Boiga" ; Times: 1
+	Query: "chelus fimbriatus" ; Times: 1
+	Query: "genus:Sphaerodactylus (Mexico OR Honduras OR Belize OR panama OR Costa Rica OR Colombia OR Guatemala)" ; Times: 1
+	Query: "specificepithet:aeneus genus:Sceloporus" ; Times: 1
+	Query: "Oxyrhopus formosus" ; Times: 11
+	Query: "terrapene ornata arkansas" ; Times: 1
+	Query: "OMNH Reptiles 44827.0" ; Times: 1
+	Query: "37130" ; Times: 1
+	Query: "Arrhyton" ; Times: 1
+	Query: "ESF 148" ; Times: 2
+	Query: "Tarentola mauritanica" ; Times: 1
+	Query: "genus:lampropeltis stateprovince:&#34;Texas&#34; year &gt;= 1990 year &lt;= 2020" ; Times: 1
+	Query: "Polychrus marmoratus" ; Times: 1
+	Query: "OMNH 45961" ; Times: 2
+	Query: "CDS 2336" ; Times: 2
+	Query: "institutioncode:OMNH Viperidae Philippines" ; Times: 1
+	Query: "institutioncode:OMNH Rhabdophis" ; Times: 1
+	Query: "Gambelia baja california sur" ; Times: 1
+	Query: "country:Ecuador scientificname:Amblyrhynchus cristatus " ; Times: 1
+	Query: "Ptyas luzonensis" ; Times: 1
+	Query: "Dendrelaphis DRD 2590" ; Times: 1
+	Query: "CDS-2336" ; Times: 1
+	Query: "Terrapene ornata Missouri" ; Times: 3
+	Query: "lipinia pulchella omnh" ; Times: 1
+	Query: "Dendrelaphis luzonensis" ; Times: 1
+	Query: "eutropis indeprensa omnh" ; Times: 1
+	Query: "class:Reptilia locality:Cuyabeno country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "Dendrelaphis Philippines NAH 245" ; Times: 1
+	Query: "genus:Sphaerodactylus country:&#34;Costa Rica&#34;" ; Times: 1
+	Query: "OMNH Reptiles 44828.0" ; Times: 1
+	Query: "NAH 599 Ptyas" ; Times: 1
+	Query: "&#34;Calamaria&#34; Labo Philippines ESF 212" ; Times: 1
+	Query: "pseudogekko omnh" ; Times: 1
+	Query: "tergiminus" ; Times: 2
+	Query: "23790" ; Times: 1
+	Query: "genus:gambelia county:&#34;Riverside&#34;" ; Times: 2
+	Query: "institutioncode:OMNH Colubridae Philippines" ; Times: 4
+	Query: "YPM 4056" ; Times: 2
+	Query: "&#34;Cyclocorus&#34; Philippines CDS 8361" ; Times: 1
+	Query: "institutioncode:OMNH Lampropeltis" ; Times: 1
+	Query: "genus:Virginia county:&#34;Kerr&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:mauritanica genus:Tarentola institutioncode:OMNH" ; Times: 2
+	Query: "Lycodon albay" ; Times: 1
+	Query: "16794" ; Times: 1
+	Query: "specificepithet:pulchra genus:Anniella year &gt;= 1966 year &lt;= 1970" ; Times: 1
+	Query: "rhabdophis chrysargos" ; Times: 1
+	Query: "Oxyrhopus occipitalis" ; Times: 1
+	Query: "cuyabeno" ; Times: 1
+	Query: "Dendrelaphis CDS 8920" ; Times: 1
+	Query: "LSU Natrix natrix" ; Times: 1
+	Query: "heloderma suspectum" ; Times: 1
+	Query: "specificepithet:galapagensis genus:Phyllodactylus institutioncode:OMNH" ; Times: 2
+	Query: "genus:Bothrops stateprovince:&#34;Veracruz&#34;" ; Times: 1
+	Query: "specificepithet:baurii genus:Phyllodactylus institutioncode:OMNH" ; Times: 2
+	Query: "Lycodon Albay" ; Times: 1
+	Query: "genus:Crotaphytus county:&#34;riverside&#34;" ; Times: 2
+	Query: "Dendrelaphis DRD 2578" ; Times: 1
+	Query: "Cyclocorus CDS 7558" ; Times: 1
+	Query: "tigris yavapai" ; Times: 1
+	Query: "genus:Sphaerodactylus (Mexico OR Honduras OR Belize OR panama OR Costa Rica OR Colombia OR Guatemala) AND (NOT cuba)" ; Times: 1
+	Query: "Sceloporus formosus" ; Times: 1
+	Query: "DRD 2631" ; Times: 2
+	Query: "&#34;Ahaetulla&#34; Philippines NAH 59" ; Times: 1
+	Query: "Thecadactylus solimoensis" ; Times: 2
+	Query: "opheodrys vernalis" ; Times: 2
+	Query: "Calamaria Albay" ; Times: 1
+	Query: "23790 OMNH" ; Times: 1
+	Query: "CDS 8877" ; Times: 2
+	Query: "Ahaetulla NAH 510" ; Times: 1
+	Query: "27933 omnh" ; Times: 1
+	Query: "OMNH Reptiles 44829.0" ; Times: 1
+	Query: "25093" ; Times: 1
+	Query: "OMNH Reptiles 45410.0" ; Times: 1
+	Query: "sceloporus formosus" ; Times: 1
+	Query: "Dendrelaphis Philippines NAH 188" ; Times: 2
+	Query: "Sceloporus aeneus" ; Times: 1
+	Query: "locality:fern bank springs" ; Times: 1
+	Query: "Cyclocorus CDS 7760" ; Times: 1
+	Query: "26760" ; Times: 1
+	Query: "muelleri Albay" ; Times: 1
+	Query: "OMNH-Reptiles-44769.0" ; Times: 1
+	Query: "31631" ; Times: 1
+	Query: "specificepithet:tuberculosus genus:Phyllodactylus institutioncode:OMNH" ; Times: 2
+	Query: "sceloporus aeneus" ; Times: 2
+	Query: "DRD 2629" ; Times: 2
+	Query: "country:Ecuador scientificname:Microlophus occipitalis " ; Times: 1
+	Query: "specificepithet:solimoensis genus:Thecadactylus institutioncode:OMNH" ; Times: 2
+	Query: "Cyclocorus CDS 7559" ; Times: 1
+	Query: "OMNH Reptiles 45929.0" ; Times: 1
+	Query: "OMNH 45991" ; Times: 2
+	Query: "OMNH 45990" ; Times: 2
+	Query: "OMNH 45993" ; Times: 2
+	Query: "OMNH 45992" ; Times: 2
+	Query: "&#34;Calamaria&#34; Labo Philippines ESF 248" ; Times: 1
+	Query: "specificepithet:hasselquistii genus:Ptyodactylus institutioncode:OMNH" ; Times: 2
+	Query: "Lampropeltis holbrooki" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 30 (out of 976 download events in this period)
+Total number of records downloaded: 11521
+Number of different countries: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Ghana ; Times: 1
+	Country: Turkey ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Uganda ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Fiji ; Times: 1
+	Country: Finland ; Times: 1
+	Country: United States ; Times: 18
+	Country: Colombia ; Times: 2
+	Country: Norway ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-14 ; Times: 1
+	Date: 2020-09-21 ; Times: 1
+	Date: 2020-09-23 ; Times: 1
+	Date: 2020-09-17 ; Times: 2
+	Date: 2020-09-10 ; Times: 1
+	Date: 2020-09-11 ; Times: 1
+	Date: 2020-09-27 ; Times: 2
+	Date: 2020-09-29 ; Times: 1
+	Date: 2020-09-30 ; Times: 2
+	Date: 2020-09-09 ; Times: 1
+	Date: 2020-09-22 ; Times: 2
+	Date: 2020-09-03 ; Times: 3
+	Date: 2020-09-25 ; Times: 2
+	Date: 2020-09-01 ; Times: 1
+	Date: 2020-09-04 ; Times: 1
+	Date: 2020-09-07 ; Times: 1
+	Date: 2020-09-06 ; Times: 1
+	Date: 2020-09-24 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "Tabasco" ; Times: 1
+	Query: "Rhadinaea decorata" ; Times: 1
+	Query: "emydoidea" ; Times: 1
+	Query: "specificepithet:graciosus genus:Sceloporus" ; Times: 1
+	Query: "plica umbra" ; Times: 1
+	Query: "opheodrys vernalis" ; Times: 1
+	Query: "class:Reptilia locality:Cuyabeno country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "Aspidoscelis tigris" ; Times: 1
+	Query: "nerodia rhombifer" ; Times: 1
+	Query: "thamnophis sumichrasti" ; Times: 1
+	Query: "sceloporus formosus" ; Times: 1
+	Query: "thamnophis proximus" ; Times: 1
+	Query: "chelus fimbriatus" ; Times: 1
+	Query: "oxyrhopus petolarius" ; Times: 1
+	Query: "macrochelys temminckii" ; Times: 1
+	Query: "Gambelia wislizenii" ; Times: 1
+	Query: "indotyphlops braminus" ; Times: 1
+	Query: "order:Serpentes" ; Times: 1
+	Query: "Callisaurus draconoides rhodostictus" ; Times: 2
+	Query: "genus:Coleonyx country:&#34;Mexico&#34;" ; Times: 1
+	Query: "nerodia fasciata" ; Times: 1
+	Query: "thamnophis cyrtopsis" ; Times: 1
+	Query: "nerodia sipedon" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 5
+	Query: "thamnophis marcianus" ; Times: 1
+
+
+End of report.
