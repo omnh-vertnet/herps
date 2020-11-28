@@ -1,0 +1,302 @@
+Report for Institution Code OMNH, Resource reptile
+Usage stats for August 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 423
+Number of records retrieved in searches: 3066
+Number of different countries where searches have been originated: 17
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Peru ; Times: 6
+	Country: Portugal ; Times: 4
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 1
+	Country: Philippines ; Times: 1
+	Country: Finland ; Times: 1
+	Country: India ; Times: 1
+	Country: United States ; Times: 384
+	Country: Sweden ; Times: 5
+	Country: China ; Times: 1
+	Country: Ireland ; Times: 2
+	Country: Japan ; Times: 3
+	Country: Sri Lanka ; Times: 2
+	Country: Germany ; Times: 1
+	Country: Russia ; Times: 2
+	Country: Ecuador ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-28 ; Times: 2
+	Date: 2020-08-29 ; Times: 1
+	Date: 2020-08-17 ; Times: 12
+	Date: 2020-08-26 ; Times: 2
+	Date: 2020-08-15 ; Times: 1
+	Date: 2020-08-14 ; Times: 15
+	Date: 2020-08-13 ; Times: 8
+	Date: 2020-08-12 ; Times: 27
+	Date: 2020-08-11 ; Times: 4
+	Date: 2020-08-10 ; Times: 14
+	Date: 2020-08-31 ; Times: 1
+	Date: 2020-08-19 ; Times: 2
+	Date: 2020-08-18 ; Times: 7
+	Date: 2020-08-01 ; Times: 7
+	Date: 2020-08-02 ; Times: 1
+	Date: 2020-08-03 ; Times: 212
+	Date: 2020-08-04 ; Times: 6
+	Date: 2020-08-05 ; Times: 23
+	Date: 2020-08-06 ; Times: 5
+	Date: 2020-08-07 ; Times: 7
+	Date: 2020-08-08 ; Times: 32
+	Date: 2020-08-27 ; Times: 6
+	Date: 2020-08-24 ; Times: 1
+	Date: 2020-08-25 ; Times: 5
+	Date: 2020-08-22 ; Times: 8
+	Date: 2020-08-23 ; Times: 3
+	Date: 2020-08-20 ; Times: 4
+	Date: 2020-08-21 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "Thecadactylus solimoensis hassex:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Microlophus occipitalis " ; Times: 1
+	Query: "specificepithet:muhlenbergii genus:glyptemys" ; Times: 2
+	Query: "Coleodactylus septentrionalis hassex:1" ; Times: 1
+	Query: "specificepithet:humeralis genus:Gonatodes institutioncode:OMNH" ; Times: 5
+	Query: "mappable:1 scientificname:Chamaeleo chamaeleon" ; Times: 1
+	Query: "specificepithet:festae genus:Lepidoblepharis institutioncode:OMNH" ; Times: 5
+	Query: "OMNH 39340" ; Times: 2
+	Query: "specificepithet:clarkii genus:sceloporus county:&#34;cochise&#34; stateprovince:&#34;arizona&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:berlandieri genus:Gopherus" ; Times: 2
+	Query: "OMNH 9428" ; Times: 1
+	Query: "specificepithet:triangulum genus:Lampropeltis stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:alexandermendesi genus:Gonatodes institutioncode:OMNH" ; Times: 5
+	Query: "Anomalepididae" ; Times: 2
+	Query: "specificepithet:graciosus genus:Urosaurus county:&#34;San Bernardino&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "31594" ; Times: 1
+	Query: "Glyptemys muhlenbergii" ; Times: 5
+	Query: "Anilius scytale" ; Times: 1
+	Query: "genus:Heterodon county:&#34;Hidalgo&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 2
+	Query: "KUNHM 7379" ; Times: 1
+	Query: "Sceloporus consobrinus" ; Times: 4
+	Query: "specificepithet:geckoides genus:Gymnodactylus institutioncode:OMNH" ; Times: 2
+	Query: "specificepithet:rapicauda genus:Thecadactylus institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:hasemani genus:Gonatodes institutioncode:OMNH" ; Times: 5
+	Query: "micrurus surinamensis" ; Times: 2
+	Query: "specificepithet:lineolatus genus:Sphaerodactylus institutioncode:OMNH" ; Times: 4
+	Query: "vntype:specimen specificepithet:clarkii genus:sceloporus locality:Chiricahua country:&#34;United States&#34;" ; Times: 1
+	Query: "Texas genus:Opheodrys" ; Times: 1
+	Query: "specificepithet:martini genus:Phyllodactylus institutioncode:OMNH" ; Times: 1
+	Query: "country:Ecuador scientificname:Boa constrictor " ; Times: 1
+	Query: "13097" ; Times: 1
+	Query: "Clemmys guttata" ; Times: 1
+	Query: "emydoidea blandingi" ; Times: 2
+	Query: "Texas specificepithet:nigriceps genus:Tantilla" ; Times: 1
+	Query: "17163" ; Times: 2
+	Query: "genus:Sphaerodactylus country:&#34;Nicaragua&#34;" ; Times: 1
+	Query: "Tarentola annularis" ; Times: 1
+	Query: "specificepithet:lineolatus genus:Sphaerodactylus" ; Times: 114
+	Query: "35358" ; Times: 1
+	Query: "specificepithet:annularis genus:Tarentola institutioncode:OMNH" ; Times: 1
+	Query: "Sceloporus cyanogenys" ; Times: 1
+	Query: "Oxyrhabdium leporinum" ; Times: 1
+	Query: "locality:fern bank spring" ; Times: 1
+	Query: "Salvadora lemniscata" ; Times: 1
+	Query: "OMNH 11409" ; Times: 1
+	Query: "Lepidoblepharis festae hassex:1" ; Times: 1
+	Query: "hemidactylus turcicus cameron" ; Times: 2
+	Query: "specificepithet:multivirgatus stateprovince:&#34;colorado&#34;" ; Times: 1
+	Query: "Texas specificepithet:obsoletus genus:Plestiodon" ; Times: 1
+	Query: "Texas specificepithet:calligaster genus:Lampropeltis" ; Times: 1
+	Query: "genus:Sistrurus stateprovince:&#34;Kansas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "44744" ; Times: 1
+	Query: "specificepithet:festae genus:Lepidoblepharis" ; Times: 1
+	Query: "specificepithet:ERYTROGRAMMA genus:farancia" ; Times: 1
+	Query: "specificepithet:pacificus genus:Sphaerodactylus institutioncode:OMNH" ; Times: 4
+	Query: "Emydoidea blandingi" ; Times: 1
+	Query: "specificepithet:macrolepis genus:Sphaerodactylus institutioncode:OMNH" ; Times: 4
+	Query: "29224" ; Times: 2
+	Query: "genus:Heterodon county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "order:serpentes county:&#34;Hidalgo&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "genus:Callisaurus locality:Death Valley county:&#34;Inyo&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Prairie Rattlesnake" ; Times: 2
+	Query: "specificepithet:millepunctatus genus:Sphaerodactylus institutioncode:OMNH" ; Times: 4
+	Query: "genus:Lepidoblepharis country:&#34;Ecuador&#34;" ; Times: 2
+	Query: "41574" ; Times: 1
+	Query: "manolepis putnami" ; Times: 1
+	Query: "Gopherus berlandieri" ; Times: 1
+	Query: "Dipsas" ; Times: 1
+	Query: "specificepithet:macrolepis genus:Sphaerodactylus" ; Times: 89
+	Query: "specificepithet:xanthostigma genus:Lepidoblepharis institutioncode:OMNH" ; Times: 5
+	Query: "11295" ; Times: 1
+	Query: "scientificname:Micrurus lemniscatus " ; Times: 1
+	Query: "Texas genus:Leptotyphlops" ; Times: 1
+	Query: "Aspidoscelis sacki" ; Times: 1
+	Query: "genus:Lepidoblepharis AND (NOT Panamá NOT Nicaragua NOT Rica)" ; Times: 1
+	Query: "mappable:1 scientificname:Macrochelys temminckii" ; Times: 1
+	Query: "33873" ; Times: 1
+	Query: "genus:Sphaerodactylus country:&#34;Costa Rica&#34;" ; Times: 3
+	Query: "fieldnumber:11940" ; Times: 1
+	Query: "scientificname:Atractus*" ; Times: 1
+	Query: "Emydocephalus" ; Times: 1
+	Query: "USNM 8527" ; Times: 1
+	Query: "dendrophidion dendrophis" ; Times: 1
+	Query: "28881" ; Times: 1
+	Query: "Thecadactylus solimoensis" ; Times: 2
+	Query: "specificepithet:consobrinus genus:Sceloporus stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "specificepithet:mauritanica genus:Tarentola institutioncode:OMNH" ; Times: 1
+	Query: "35359" ; Times: 1
+	Query: "specificepithet:antillensis genus:Gonatodes institutioncode:OMNH" ; Times: 5
+	Query: "specificepithet:ERYTROGRAMMA genus:farancia stateprovince:&#34;florida&#34;" ; Times: 3
+	Query: "vntype:specimen specificepithet:jarrovii genus:sceloporus locality:Chiricahua country:&#34;United States&#34; year &gt;= 1995 year &lt;= 2020" ; Times: 1
+	Query: "44804" ; Times: 1
+	Query: "specificepithet:galapagensis genus:Phyllodactylus institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:mindorensis family:gekkonidae" ; Times: 1
+	Query: "specificepithet:consobrinus genus:Sceloporus stateprovince:&#34;nebraska&#34;" ; Times: 1
+	Query: "tantilla bocourti" ; Times: 1
+	Query: "ahaetulla nasuta" ; Times: 1
+	Query: "Myersophis" ; Times: 1
+	Query: "Terrapene ornata Arkansas" ; Times: 1
+	Query: "Gonatodes alexandermendesi" ; Times: 6
+	Query: "Gonatodes hasemani hassex:1" ; Times: 1
+	Query: "specificepithet:concinnatus genus:Gonatodes institutioncode:OMNH" ; Times: 5
+	Query: "mappable:1 scientificname:Graptemys geographica" ; Times: 1
+	Query: "genus:Crotalus stateprovince:&#34;Missouri&#34; basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "specificepithet:septentrionalis genus:Coleodactylus institutioncode:OMNH" ; Times: 5
+	Query: "class:reptilia county:&#34;harrison&#34; stateprovince:&#34;texas&#34; country:&#34;united states&#34;" ; Times: 1
+	Query: "Chamaeleo chamaeleon" ; Times: 2
+	Query: "Texas genus:Chelydra" ; Times: 1
+	Query: "Texas specificepithet:spinifera genus:Apalone" ; Times: 1
+	Query: "specificepithet:septemvittatus family:Teiidae stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:virgatus genus:sceloporus locality:Chiricahua country:&#34;United States&#34; year &gt;= 1995 year &lt;= 2020" ; Times: 1
+	Query: "10276 vntype:specimen" ; Times: 1
+	Query: "KUNHM 10367" ; Times: 1
+	Query: "specificepithet:horridus genus:Crotalus stateprovince:&#34;Kansas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Sphaerodactylus country:&#34;Panama&#34;" ; Times: 1
+	Query: "mappable:1 scientificname:Graptemys pseudogeographica" ; Times: 1
+	Query: "Texas genus:Diadophis" ; Times: 1
+	Query: "specificepithet:tuberculosus genus:Phyllodactylus institutioncode:OMNH" ; Times: 1
+	Query: "32206" ; Times: 1
+	Query: "32207" ; Times: 1
+	Query: "Texas specificepithet:obsoletus genus:Pantherophis" ; Times: 1
+	Query: "Gonatodes concinnatus hassex:1" ; Times: 1
+	Query: "specificepithet:baurii genus:Phyllodactylus institutioncode:OMNH" ; Times: 1
+	Query: "Ficimia olivacea" ; Times: 1
+	Query: "hydrosaurus amboinensis" ; Times: 1
+	Query: "Texas specificepithet:pseudogeographica genus:Graptemys" ; Times: 1
+	Query: "SAM 600" ; Times: 1
+	Query: "specificepithet:solimoensis genus:Thecadactylus institutioncode:OMNH" ; Times: 1
+	Query: "OMNH 11452" ; Times: 1
+	Query: "genus:Cyrtodactylus country:&#34;Philippines&#34;" ; Times: 1
+	Query: "Plestiodon anthracinus" ; Times: 2
+	Query: "Heterodon simus" ; Times: 4
+	Query: "specificepithet:variegatus genus:Coleonyx county:&#34;Pima&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "SAM 598" ; Times: 1
+	Query: "specificepithet:hasselquistii genus:Ptyodactylus institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:browni genus:Phyllorhynchus hassex:1" ; Times: 1
+	Query: "45154" ; Times: 1
+	Query: "genus:Callisaurus county:&#34;Inyo&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Heterodon county:&#34;cochise&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "specificepithet:tesselatus genus:aspidoscelis stateprovince:&#34;colorado&#34;" ; Times: 1
+	Query: "Bogertophis subocularis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 67 (out of 756 download events in this period)
+Total number of records downloaded: 1474
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 61
+	Country: Switzerland ; Times: 1
+	Country: China ; Times: 3
+	Country: Sri Lanka ; Times: 1
+	Country: Puerto Rico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-06 ; Times: 6
+	Date: 2020-08-19 ; Times: 1
+	Date: 2020-08-10 ; Times: 2
+	Date: 2020-08-02 ; Times: 1
+	Date: 2020-08-17 ; Times: 19
+	Date: 2020-08-01 ; Times: 1
+	Date: 2020-08-15 ; Times: 3
+	Date: 2020-08-14 ; Times: 2
+	Date: 2020-08-04 ; Times: 2
+	Date: 2020-08-05 ; Times: 2
+	Date: 2020-08-11 ; Times: 1
+	Date: 2020-08-29 ; Times: 7
+	Date: 2020-08-08 ; Times: 4
+	Date: 2020-08-13 ; Times: 4
+	Date: 2020-08-27 ; Times: 3
+	Date: 2020-08-18 ; Times: 2
+	Date: 2020-08-31 ; Times: 3
+	Date: 2020-08-23 ; Times: 2
+	Date: 2020-08-09 ; Times: 1
+	Date: 2020-08-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "ophisaurus attenuatus" ; Times: 1
+	Query: "Texas specificepithet:obsoletus genus:Plestiodon" ; Times: 1
+	Query: "Texas genus:Heterodon" ; Times: 1
+	Query: "Texas genus:Hypsiglena" ; Times: 1
+	Query: "Laticauda laticaudata" ; Times: 1
+	Query: "Texas genus:Masticophis" ; Times: 1
+	Query: "Texas genus:Leptotyphlops" ; Times: 1
+	Query: "Texas specificepithet:flavescens genus:Kinosternon" ; Times: 1
+	Query: "hypsiglena torquata" ; Times: 1
+	Query: "tantilla bocourti" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 1
+	Query: "Texas genus:Chelydra" ; Times: 1
+	Query: "Laticauda colubrina" ; Times: 1
+	Query: "Texas specificepithet:spinifera genus:Apalone" ; Times: 1
+	Query: "Salvadora lemniscata" ; Times: 1
+	Query: "Texas specificepithet:proximus genus:Thamnophis" ; Times: 1
+	Query: "Emydocephalus" ; Times: 1
+	Query: "specificepithet:triangulum genus:Lampropeltis stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "ninia sebae" ; Times: 1
+	Query: "Texas specificepithet:rhombifer genus:Nerodia" ; Times: 1
+	Query: "Glyptemys muhlenbergii" ; Times: 1
+	Query: "spilotes pullatus" ; Times: 1
+	Query: "macrochelys temminckii" ; Times: 1
+	Query: "specificepithet:laticeps genus:Plestiodon" ; Times: 1
+	Query: "Texas specificepithet:calligaster genus:Lampropeltis" ; Times: 1
+	Query: "Texas genus:Diadophis" ; Times: 1
+	Query: "lampropeltis triangulum" ; Times: 1
+	Query: "order:Testudines" ; Times: 2
+	Query: "Sceloporus graciosus" ; Times: 1
+	Query: "specificepithet:graciosus genus:Sceloporus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "cemophora coccinea" ; Times: 1
+	Query: "specificepithet:graciosus genus:Sceloporus" ; Times: 1
+	Query: "imantodes cenchoa" ; Times: 1
+	Query: "Texas specificepithet:obsoletus genus:Pantherophis" ; Times: 1
+	Query: "Leptophis mexicanus" ; Times: 1
+	Query: "Ficimia olivacea" ; Times: 1
+	Query: "trimorphodon biscutatus" ; Times: 1
+	Query: "Texas specificepithet:pseudogeographica genus:Graptemys" ; Times: 1
+	Query: "Texas specificepithet:erythrogaster genus:Nerodia" ; Times: 1
+	Query: "country:&#34;Puerto Rico&#34;" ; Times: 1
+	Query: "Texas genus:Sonora" ; Times: 1
+	Query: "heterodon platyrhinos" ; Times: 1
+	Query: "class:reptilia locality:pecos river" ; Times: 1
+	Query: "vntype:specimen specificepithet:clarkii genus:sceloporus locality:Chiricahua country:&#34;United States&#34;" ; Times: 1
+	Query: "Plestiodon anthracinus" ; Times: 1
+	Query: "Leptophis ahaetulla" ; Times: 1
+	Query: "Anilius scytale" ; Times: 1
+	Query: "Oxybelis aeneus" ; Times: 1
+	Query: "Apalone spinifera" ; Times: 2
+	Query: "drymobius margaritiferus" ; Times: 1
+	Query: "conophis lineatus" ; Times: 1
+	Query: "Sternotherus odoratus" ; Times: 2
+	Query: "Texas genus:Opheodrys" ; Times: 1
+	Query: "vntype:specimen specificepithet:stansburiana genus:Uta" ; Times: 1
+	Query: "manolepis putnami" ; Times: 1
+	Query: "Emydoidea blandingii" ; Times: 1
+	Query: "emydoidea blandingi" ; Times: 1
+	Query: "Texas specificepithet:nigriceps genus:Tantilla" ; Times: 1
+	Query: "specificepithet:clarkii genus:sceloporus county:&#34;cochise&#34; stateprovince:&#34;arizona&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Oxybelis fulgidus" ; Times: 1
+	Query: "Texas specificepithet:marcianus genus:Thamnophis" ; Times: 1
+	Query: "crotalus horridus" ; Times: 2
+
+
+End of report.
