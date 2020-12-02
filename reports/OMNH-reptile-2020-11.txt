@@ -1,0 +1,446 @@
+Report for Institution Code OMNH, Resource reptile
+Usage stats for November 2020, generated on 2020/12/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 1052
+Number of records retrieved in searches: 1839
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 959
+	Country: Italy ; Times: 2
+	Country: Colombia ; Times: 15
+	Country: Mexico ; Times: 1
+	Country: France ; Times: 2
+	Country: United Kingdom ; Times: 16
+	Country: Sweden ; Times: 6
+	Country: Peru ; Times: 40
+	Country: Argentina ; Times: 6
+	Country: Ecuador ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-11-20 ; Times: 28
+	Date: 2020-11-21 ; Times: 22
+	Date: 2020-11-22 ; Times: 72
+	Date: 2020-11-23 ; Times: 41
+	Date: 2020-11-24 ; Times: 10
+	Date: 2020-11-26 ; Times: 5
+	Date: 2020-11-27 ; Times: 3
+	Date: 2020-11-06 ; Times: 9
+	Date: 2020-11-07 ; Times: 3
+	Date: 2020-11-04 ; Times: 18
+	Date: 2020-11-05 ; Times: 9
+	Date: 2020-11-02 ; Times: 1
+	Date: 2020-11-08 ; Times: 2
+	Date: 2020-11-28 ; Times: 2
+	Date: 2020-11-29 ; Times: 468
+	Date: 2020-11-19 ; Times: 28
+	Date: 2020-11-18 ; Times: 19
+	Date: 2020-11-30 ; Times: 203
+	Date: 2020-11-15 ; Times: 40
+	Date: 2020-11-14 ; Times: 1
+	Date: 2020-11-17 ; Times: 25
+	Date: 2020-11-16 ; Times: 21
+	Date: 2020-11-11 ; Times: 12
+	Date: 2020-11-10 ; Times: 3
+	Date: 2020-11-13 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:34309.0 institutioncode:OMNH" ; Times: 4
+	Query: "30186" ; Times: 1
+	Query: "catalognumber:44205.0 institutioncode:OMNH" ; Times: 2
+	Query: "catalognumber:26138.0 institutioncode:OMNH" ; Times: 4
+	Query: "catalognumber:1876.0 institutioncode:OMNH" ; Times: 1
+	Query: "catalognumber:35136.0 institutioncode:OMNH" ; Times: 2
+	Query: "Boaedon fuliginosus" ; Times: 1
+	Query: "catalognumber:4457.0 institutioncode:OMNH" ; Times: 1
+	Query: "catalognumber:10098.0 institutioncode:OMNH" ; Times: 2
+	Query: "catalognumber:18900.0 institutioncode:OMNH" ; Times: 2
+	Query: "catalognumber:26144.0 institutioncode:OMNH" ; Times: 2
+	Query: "catalognumber:8777.0 institutioncode:OMNH" ; Times: 4
+	Query: "Bothriopsis bilineata" ; Times: 2
+	Query: "specificepithet:poinsettii genus:Sceloporus county:&#34;Val Verde&#34;" ; Times: 1
+	Query: "genus:Heterodon stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "catalognumber:26309.0 institutioncode:OMNH" ; Times: 4
+	Query: "catalognumber:35359.0 institutioncode:OMNH" ; Times: 2
+	Query: "catalognumber:26111.0 institutioncode:OMNH" ; Times: 4
+	Query: "specificepithet:constrictor genus:Coluber stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "catalognumber:43920.0 institutioncode:OMNH" ; Times: 1
+	Query: "catalognumber:34332.0 institutioncode:OMNH" ; Times: 1
+	Query: "Plestiodon obsoletus nebraska" ; Times: 1
+	Query: "specificepithet:horridus genus:Crotalus stateprovince:&#34;Missouri&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "prairie rattlesnake" ; Times: 1
+	Query: "catalognumber:18934.0 institutioncode:OMNH" ; Times: 4
+	Query: "genus:Sistrurus stateprovince:&#34;Michigan&#34;" ; Times: 1
+	Query: "catalognumber:42669.0 institutioncode:OMNH" ; Times: 2
+	Query: "catalognumber:34331.0 institutioncode:OMNH" ; Times: 2
+	Query: "catalognumber:34345.0 institutioncode:OMNH" ; Times: 2
+	Query: "catalognumber:26143.0 institutioncode:OMNH" ; Times: 1
+	Query: "catalognumber:43918.0 institutioncode:OMNH" ; Times: 3
+	Query: "catalognumber:34235.0 institutioncode:OMNH" ; Times: 4
+	Query: "catalognumber:26933.0 institutioncode:OMNH" ; Times: 4
+	Query: "catalognumber:23054.0 institutioncode:OMNH" ; Times: 5
+	Query: "catalognumber:43534.0 institutioncode:OMNH" ; Times: 2
+	Query: "catalognumber:34171.0 institutioncode:OMNH" ; Times: 4
+	Query: "catalognumber:12391.0 institutioncode:OMNH" ; Times: 4
+	Query: "catalognumber:34336.0 institutioncode:OMNH" ; Times: 1
+	Query: "catalognumber:45155.0 institutioncode:OMNH" ; Times: 2
+	Query: "catalognumber:34002.0 institutioncode:OMNH" ; Times: 4
+	Query: "catalognumber:42655.0 institutioncode:OMNH" ; Times: 2
+	Query: "catalognumber:24943.0 institutioncode:OMNH" ; Times: 2
+	Query: "catalognumber:18932.0 institutioncode:OMNH" ; Times: 2
+	Query: "catalognumber:34236.0 institutioncode:OMNH" ; Times: 2
+	Query: "genus:Trachemys family:Emydidae county:&#34;Brewster&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "catalognumber:26131.0 institutioncode:OMNH" ; Times: 4
+	Query: "genus:Sonora family:Colubridae stateprovince:&#34;Coahuila&#34;" ; Times: 1
+	Query: "Oklahoma City Zoo" ; Times: 2
+	Query: "catalognumber:45153.0 institutioncode:OMNH" ; Times: 2
+	Query: "genus:Lampropeltis stateprovince:&#34;Louisiana&#34;" ; Times: 2
+	Query: "glyptemys insculpta" ; Times: 10
+	Query: "catalognumber:10510.0 institutioncode:OMNH" ; Times: 1
+	Query: "Warfel colorado" ; Times: 2
+	Query: "specificepithet:catenifer genus:Pituophis stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "genus:Pituophis stateprovince:&#34;Oklahoma&#34; preparations:skeleton" ; Times: 1
+	Query: "catalognumber:26193.0 institutioncode:OMNH" ; Times: 3
+	Query: "Glyptemys insculpta" ; Times: 218
+	Query: "locality:Angel Island country:&#34;mexico&#34;" ; Times: 1
+	Query: "catalognumber:34461.0 institutioncode:OMNH" ; Times: 3
+	Query: "13603" ; Times: 1
+	Query: "genus:Pituophis country:&#34;Mexico&#34;" ; Times: 1
+	Query: "catalognumber:34458.0 institutioncode:OMNH" ; Times: 2
+	Query: "catalognumber:10972.0 institutioncode:OMNH" ; Times: 3
+	Query: "catalognumber:26448.0 institutioncode:OMNH" ; Times: 3
+	Query: "genus:Sceloporus stateprovince:&#34;Guanajuato&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "catalognumber:23938.0 institutioncode:OMNH" ; Times: 2
+	Query: "catalognumber:23137.0 institutioncode:OMNH" ; Times: 4
+	Query: "catalognumber:26136.0 institutioncode:OMNH" ; Times: 2
+	Query: "catalognumber:43917.0 institutioncode:OMNH" ; Times: 2
+	Query: "catalognumber:23024.0 institutioncode:OMNH" ; Times: 2
+	Query: "catalognumber:26129.0 institutioncode:OMNH" ; Times: 2
+	Query: "emydoidea blandingi" ; Times: 1
+	Query: "catalognumber:10971.0 institutioncode:OMNH" ; Times: 1
+	Query: "catalognumber:34172.0 institutioncode:OMNH" ; Times: 2
+	Query: "catalognumber:23023.0 institutioncode:OMNH" ; Times: 4
+	Query: "catalognumber:38067.0 institutioncode:OMNH" ; Times: 2
+	Query: "catalognumber:26133.0 institutioncode:OMNH" ; Times: 4
+	Query: "catalognumber:42668.0 institutioncode:OMNH" ; Times: 2
+	Query: "specificepithet:tetragrammus genus:Plestiodon family:Scincidae stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:merriami genus:Sceloporus county:&#34;Presidio&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "catalognumber:42886.0 institutioncode:OMNH" ; Times: 2
+	Query: "Holbrookia lacerata" ; Times: 3
+	Query: "specificepithet:merriami genus:Sceloporus county:&#34;Brewster&#34; stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "32554" ; Times: 1
+	Query: "catalognumber:34335.0 institutioncode:OMNH" ; Times: 2
+	Query: "catalognumber:28781.0 institutioncode:OMNH" ; Times: 2
+	Query: "specificepithet:neuwiedii genus:Pseudoboa" ; Times: 1
+	Query: "genus:Regina stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "specificepithet:neuwiedii genus:Pseudoboa institutioncode:OMNH" ; Times: 1
+	Query: "catalognumber:16149.0 institutioncode:OMNH" ; Times: 4
+	Query: "specificepithet:obsoletus genus:Pantherophis stateprovince:&#34;Louisiana&#34;" ; Times: 4
+	Query: "catalognumber:23935.0 institutioncode:OMNH" ; Times: 4
+	Query: "catalognumber:42895.0 institutioncode:OMNH" ; Times: 4
+	Query: "catalognumber:10969.0 institutioncode:OMNH" ; Times: 3
+	Query: "catalognumber:16152.0 institutioncode:OMNH" ; Times: 3
+	Query: "catalognumber:10511.0 institutioncode:OMNH" ; Times: 3
+	Query: "catalognumber:29104.0 institutioncode:OMNH" ; Times: 5
+	Query: "catalognumber:12512.0 institutioncode:OMNH" ; Times: 4
+	Query: "catalognumber:13562.0 institutioncode:OMNH" ; Times: 2
+	Query: "catalognumber:8781.0 institutioncode:OMNH" ; Times: 3
+	Query: "genus:Holbrookia stateprovince:&#34;Tamaulipas&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "catalognumber:42654.0 institutioncode:OMNH" ; Times: 2
+	Query: "catalognumber:26127.0 institutioncode:OMNH" ; Times: 2
+	Query: "catalognumber:42660.0 institutioncode:OMNH" ; Times: 2
+	Query: "catalognumber:35103.0 institutioncode:OMNH" ; Times: 2
+	Query: "catalognumber:34989.0 institutioncode:OMNH" ; Times: 2
+	Query: "catalognumber:23051.0 institutioncode:OMNH" ; Times: 4
+	Query: "catalognumber:35600.0 institutioncode:OMNH" ; Times: 4
+	Query: "catalognumber:8785.0 institutioncode:OMNH" ; Times: 2
+	Query: "Arrhyton" ; Times: 2
+	Query: "catalognumber:26316.0 institutioncode:OMNH" ; Times: 2
+	Query: "catalognumber:42715.0 institutioncode:OMNH" ; Times: 2
+	Query: "catalognumber:9816.0 institutioncode:OMNH" ; Times: 2
+	Query: "genus:Agkistrodon stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "catalognumber:9064.0 institutioncode:OMNH" ; Times: 4
+	Query: "catalognumber:38350.0 institutioncode:OMNH" ; Times: 2
+	Query: "catalognumber:34340.0 institutioncode:OMNH" ; Times: 1
+	Query: "catalognumber:41860.0 institutioncode:OMNH" ; Times: 3
+	Query: "catalognumber:26312.0 institutioncode:OMNH" ; Times: 2
+	Query: "catalognumber:23053.0 institutioncode:OMNH" ; Times: 2
+	Query: "catalognumber:42716.0 institutioncode:OMNH" ; Times: 2
+	Query: "catalognumber:37866.0 institutioncode:OMNH" ; Times: 4
+	Query: "catalognumber:26130.0 institutioncode:OMNH" ; Times: 2
+	Query: "Polychrus marmoratus" ; Times: 1
+	Query: "catalognumber:42651.0 institutioncode:OMNH" ; Times: 2
+	Query: "catalognumber:23048.0 institutioncode:OMNH" ; Times: 2
+	Query: "catalognumber:23049.0 institutioncode:OMNH" ; Times: 2
+	Query: "catalognumber:26886.0 institutioncode:OMNH" ; Times: 2
+	Query: "catalognumber:34991.0 institutioncode:OMNH" ; Times: 1
+	Query: "catalognumber:35597.0 institutioncode:OMNH" ; Times: 3
+	Query: "catalognumber:26195.0 institutioncode:OMNH" ; Times: 3
+	Query: "catalognumber:23924.0 institutioncode:OMNH" ; Times: 4
+	Query: "catalognumber:10509.0 institutioncode:OMNH" ; Times: 4
+	Query: "catalognumber:26139.0 institutioncode:OMNH" ; Times: 4
+	Query: "catalognumber:28647.0 institutioncode:OMNH" ; Times: 4
+	Query: "catalognumber:26466.0 institutioncode:OMNH" ; Times: 4
+	Query: "catalognumber:18976.0 institutioncode:OMNH" ; Times: 4
+	Query: "catalognumber:10165.0 institutioncode:OMNH" ; Times: 5
+	Query: "specificepithet:contortrix genus:Agkistrodon stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "catalognumber:34460.0 institutioncode:OMNH" ; Times: 5
+	Query: "catalognumber:26114.0 institutioncode:OMNH" ; Times: 3
+	Query: "catalognumber:41831.0 institutioncode:OMNH" ; Times: 2
+	Query: "catalognumber:35194.0 institutioncode:OMNH" ; Times: 2
+	Query: "catalognumber:11621.0 institutioncode:OMNH" ; Times: 2
+	Query: "catalognumber:16151.0 institutioncode:OMNH" ; Times: 3
+	Query: "41859 institutioncode:OMNH" ; Times: 2
+	Query: "44212 institutioncode:OMNH" ; Times: 1
+	Query: "catalognumber:13559.0 institutioncode:OMNH" ; Times: 4
+	Query: "catalognumber:23546.0 institutioncode:OMNH" ; Times: 4
+	Query: "catalognumber:10974.0 institutioncode:OMNH" ; Times: 3
+	Query: "catalognumber:13366.0 institutioncode:OMNH" ; Times: 4
+	Query: "catalognumber:17029.0 institutioncode:OMNH" ; Times: 4
+	Query: "catalognumber:26446.0 institutioncode:OMNH" ; Times: 4
+	Query: "catalognumber:26315.0 institutioncode:OMNH" ; Times: 3
+	Query: "catalognumber:10973.0 institutioncode:OMNH" ; Times: 1
+	Query: "catalognumber:10505.0 institutioncode:OMNH" ; Times: 2
+	Query: "catalognumber:43806.0 institutioncode:OMNH" ; Times: 2
+	Query: "catalognumber:42891.0 institutioncode:OMNH" ; Times: 1
+	Query: "catalognumber:42890.0 institutioncode:OMNH" ; Times: 1
+	Query: "catalognumber:24980.0 institutioncode:OMNH" ; Times: 2
+	Query: "catalognumber:10977.0 institutioncode:OMNH" ; Times: 2
+	Query: "catalognumber:27787.0 institutioncode:OMNH" ; Times: 1
+	Query: "paleosuchus trigonatus" ; Times: 7
+	Query: "catalognumber:26123.0 institutioncode:OMNH" ; Times: 2
+	Query: "catalognumber:28779.0 institutioncode:OMNH" ; Times: 2
+	Query: "catalognumber:13561.0 institutioncode:OMNH" ; Times: 3
+	Query: "catalognumber:13560.0 institutioncode:OMNH" ; Times: 4
+	Query: "catalognumber:26310.0 institutioncode:OMNH" ; Times: 3
+	Query: "catalognumber:29978.0 institutioncode:OMNH" ; Times: 2
+	Query: "catalognumber:22844.0 institutioncode:OMNH" ; Times: 4
+	Query: "genus:Agkistrodon county:&#34;Hocking&#34; stateprovince:&#34;Ohio&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:35592.0 institutioncode:OMNH" ; Times: 4
+	Query: "catalognumber:10358.0 institutioncode:OMNH" ; Times: 2
+	Query: "catalognumber:10094.0 institutioncode:OMNH" ; Times: 3
+	Query: "catalognumber:42665.0 institutioncode:OMNH" ; Times: 2
+	Query: "Glyptemys insculpta." ; Times: 8
+	Query: "catalognumber:26142.0 institutioncode:OMNH" ; Times: 1
+	Query: "catalognumber:45151.0 institutioncode:OMNH" ; Times: 2
+	Query: "catalognumber:24959.0 institutioncode:OMNH" ; Times: 4
+	Query: "catalognumber:34276.0 institutioncode:OMNH" ; Times: 2
+	Query: "catalognumber:26078.0 institutioncode:OMNH" ; Times: 1
+	Query: "catalognumber:25043.0 institutioncode:OMNH" ; Times: 3
+	Query: "catalognumber:34044.0 institutioncode:OMNH" ; Times: 4
+	Query: "catalognumber:22956.0 institutioncode:OMNH" ; Times: 4
+	Query: "catalognumber:10097.0 institutioncode:OMNH" ; Times: 3
+	Query: "OMNH Gonatodes antillensis" ; Times: 1
+	Query: "catalognumber:26141.0 institutioncode:OMNH" ; Times: 4
+	Query: "catalognumber:26135.0 institutioncode:OMNH" ; Times: 4
+	Query: "catalognumber:34333.0 institutioncode:OMNH" ; Times: 3
+	Query: "catalognumber:10965.0 institutioncode:OMNH" ; Times: 2
+	Query: "catalognumber:42653.0 institutioncode:OMNH" ; Times: 1
+	Query: "scientificname:Melanosuchus niger" ; Times: 1
+	Query: "catalognumber:26115.0 institutioncode:OMNH" ; Times: 1
+	Query: "catalognumber:44213.0 institutioncode:OMNH" ; Times: 1
+	Query: "catalognumber:42667.0 institutioncode:OMNH" ; Times: 1
+	Query: "catalognumber:10099.0 institutioncode:OMNH" ; Times: 3
+	Query: "catalognumber:43807.0 institutioncode:OMNH" ; Times: 1
+	Query: "catalognumber:23139.0 institutioncode:OMNH" ; Times: 3
+	Query: "catalognumber:26116.0 institutioncode:OMNH" ; Times: 3
+	Query: "catalognumber:10512.0 institutioncode:OMNH" ; Times: 3
+	Query: "order:Squamata stateprovince:&#34;Tamaulipas&#34;" ; Times: 3
+	Query: "catalognumber:28778.0 institutioncode:OMNH" ; Times: 1
+	Query: "catalognumber:26504.0 institutioncode:OMNH" ; Times: 4
+	Query: "catalognumber:35601.0 institutioncode:OMNH" ; Times: 4
+	Query: "Gonocephalus chamaeleontinus" ; Times: 1
+	Query: "catalognumber:8788.0 institutioncode:OMNH" ; Times: 2
+	Query: "catalognumber:26445.0 institutioncode:OMNH" ; Times: 4
+	Query: "specificepithet:sirtalis genus:Thamnophis stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "catalognumber:29262.0 institutioncode:OMNH" ; Times: 1
+	Query: "catalognumber:26314.0 institutioncode:OMNH" ; Times: 2
+	Query: "Heterodon nasicus stateprovince:&#34;Texas&#34; year &gt;= 1930 year &lt;= 2019" ; Times: 1
+	Query: "catalognumber:42652.0 institutioncode:OMNH" ; Times: 2
+	Query: "country:Ecuador scientificname:Leptodeira annulata " ; Times: 2
+	Query: "catalognumber:25042.0 institutioncode:OMNH" ; Times: 4
+	Query: "genus:Diadophis institutioncode:OMNH" ; Times: 1
+	Query: "35575" ; Times: 1
+	Query: "catalognumber:42888.0 institutioncode:OMNH" ; Times: 1
+	Query: "catalognumber:18975.0 institutioncode:OMNH" ; Times: 2
+	Query: "catalognumber:10513.0 institutioncode:OMNH" ; Times: 1
+	Query: "catalognumber:42650.0 institutioncode:OMNH" ; Times: 2
+	Query: "Bothrops brazili" ; Times: 38
+	Query: "catalognumber:26137.0 institutioncode:OMNH" ; Times: 2
+	Query: "OMNH 23790" ; Times: 2
+	Query: "catalognumber:25256.0 institutioncode:OMNH" ; Times: 4
+	Query: "catalognumber:26112.0 institutioncode:OMNH" ; Times: 2
+	Query: "catalognumber:16150.0 institutioncode:OMNH" ; Times: 3
+	Query: "sceloporus horridus" ; Times: 1
+	Query: "catalognumber:34234.0 institutioncode:OMNH" ; Times: 4
+	Query: "OMNH 36264" ; Times: 4
+	Query: "catalognumber:34344.0 institutioncode:OMNH" ; Times: 1
+	Query: "catalognumber:34329.0 institutioncode:OMNH" ; Times: 3
+	Query: "catalognumber:42892.0 institutioncode:OMNH" ; Times: 1
+	Query: "genus:Thamnophis stateprovince:&#34;Louisiana&#34;" ; Times: 2
+	Query: "catalognumber:42670.0 institutioncode:OMNH" ; Times: 1
+	Query: "catalognumber:34359.0 institutioncode:OMNH" ; Times: 3
+	Query: "specificepithet:modestum genus:Phrynosoma stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "catalognumber:42663.0 institutioncode:OMNH" ; Times: 2
+	Query: "catalognumber:22962.0 institutioncode:OMNH" ; Times: 2
+	Query: "catalognumber:26447.0 institutioncode:OMNH" ; Times: 3
+	Query: "catalognumber:8878.0 institutioncode:OMNH" ; Times: 1
+	Query: "catalognumber:34337.0 institutioncode:OMNH" ; Times: 1
+	Query: "catalognumber:34343.0 institutioncode:OMNH" ; Times: 2
+	Query: "catalognumber:35139.0 institutioncode:OMNH" ; Times: 2
+	Query: "catalognumber:45053.0 institutioncode:OMNH" ; Times: 2
+	Query: "genus:Pituophis preparations:skeleton" ; Times: 3
+	Query: "catalognumber:13555.0 institutioncode:OMNH" ; Times: 4
+	Query: "catalognumber:42893.0 institutioncode:OMNH" ; Times: 2
+	Query: "catalognumber:8776.0 institutioncode:OMNH" ; Times: 2
+	Query: "12415" ; Times: 2
+	Query: "catalognumber:43502.0 institutioncode:OMNH" ; Times: 2
+	Query: "catalognumber:26145.0 institutioncode:OMNH" ; Times: 1
+	Query: "catalognumber:43919.0 institutioncode:OMNH" ; Times: 2
+	Query: "catalognumber:10353.0 institutioncode:OMNH" ; Times: 2
+	Query: "specificepithet:marmoratus genus:Polychrus" ; Times: 6
+	Query: "catalognumber:24991.0 institutioncode:OMNH" ; Times: 4
+	Query: "catalognumber:22787.0 institutioncode:OMNH" ; Times: 4
+	Query: "catalognumber:29976.0 institutioncode:OMNH" ; Times: 4
+	Query: "catalognumber:42666.0 institutioncode:OMNH" ; Times: 2
+	Query: "catalognumber:10990.0 institutioncode:OMNH" ; Times: 2
+	Query: "genus:Sonora family:Colubridae county:&#34;Kinney&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "catalognumber:22965.0 institutioncode:OMNH" ; Times: 3
+	Query: "catalognumber:29858.0 institutioncode:OMNH" ; Times: 2
+	Query: "genus:Diadophis stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "28568" ; Times: 1
+	Query: "catalognumber:9794.0 institutioncode:OMNH" ; Times: 4
+	Query: "specificepithet:grammicus genus:Sceloporus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Agkistrodon stateprovince:&#34;Ohio&#34; basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "catalognumber:18931.0 institutioncode:OMNH" ; Times: 4
+	Query: "catalognumber:42656.0 institutioncode:OMNH" ; Times: 3
+	Query: "catalognumber:29261.0 institutioncode:OMNH" ; Times: 1
+	Query: "catalognumber:34536.0 institutioncode:OMNH" ; Times: 3
+	Query: "catalognumber:43428.0 institutioncode:OMNH" ; Times: 2
+	Query: "catalognumber:22960.0 institutioncode:OMNH" ; Times: 4
+	Query: "Heterodon platirhinos stateprovince:&#34;Texas&#34; year &gt;= 1930 year &lt;= 2019" ; Times: 1
+	Query: "genus:Pituophis country:&#34;United States&#34; preparations:skeleton" ; Times: 1
+	Query: "catalognumber:10963.0 institutioncode:OMNH" ; Times: 4
+	Query: "catalognumber:8782.0 institutioncode:OMNH" ; Times: 2
+	Query: "catalognumber:35101.0 institutioncode:OMNH" ; Times: 2
+	Query: "catalognumber:10095.0 institutioncode:OMNH" ; Times: 2
+	Query: "catalognumber:27730.0 institutioncode:OMNH" ; Times: 4
+	Query: "catalognumber:26194.0 institutioncode:OMNH" ; Times: 2
+	Query: "catalognumber:26311.0 institutioncode:OMNH" ; Times: 4
+	Query: "genus:Pantherophis stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "catalognumber:26032.0 institutioncode:OMNH" ; Times: 4
+	Query: "catalognumber:42662.0 institutioncode:OMNH" ; Times: 2
+	Query: "catalognumber:23056.0 institutioncode:OMNH" ; Times: 3
+	Query: "catalognumber:7329.0 institutioncode:OMNH" ; Times: 4
+	Query: "catalognumber:26077.0 institutioncode:OMNH" ; Times: 2
+	Query: "catalognumber:10966.0 institutioncode:OMNH" ; Times: 3
+	Query: "catalognumber:45154.0 institutioncode:OMNH" ; Times: 2
+	Query: "catalognumber:34990.0 institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:poinsettii genus:Sceloporus county:&#34;Val Verde&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "catalognumber:12513.0 institutioncode:OMNH" ; Times: 2
+	Query: "catalognumber:26313.0 institutioncode:OMNH" ; Times: 4
+	Query: "catalognumber:1404.0 institutioncode:OMNH" ; Times: 4
+	Query: "catalognumber:25330.0 institutioncode:OMNH" ; Times: 2
+	Query: "catalognumber:532.0 institutioncode:OMNH" ; Times: 4
+	Query: "Oxyrhopus petola" ; Times: 2
+	Query: "catalognumber:35102.0 institutioncode:OMNH" ; Times: 4
+	Query: "genus:Crotalus county:&#34;Jackson&#34; stateprovince:&#34;Missouri&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:35118.0 institutioncode:OMNH" ; Times: 2
+	Query: "catalognumber:42887.0 institutioncode:OMNH" ; Times: 2
+	Query: "catalognumber:24992.0 institutioncode:OMNH" ; Times: 3
+	Query: "catalognumber:13556.0 institutioncode:OMNH" ; Times: 4
+	Query: "catalognumber:26472.0 institutioncode:OMNH" ; Times: 2
+	Query: "catalognumber:27039.0 institutioncode:OMNH" ; Times: 2
+	Query: "catalognumber:26117.0 institutioncode:OMNH" ; Times: 1
+	Query: "catalognumber:29260.0 institutioncode:OMNH" ; Times: 2
+	Query: "catalognumber:34334.0 institutioncode:OMNH" ; Times: 1
+	Query: "OMNH 34669" ; Times: 2
+	Query: "catalognumber:26905.0 institutioncode:OMNH" ; Times: 4
+	Query: "catalognumber:25045.0 institutioncode:OMNH" ; Times: 2
+	Query: "catalognumber:28780.0 institutioncode:OMNH" ; Times: 4
+	Query: "catalognumber:41834.0 institutioncode:OMNH" ; Times: 2
+	Query: "catalognumber:25052.0 institutioncode:OMNH" ; Times: 2
+	Query: "plestiodon obsoletus stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "catalognumber:35595.0 institutioncode:OMNH" ; Times: 3
+	Query: "catalognumber:38068.0 institutioncode:OMNH" ; Times: 2
+	Query: "catalognumber:8778.0 institutioncode:OMNH" ; Times: 2
+	Query: "catalognumber:42664.0 institutioncode:OMNH" ; Times: 2
+	Query: "catalognumber:10357.0 institutioncode:OMNH" ; Times: 4
+	Query: "specificepithet:neuwiedii genus:Pseudoboa country:&#34;Guyana&#34;" ; Times: 3
+	Query: "catalognumber:26140.0 institutioncode:OMNH" ; Times: 2
+	Query: "catalognumber:26113.0 institutioncode:OMNH" ; Times: 2
+	Query: "catalognumber:8789.0 institutioncode:OMNH" ; Times: 3
+	Query: "Kinosternon flavescens stateprovince:&#34;Texas&#34; year &gt;= 1930 year &lt;= 2019" ; Times: 1
+	Query: "catalognumber:34358.0 institutioncode:OMNH" ; Times: 2
+	Query: "catalognumber:23055.0 institutioncode:OMNH" ; Times: 3
+	Query: "catalognumber:658.0 institutioncode:OMNH" ; Times: 2
+	Query: "37865" ; Times: 1
+	Query: "catalognumber:10507.0 institutioncode:OMNH" ; Times: 2
+	Query: "catalognumber:26977.0 institutioncode:OMNH" ; Times: 2
+	Query: "catalognumber:25044.0 institutioncode:OMNH" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 66 (out of 842 download events in this period)
+Total number of records downloaded: 1499
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 58
+	Country: Unknown ; Times: 1
+	Country: Colombia ; Times: 4
+	Country: Brazil ; Times: 2
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-11-20 ; Times: 4
+	Date: 2020-11-21 ; Times: 5
+	Date: 2020-11-22 ; Times: 8
+	Date: 2020-11-05 ; Times: 3
+	Date: 2020-11-19 ; Times: 9
+	Date: 2020-11-18 ; Times: 2
+	Date: 2020-11-08 ; Times: 1
+	Date: 2020-11-27 ; Times: 2
+	Date: 2020-11-15 ; Times: 1
+	Date: 2020-11-11 ; Times: 4
+	Date: 2020-11-04 ; Times: 4
+	Date: 2020-11-16 ; Times: 4
+	Date: 2020-11-02 ; Times: 1
+	Date: 2020-11-10 ; Times: 2
+	Date: 2020-11-13 ; Times: 2
+	Date: 2020-11-12 ; Times: 1
+	Date: 2020-11-23 ; Times: 7
+	Date: 2020-11-24 ; Times: 1
+	Date: 2020-11-30 ; Times: 1
+	Date: 2020-11-17 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "paleosuchus trigonatus" ; Times: 2
+	Query: "emydoidea blandingii" ; Times: 3
+	Query: "Opheodrys aestivus" ; Times: 1
+	Query: "specificepithet:variegatus genus:coleonyx" ; Times: 1
+	Query: "Bison bison" ; Times: 1
+	Query: "Glyptemys insculpta." ; Times: 2
+	Query: "Heterodon platirhinos stateprovince:&#34;Texas&#34; year &gt;= 1930 year &lt;= 2019" ; Times: 1
+	Query: "specificepithet:viridis genus:crotalus year &gt;= 1970 year &lt;= 2020" ; Times: 1
+	Query: "Phrynosoma hernandesi" ; Times: 1
+	Query: "opheodrys aestivus" ; Times: 1
+	Query: "Trachemys" ; Times: 1
+	Query: "Thamnophis proximus stateprovince:&#34;Texas&#34; year &gt;= 1930 year &lt;= 2019" ; Times: 1
+	Query: "prairie rattlesnake" ; Times: 1
+	Query: "Heterodon nasicus stateprovince:&#34;Texas&#34; year &gt;= 1930 year &lt;= 2019" ; Times: 1
+	Query: "crotalus viridis" ; Times: 2
+	Query: "specificepithet:catenifer genus:Pituophis stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "Glyptemys insculpta" ; Times: 34
+	Query: "Crotalus adamanteus" ; Times: 1
+	Query: "Jaculus jaculus" ; Times: 1
+	Query: "tabasco" ; Times: 1
+	Query: "genus:dipsosaurus stateprovince:&#34;baja&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "genus:trachemys hassex:1" ; Times: 1
+	Query: "Kinosternon flavescens stateprovince:&#34;Texas&#34; year &gt;= 1930 year &lt;= 2019" ; Times: 1
+	Query: "glyptemys insculpta" ; Times: 5
+
+
+End of report.
